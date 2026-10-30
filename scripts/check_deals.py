@@ -38,6 +38,7 @@ from urlkit import pair_links, sanitize_url, is_aggregator  # noqa: E402
 import rss_io  # noqa: E402
 import build_site  # noqa: E402
 import build_brief  # noqa: E402
+import poster  # noqa: E402
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -752,6 +753,12 @@ def _emit(today, now, new_deals, new_res, exp_all, exp_only, events, fails,
         f.write(report)
     with open(BRIEF_TXT, "w", encoding="utf-8") as f:
         f.write(brief_text + "\n")
+
+    # 4.5) 分页预览：把当日结论切成固定尺寸页面，供截图发图文/短视频
+    try:
+        poster.render(payload)
+    except Exception as e:  # noqa: BLE001
+        print(f"[warn] 分页预览生成失败：{type(e).__name__}: {e}")
 
     # 5) 前三步的原始产物各留一份，出问题能逐环节回溯
     os.makedirs(STAGES, exist_ok=True)

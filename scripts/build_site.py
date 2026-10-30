@@ -69,6 +69,8 @@ h1 em{font-style:normal;color:#e8543c}
       display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .foot .l{font-size:12px;color:#6f6757;line-height:1.7}
 .foot .r{font-size:11px;color:#a89f8c;letter-spacing:.08em;text-align:right;line-height:1.7}
+.foot .r a{color:inherit;text-decoration:none;border-bottom:1px solid #d8cfbd}
+.foot .r a:hover{color:#6f6757}
 details{margin-top:8px}
 summary{cursor:pointer;font-size:13px;font-weight:700;color:#3a352c;padding:10px 0;
         border-top:1px solid #e9e1d3;list-style:none}
@@ -225,7 +227,9 @@ def render(payload):
     parts.append('<div class="body">%s</div>' % "".join(body))
     parts.append('<div class="foot"><div class="l">在架 %d 条 · 近 %d 天到期 %d 条 · 本次新增 %d 条<br>'
                  '源数据 deals.xml ｜ 全部链接已去推荐码</div>'
-                 '<div class="r">%s<br>RSS · data.json</div></div>'
+                 '<div class="r">%s<br><a href="deals.xml">RSS</a> · '
+                 '<a href="data.json">data.json</a> · '
+                 '<a href="poster.html">分页预览</a></div></div>'
                  % (c["total"], d.get("near_days", 3), c["expiring"], c["new"],
                     esc(d.get("generated_at", ""))))
 
