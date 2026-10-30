@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行缓存（S7 会落一个 js 到 data/.cache）
+data/.cache/
+
+# 本地环境与凭证：绝不入库
+.env
+.env.*
+*.local
+secrets.*
+*.pem
+*.key
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+node_modules/
+
+# 本地预览图
+.preview*.png

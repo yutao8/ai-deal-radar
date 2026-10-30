@@ -1,0 +1,3 @@
+# 统一换行，避免 Windows 提交的 CRLF 影响 Linux runner 上的 shell / python
+* text=auto eol=lf
+*.png binary
