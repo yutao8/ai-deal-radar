@@ -532,7 +532,8 @@ def main():
         for sid, why in fails:
             print(f"- {NAME.get(sid, sid)}：{why}")
         print("\n基线未改动，下次运行重试。")
-        return 3 if not CI else 0
+        # 全源失败一律让运行变红：CI 里静默返回 0 会让「数据没更新」看起来像「今天没变化」
+        return 3
 
     seen, uniq = set(), []
     for r in records:
