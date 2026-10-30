@@ -297,6 +297,7 @@ JS = r"""
       return '<a class="' + (t === tpl ? 'cur' : '') + '" href="' + s + '">' + extra + '</a>';
     }
     return '<div id="bar"><b>分页预览</b>' +
+      '<a href="index.html">← 回列表</a>' +
       link('xhs','小红书') + link('dy','抖音') + link('list','清单') +
       '<a href="?tpl=' + tpl + '&all=1">全部页</a>' +
       '<span class="sp"></span>' +

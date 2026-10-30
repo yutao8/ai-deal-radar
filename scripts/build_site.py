@@ -19,6 +19,7 @@ DOCS = os.path.join(ROOT, "docs")
 RSS = os.path.join(DOCS, "deals.xml")
 sys.path.insert(0, HERE)
 import rss_io  # noqa: E402
+import poster  # noqa: E402
 
 CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
@@ -82,6 +83,16 @@ details[open] summary:before{content:"▾ "}
          font-size:12.5px;color:#8a6a1e;margin-bottom:22px;line-height:1.7}
 .newsrc{display:inline-block;font-size:11px;color:#8a8175;background:#f0e9db;
         padding:3px 9px;border-radius:12px;margin-top:6px}
+.posterbar{display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+           background:#f0e9db;border-bottom:1px solid #e2d8c6;padding:14px 38px}
+.posterbar .lab{font-size:12px;font-weight:700;color:#6f6757;letter-spacing:.04em;margin-right:2px}
+.pb{font-size:12.5px;text-decoration:none;padding:7px 14px;border-radius:18px;
+    background:#fbf8f2;color:#3a352c;border:1px solid #ded3bf;font-weight:700;white-space:nowrap}
+.pb:hover{border-color:#b9ac93}
+.pb.pri{background:#1b1915;color:#f6f1e7;border-color:#1b1915}
+.pb.pri:hover{opacity:.86}
+.pb .num{font-weight:400;color:#9c9384;margin-left:5px;font-size:11.5px}
+.pb.pri .num{color:#a89f8c}
 @media(max-width:560px){
   body{padding:0}
   .wrap{border-radius:0}
@@ -90,6 +101,9 @@ details[open] summary:before{content:"▾ "}
   .foot{margin:6px 20px 0}
   h1{font-size:32px}
   .it-t{font-size:17px}
+  .posterbar{padding:12px 20px;gap:7px}
+  .posterbar .lab{width:100%;margin-bottom:2px}
+  .pb{padding:6px 12px;font-size:12px}
 }
 """
 
@@ -189,6 +203,17 @@ def render(payload):
                 len(today_items), len(soon1), len(soon2))]
 
     body = []
+    # 截图入口：放在页头正下方，一眼能看到、一点就到对应模板。
+    # 页数由 poster 运行时算，这里不重复实现一套分页逻辑，避免两处口径不一致。
+    parts.append(
+        '<div class="posterbar">'
+        '<span class="lab">想发图文？</span>'
+        '<a class="pb pri" href="poster.html?tpl=xhs&amp;p=1">小红书 3:4</a>'
+        '<a class="pb" href="poster.html?tpl=dy&amp;p=1">抖音 9:16</a>'
+        '<a class="pb" href="poster.html?tpl=list&amp;p=1">清单 3:4</a>'
+        '<a class="pb" href="poster.html?tpl=xhs&amp;all=1">看全部页</a>'
+        '</div>'
+    )
     if fails:
         body.append('<div class="warnbox">⚠ %d 个来源本次异常，结果可能不完整：%s</div>'
                     % (len(fails), esc("、".join(f.get("name", "") for f in fails))))
