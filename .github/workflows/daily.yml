@@ -1,0 +1,76 @@
+name: daily-collect
+
+# 每天 07:00（北京时间 = UTC 前一天 23:00）抓取七源 → 筛选去重 → 出文案，并把三步产物提交回仓库。
+# 推送端只读 docs/data.json 的 brief / should_push，不做任何判断。
+# 每日提交会让仓库保持活跃，避免 GitHub 因「60 天无提交」自动停用定时任务。
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write      # 提交 RSS 与编译产物；Pages 由 main 分支 /docs 直出
+
+concurrency:
+  group: daily-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # 采集前先扫一遍仓库，防止凭证/个人信息被带进来
+      - name: 隐私闸门（入库前）
+        run: python scripts/privacy_check.py
+
+      # S1 采集 → S2 筛选去重 → S3 文案，一次跑完；全源失败会返回非 0 让本次运行变红
+      - name: 抓取 · 清洗 · 去重 · 出文案
+        run: python scripts/check_deals.py --ci
+
+      # 编译产物同样要过一遍：推荐码不能出现在链接里
+      - name: 隐私闸门（产物）
+        run: python scripts/privacy_check.py
+
+      # 把本次结论写进运行摘要，随时能在 Actions 页面看到推的是什么
+      - name: 运行摘要
+        if: always()
+        run: |
+          echo "## AI 优惠雷达" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          python - >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import json
+          d = json.load(open("docs/data.json", encoding="utf-8"))
+          c = d["counts"]
+          print("- 快照：`%s`" % d["generated_at"])
+          print("- 在架 %d 条｜新增 %d｜窗口内截止 %d｜需提醒 %d｜来源异常 %d"
+                % (c["total"], c["new"], c["expiring"], c["expiring_new"], c["failed_sources"]))
+          print("- should_push：**%s**" % d.get("should_push"))
+          print("")
+          print("```")
+          print(d.get("brief") or "(无文案)")
+          print("```")
+          PY
+
+      - name: 提交产物
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data/state.json
+          if git diff --cached --quiet; then
+            echo "本次无可提交变化"
+          else
+            git commit -m "chore(data): $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi
