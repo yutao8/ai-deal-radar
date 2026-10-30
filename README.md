@@ -58,15 +58,16 @@
 
 ```jsonc
 {
-  "schema": 1,
+  "schema": 2,
   "generated_at": "2026-10-30T14:29:00+08:00",
   "generated_date": "2026-10-30",
   "near_days": 3,
   "has_changes": true,          // 当天是否有需要推送的变化
+  "should_push": true,          // S3 的最终判定：是否值得打扰用户
   "counts": {
-    "total": 290,               // 在架总数
+    "total": 258,               // 在架总数（跨站合并后）
     "new": 0,                   // 新增（活动 + 免费资源）
-    "expiring": 15,             // 3 天内到期，全部
+    "expiring": 14,             // 3 天内到期，全部
     "expiring_new": 0,          // 其中本次需要提醒的
     "failed_sources": 0
   },
@@ -76,6 +77,8 @@
   "expiring_new": [Item],       // 需要提醒的子集，供推送判定
   "events": [{ "at": "", "text": "" }],
   "failed_sources": [{ "source": "", "name": "", "reason": "" }],
+  "brief": "【AI 优惠雷达】10-30 14:33\n\n■ 新活动\n...",  // S3 成品文案，推送端原样发送
+  "brief_meta": { "chars": 994, "dropped": 0, "items": 13, "limit": 1500 },
   "report_md": "## 当天报告原文"
 }
 ```
@@ -97,6 +100,21 @@
 }
 ```
 
+## 流水线：三步，每步留产物
+
+判断全部在这三步里做完，下游只消费最后一步的 `brief`。
+
+| 阶段 | 脚本 | 产物 | 条数口径 |
+|------|------|------|----------|
+| S1 采集 | `check_deals.py`（七源解析 + 链接清洗） | `docs/stages/01_raw.json` | 290（含跨源重复） |
+| S2 筛选去重 | `check_deals.py`（`merge_dups`） | `docs/deals.xml`（唯一真源）、`docs/stages/02_active.json` | 258（当前有效，合并后） |
+| S3 文案 | `build_brief.py`（`compose`） | `docs/brief.txt`、`docs/stages/03_brief.json`、`data.json` 的 `brief` | 推送条目数 |
+
+- **为什么每一步都留一份**：S1 记录「到底抓到了什么」，解析器被网站改版打挂时能直接对比；S2 记录合并结果，跨站去重规则调整后能看出哪几条被并；S3 记录实际发出的文本，同一份 `generated_at` 可复现。
+- **口径只在一处算**：`docs/deals.xml` 是唯一真源，`data.json`、`index.html`、`brief` 全部从它派生，所以 `counts.total` 与报告里的「在架」必然一致。
+- **文案的截断优先级**：今天截止 → 剩 1 天 → 其它新条目 → 剩 2 天以上；超 1500 字时从后往前牺牲，末尾标注「另有 N 条略」。
+- **下游不做判断**：推送端只读 `should_push` 与 `brief`，拿不到 `brief` 就报错停下，不会在本地重拼一份。
+
 ## 提醒口径
 
 - **新活动**：基线里不存在 → 立即提醒。
@@ -111,6 +129,7 @@ python scripts/check_deals.py --ci         # CI 模式，恒返回 0
 python scripts/check_deals.py --no-update  # 只看结果，不改基线
 python scripts/privacy_check.py            # 隐私闸门
 python scripts/build_site.py               # 单独重渲染静态页
+python scripts/build_brief.py              # 单独重出推送文案（读 docs/data.json）
 ```
 
 依赖：Python 3.9+（仅标准库）、Node 18+（S7 的数据源是 UMD 模块，需要 node 求值）。

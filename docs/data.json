@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-10-30T14:33:49+08:00",
+ "generated_at": "2026-10-30T15:40:59+08:00",
  "generated_date": "2026-10-30",
  "near_days": 3,
  "has_changes": false,
@@ -274,5 +274,13 @@
  "expiring_new": [],
  "events": [],
  "failed_sources": [],
- "report_md": "NO_CHANGE\n\n2026-10-30 14:33 检查完成：在架 290 条，无新增、无新进入 3 天窗口的活动。\n"
+ "brief": "【AI 优惠雷达】10-30 15:40\n\n本次无新增活动，也无新进入提醒窗口的截止条目。",
+ "brief_meta": {
+  "chars": 45,
+  "dropped": 0,
+  "items": 0,
+  "limit": 1500
+ },
+ "should_push": false,
+ "report_md": "NO_CHANGE\n\n2026-10-30 15:40 检查完成：在架 258 条，无新增、无新进入 3 天窗口的活动。\n"
 }

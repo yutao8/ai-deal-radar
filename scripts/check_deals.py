@@ -37,6 +37,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from urlkit import pair_links, sanitize_url, is_aggregator  # noqa: E402
 import rss_io  # noqa: E402
 import build_site  # noqa: E402
+import build_brief  # noqa: E402
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -48,6 +49,8 @@ DATA_JSON = os.path.join(DOCS, "data.json")
 CATALOG_JSON = os.path.join(DOCS, "catalog.json")
 RSS_PATH = os.path.join(DOCS, "deals.xml")
 REPORT_MD = os.path.join(DOCS, "latest.md")
+BRIEF_TXT = os.path.join(DOCS, "brief.txt")
+STAGES = os.path.join(DOCS, "stages")
 CACHE = os.path.join(ROOT, "data", ".cache")
 CN = timezone(timedelta(hours=8))
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -578,6 +581,10 @@ def main():
     new_deals = [x for x in new_items if x["kind"] == "deal"]
     new_res = [x for x in new_items if x["kind"] == "res"]
 
+    # 报告里的「在架」必须和 data.json 的 counts.total 同一口径（跨站合并后），
+    # 否则会出现 report_md 写 290、counts.total 写 258 的矛盾。
+    shelf_count = len(merge_dups(uniq))
+
     L = []
     if first_baseline:
         cnt = {}
@@ -585,7 +592,7 @@ def main():
             cnt[it["src"]] = cnt.get(it["src"], 0) + 1
         L.append(f"# AI 优惠雷达 · 基线建立（{today.isoformat()}）")
         L.append("")
-        L.append(f"已建立基线，监控 **{len(uniq)}** 条："
+        L.append(f"已建立基线，监控 **{shelf_count}** 条（跨站合并后）："
                  + "、".join(f"{NAME[k]} {v}" for k, v in cnt.items()))
         L.append("")
         L.append(f"### 当前 {NEAR_DAYS} 天内即将截止（{len(merge_dups(exp_all))} 条）")
@@ -600,12 +607,12 @@ def main():
     elif not new_items and not exp_hit and not fresh_events:
         report = ("NO_CHANGE\n\n"
                   f"{today.isoformat()} {now.strftime('%H:%M')} 检查完成："
-                  f"在架 {len(uniq)} 条，无新增、无新进入 {NEAR_DAYS} 天窗口的活动。\n")
+                  f"在架 {shelf_count} 条，无新增、无新进入 {NEAR_DAYS} 天窗口的活动。\n")
         print(report)
         if UPDATE:
             _save(known, notified, uniq, exp_hit, seen, now, state, report)
         _emit(today, now, new_deals, new_res, exp_all, exp_only, fresh_events, fails,
-              len(uniq), False, report, catalog=uniq)
+              shelf_count, False, report, catalog=uniq, raw=records)
         return (10 if not CI else 0)
     else:
         L.append(f"# AI 优惠雷达 · {today.isoformat()}（{now.strftime('%H:%M')}）")
@@ -669,16 +676,19 @@ def main():
     if UPDATE:
         _save(known, notified, uniq, exp_hit, seen, now, state, report)
     _emit(today, now, new_deals, new_res, exp_all, exp_only, fresh_events,
-          fails, len(uniq), True, report, catalog=uniq)
+          fails, shelf_count, True, report, catalog=uniq, raw=records)
     return 0
 
 
 def _emit(today, now, new_deals, new_res, exp_all, exp_only, events, fails,
-          total, has_changes, report, catalog=None):
-    """抓取结果 → docs/deals.xml（唯一真源）→ 再由 RSS 派生 data.json 与 index.html。
+          total, has_changes, report, catalog=None, raw=None):
+    """流水线三步，每步留产物：
 
-    GitHub 侧的职责到此为止：抓取、清洗、跨站去重、产出一份 RSS。
-    界面与推送数据都只读这份 RSS，避免多处各算一套口径。
+    S1 采集   → docs/stages/01_raw.json     全量原始（含跨源重复、未 key 去重）
+    S2 筛选去重 → docs/deals.xml（唯一真源）+ docs/stages/02_active.json
+    S3 文案   → docs/brief.txt + docs/stages/03_brief.json（推送端只读这一份）
+
+    界面与推送数据都只从 RSS 派生，避免多处各算一套口径。
     """
     new_keys = {x["key"] for x in new_deals} | {x["key"] for x in new_res}
     notify_keys = {x["key"] for x in exp_only} | new_keys
@@ -717,6 +727,15 @@ def _emit(today, now, new_deals, new_res, exp_all, exp_only, events, fails,
     payload["failed_sources"] = [{"source": s, "name": NAME.get(s, s), "reason": w}
                                  for s, w in fails]
     payload["counts"]["failed_sources"] = len(fails)
+
+    # 4) S3 文案：只消费 S2 的结论，推送端一字不改直接发
+    brief_text, brief_meta = build_brief.compose(payload)
+    payload["brief"] = brief_text
+    payload["brief_meta"] = brief_meta
+    # 是否值得打扰用户，由这里一次性判定，下游不再二次判断
+    payload["should_push"] = bool(has_changes
+                                  or payload["counts"].get("new")
+                                  or payload["counts"].get("expiring_new"))
     payload["report_md"] = report
 
     os.makedirs(DOCS, exist_ok=True)
@@ -730,6 +749,44 @@ def _emit(today, now, new_deals, new_res, exp_all, exp_only, events, fails,
         }, f, ensure_ascii=False, indent=1, default=str)
     with open(REPORT_MD, "w", encoding="utf-8") as f:
         f.write(report)
+    with open(BRIEF_TXT, "w", encoding="utf-8") as f:
+        f.write(brief_text + "\n")
+
+    # 5) 前三步的原始产物各留一份，出问题能逐环节回溯
+    os.makedirs(STAGES, exist_ok=True)
+    by_src = {}
+    for it in (raw or []):
+        by_src[it.get("src", "?")] = by_src.get(it.get("src", "?"), 0) + 1
+    _dump(os.path.join(STAGES, "01_raw.json"), {
+        "stage": 1,
+        "title": "采集：七个来源的原始条目，未 key 去重、未跨站合并",
+        "generated_at": payload["generated_at"],
+        "count": len(raw or []),
+        "by_source": {NAME.get(k, k): v for k, v in sorted(by_src.items())},
+        "items": raw or [],
+    }, compact=True)
+    _dump(os.path.join(STAGES, "02_active.json"), {
+        "stage": 2,
+        "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
+        "generated_at": payload["generated_at"],
+        "count": len(merged),
+        "split": {"deal": len([x for x in merged if x.get("kind") == "deal"]),
+                  "res": len([x for x in merged if x.get("kind") == "res"])},
+        "items": merged,
+    })
+    _dump(os.path.join(STAGES, "03_brief.json"), {
+        "stage": 3,
+        "title": "文案：手机可读纯文本，推送端直接发送",
+        "generated_at": payload["generated_at"],
+        "meta": brief_meta,
+        "brief": brief_text,
+    })
+
+
+def _dump(path, obj, compact=False):
+    kw = ({"separators": (",", ":")} if compact else {"indent": 1})
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, default=str, **kw)
 
 
 def _save(known, notified, uniq, exp_hit, seen, now, state, report=""):

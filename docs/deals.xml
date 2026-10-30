@@ -6,9 +6,9 @@
   <description>AI 厂商限时活动、免费额度与折扣，跨站去重后每日更新</description>
   <language>zh-CN</language>
   <generator>ai-deal-radar</generator>
-  <lastBuildDate>Fri, 30 Oct 2026 06:33:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 07:40:59 +0000</lastBuildDate>
   <atom:link href="https://raw.githubusercontent.com/yutao8/ai-deal-radar/main/docs/deals.xml" rel="self" type="application/rss+xml"/>
-  <deal:generatedAt>2026-10-30T14:33:49+08:00</deal:generatedAt>
+  <deal:generatedAt>2026-10-30T15:40:59+08:00</deal:generatedAt>
   <deal:total>258</deal:total>
   <deal:nearDays>3</deal:nearDays>
   <deal:expiring>14</deal:expiring>
@@ -18,7 +18,7 @@
     <title>Qoder 国际站 Community Boost 阶梯加赠最高 4,096 SOTA Credits</title>
     <link>https://docs.qoder.com/events/communityboost.md</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-intl-communityboost/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[阶梯加赠最高 4,096 SOTA Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-intl-communityboost/</deal:sourceUrl>
@@ -35,7 +35,7 @@
     <title>MiniMax M Plan 月付首月五折</title>
     <link>https://agent.minimax.cn/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[至10月31日，新订阅或升级M Plan月付首月5折，次月起原价续订]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-minimax-mplan-half-month/</deal:sourceUrl>
@@ -52,7 +52,7 @@
     <title>商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31）</title>
     <link>https://qoder.cn/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[DeepSeek-V4.1-Flash 系数 0x 不扣 Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/</deal:sourceUrl>
@@ -69,7 +69,7 @@
     <title>WorkBuddy Hy3 模型限免延期</title>
     <link>https://www.workbuddy.cn/pricing/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[Hy3 模型限免，延期至 10/31]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-workbuddy-hy3/</deal:sourceUrl>
@@ -86,7 +86,7 @@
     <title>WorkBuddy Hy4 preview 夜间限免</title>
     <link>https://www.workbuddy.cn/pricing/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[Hy4 preview 夜间限免（23:00-08:00）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-workbuddy-hy4preview/</deal:sourceUrl>
@@ -103,7 +103,7 @@
     <title>智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M10W4）</title>
     <link>https://autoclaw.z.ai/blog/news/M10W4/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[每周登录领 4000 万 Tokens（每账号限领一次）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/</deal:sourceUrl>
@@ -120,7 +120,7 @@
     <title>百度千帆：千帆企业版 Token Plan 指定模型闲时 2 折</title>
     <link>https://cloud.baidu.com/doc/qianfan/s/ymq8wwch2</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[指定模型闲时（22:00-次日8:00）调用低至 2 折]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/</deal:sourceUrl>
@@ -136,7 +136,7 @@
     <title>TRAE 企业版内置模型套餐内用量限时半价</title>
     <link>https://docs.trae.cn/enterprise_half-price-campaign-for-trae-built-in-models</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-trae-enterprise-half-price/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[企业版内置模型套餐内用量享 5 折，自动折后扣减]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-trae-enterprise-half-price/</deal:sourceUrl>
@@ -152,7 +152,7 @@
     <title>火山引擎：火山方舟新客资源特惠：全量资源按 0.5 倍标准价计费，每账号限享。</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/deal-volc-ark-c710b5b0/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[火山方舟新客资源特惠：全量资源按 0.5 倍标准价计费，每账号限享。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/deal-volc-ark-c710b5b0/</deal:sourceUrl>
@@ -167,7 +167,7 @@
     <title>火山引擎：AI 普惠季：豆包旗舰模型 19 元起。</title>
     <link>https://ai.volcengine.com/activity/ai618</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/deal-volc-ai618-66642f1d/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[AI 普惠季：豆包旗舰模型 19 元起。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/deal-volc-ai618-66642f1d/</deal:sourceUrl>
@@ -182,7 +182,7 @@
     <title>Qoder（阿里）：每日可领取 100 Credits。</title>
     <link>https://docs.qoder.cn/events/100credits</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/qoder-pricing-notice-a87d0838/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[每日可领取 100 Credits。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/qoder-pricing-notice-a87d0838/</deal:sourceUrl>
@@ -197,7 +197,7 @@
     <title>MiniMax：Go 年付 490 元（原价 588 元）</title>
     <link>https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&amp;biz_line=2&amp;resource_package_type=7</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/api-minimax-combo-66e0ac6b/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Plus：现价 490 元，目录价 588 元]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/api-minimax-combo-66e0ac6b/</deal:sourceUrl>
@@ -212,7 +212,7 @@
     <title>MiniMax：Explore 年付 1190 元（原价 1490 元）</title>
     <link>https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&amp;biz_line=2&amp;resource_package_type=7</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/api-minimax-combo-5232d897/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Max：现价 1190 元，目录价 1490 元]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/api-minimax-combo-5232d897/</deal:sourceUrl>
@@ -227,7 +227,7 @@
     <title>MiniMax：Build 年付 4690 元（原价 5628 元）</title>
     <link>https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&amp;biz_line=2&amp;resource_package_type=7</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/api-minimax-combo-974c551a/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Ultra：现价 4690 元，目录价 5628 元]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/api-minimax-combo-974c551a/</deal:sourceUrl>
@@ -242,7 +242,7 @@
     <title>火山引擎：Seedream 图像创作模型 5.0（含 Lite/Pro）新客资源特惠。</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/deal-volc-ark-14c00d03/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>组合权益</category>
     <description><![CDATA[Seedream 图像创作模型 5.0（含 Lite/Pro）新客资源特惠。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/deal-volc-ark-14c00d03/</deal:sourceUrl>
@@ -257,7 +257,7 @@
     <title>火山引擎：DeepSeek-V4-Flash 新客资源特惠，每账号限享一次。</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>组合权益</category>
     <description><![CDATA[DeepSeek-V4-Flash 新客资源特惠，每账号限享一次。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/</deal:sourceUrl>
@@ -272,7 +272,7 @@
     <title>火山引擎：豆包大模型 2.0 新客资源特惠，每账号限享一次，支持多模态，递减包有效期 1 个月。</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/deal-volc-ark-b0267145/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>组合权益</category>
     <description><![CDATA[豆包大模型 2.0 新客资源特惠，每账号限享一次，支持多模态，]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/deal-volc-ark-b0267145/</deal:sourceUrl>
@@ -287,7 +287,7 @@
     <title>火山引擎：节省计划月度钱包：新老用户同享，每账号限 3 次。</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/deal-volc-ark-b42bbd07/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[节省计划月度钱包：新老用户同享，每账号限 3 次。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/deal-volc-ark-b42bbd07/</deal:sourceUrl>
@@ -302,7 +302,7 @@
     <title>Kimi Max（全能档）699 元/月，连续包年价格更低。</title>
     <link>https://www.kimi.com/help/membership/membership-pricing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/kimi-membership-b4964d61/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Kimi Allegro（全能档）699 元/月，连续包年价格更低。]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/kimi-membership-b4964d61/</deal:sourceUrl>
@@ -317,7 +317,7 @@
     <title>阿里·千问办公：千问办公个人版：标准版连续包月 78 元、年付 823 元；高级版 158 元、年付 1,663 元</title>
     <link>https://help.aliyun.com/zh/qwenwork/qw-personal-benefits</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/qwenwork-benefits-1dad82ce/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>组合权益</category>
     <description><![CDATA[千问办公个人版：标准版连续包月 78 元、年付 823 元；高级版 158 元、]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/qwenwork-benefits-1dad82ce/</deal:sourceUrl>
@@ -332,7 +332,7 @@
     <title>Qoder（阿里）：Qwen3.8-Flash 限时免费使用</title>
     <link>https://docs.qoder.com/zh/events/flashoffer</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-flashoffer/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[Qwen3.8-Flash 限时免费，调用不耗 Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-flashoffer/</deal:sourceUrl>
@@ -347,7 +347,7 @@
     <title>Qoder（阿里）：「经济」模型档位限时免费</title>
     <link>https://docs.qoder.com/zh/events/efficientunlimited</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-efficientunlimited/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[付费用户「经济」档位限时免费，不扣 Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-efficientunlimited/</deal:sourceUrl>
@@ -362,7 +362,7 @@
     <title>Qoder（阿里）：高级模型错峰倍率减免</title>
     <link>https://docs.qoder.com/zh/events/offpeakrate</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-offpeakrate/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[错峰时段 22:00–08:00 高级模型最低 2 折]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-offpeakrate/</deal:sourceUrl>
@@ -377,7 +377,7 @@
     <title>豆包工作 赠送 30 天标准套餐订阅</title>
     <link>https://www.doubao.com/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-doubao-30day-sub/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>试用</category>
     <description><![CDATA[标准套餐 30 天免费体验（可领）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-doubao-30day-sub/</deal:sourceUrl>
@@ -392,7 +392,7 @@
     <title>百度千帆：千帆 Token Plan 个人版首发限时五折</title>
     <link>https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qianfan-seckill/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[个人版首发限时5折，季9.2折年8.8折]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qianfan-seckill/</deal:sourceUrl>
@@ -407,7 +407,7 @@
     <title>商汤 SenseNova Token Plan 公测免费</title>
     <link>https://www.sensenova.cn/token-plan</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-sensenova-tokenplan/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[公测期完全免费，6万积分/5小时]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-sensenova-tokenplan/</deal:sourceUrl>
@@ -422,7 +422,7 @@
     <title>MiniMax Code 每日签到送积分</title>
     <link>https://agent.minimax.io/docs/code/account/usage</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-minimax-code-checkin/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[每日签到 400 积分，周累计 4000]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-minimax-code-checkin/</deal:sourceUrl>
@@ -437,7 +437,7 @@
     <title>Trae（字节）：89 元 限时首月优惠：首月 69 元，第 2 个月恢复 89 元</title>
     <link>https://docs.trae.cn/ide_plans-and-billing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/trae-plans-a1cdec18/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[89 元 限时首月优惠：首月 69 元，第 2 个月恢复 89 元]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/trae-plans-a1cdec18/</deal:sourceUrl>
@@ -452,7 +452,7 @@
     <title>阿里·千问办公：千问办公个人高级版订阅优惠</title>
     <link>https://help.aliyun.com/zh/qwenwork/qw-personal-benefits</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/qwenwork-benefits-8728580f/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>组合权益</category>
     <description><![CDATA[个人高级版连续包月8折158元/月，年付7折1663元/年]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/qwenwork-benefits-8728580f/</deal:sourceUrl>
@@ -467,7 +467,7 @@
     <title>智谱GLM-5.3尝鲜秒杀</title>
     <link>https://bigmodel.cn/special_area</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-glm53-flashsale/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[GLM-5.3资源包2000万tokens，秒杀39.9元（原价80元）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-glm53-flashsale/</deal:sourceUrl>
@@ -482,7 +482,7 @@
     <title>智谱CogVideoX-3开发者资源包</title>
     <link>https://bigmodel.cn/special_area</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-cogvideo-dev/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[CogVideoX-3资源包200次，开发者价140元（原价200元）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-cogvideo-dev/</deal:sourceUrl>
@@ -497,7 +497,7 @@
     <title>火山引擎：火山方舟Agent Plan Medium首月特惠</title>
     <link>https://ai.volcengine.com/activity/ai618</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-volc-ark-agent-medium/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Agent Plan Medium首月49.9元（原价200元，限时2.5折）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-volc-ark-agent-medium/</deal:sourceUrl>
@@ -512,7 +512,7 @@
     <title>火山引擎 AI 普惠季：新客首单礼 + 2500 万 Tokens 免费领</title>
     <link>https://ai.volcengine.com/activity/ai618</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-volc-ark-free-25m/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[开通方舟服务，单个模型免费领50万Tokens，累计超2500万]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-volc-ark-free-25m/</deal:sourceUrl>
@@ -527,7 +527,7 @@
     <title>火山引擎：火山豆包大模型2.1秒杀</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-volc-doubao21-flashsale/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[豆包大模型2.1递减包约880万Tokens，秒杀40元（原价80元）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-volc-doubao21-flashsale/</deal:sourceUrl>
@@ -542,7 +542,7 @@
     <title>阿里·千问办公：千问办公新用户赠2000积分</title>
     <link>https://help.aliyun.com/zh/qwenwork/personal-benefits</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwenwork-newuser/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[新用户首次进入个人版，限时赠2000积分，有效期3个月]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-aliyun-qwenwork-newuser/</deal:sourceUrl>
@@ -557,7 +557,7 @@
     <title>阿里云百炼新人免费额度</title>
     <link>https://docs.bailian.console.aliyun.com/zh/model-studio/new-free-quota</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-aliyun-bailian-newuser-quota/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[首次开通百炼，每个模型免费额度通常100万Token，有效期90天]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-aliyun-bailian-newuser-quota/</deal:sourceUrl>
@@ -572,7 +572,7 @@
     <title>阿里云百炼：百炼Token Plan夜间错峰优惠</title>
     <link>https://help.aliyun.com/zh/model-studio/token-plan-personal-overview</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Token Plan个人版限时39元起，Pro档499元（原价600元）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/</deal:sourceUrl>
@@ -587,7 +587,7 @@
     <title>Qoder 新用户免费试用两周专业版</title>
     <link>https://qoder.cn/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-newuser-trial/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>试用</category>
     <description><![CDATA[新用户注册领 300 Credits + 免费试用专业版两周]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-newuser-trial/</deal:sourceUrl>
@@ -602,7 +602,7 @@
     <title>Trae 每月登录赠积分</title>
     <link>https://docs.trae.cn/ide_plans-and-billing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-trae-monthly-login/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[每月登录赠送 500 积分，当月有效]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-trae-monthly-login/</deal:sourceUrl>
@@ -617,7 +617,7 @@
     <title>Trae 新用户注册赠 4000 积分</title>
     <link>https://docs.trae.cn/ide_plans-and-billing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-trae-newuser-4000/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[新用户注册一次性赠送 4000 积分，31 个自然日有效]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-trae-newuser-4000/</deal:sourceUrl>
@@ -632,7 +632,7 @@
     <title>Trae 老用户升级赠 4000 积分</title>
     <link>https://docs.trae.cn/ide_plans-and-billing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-trae-upgrade-4000/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[升级至新计费模式一次性赠送 4000 积分，31 个自然日有效]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-trae-upgrade-4000/</deal:sourceUrl>
@@ -647,7 +647,7 @@
     <title>Trae 每日签到赠积分</title>
     <link>https://docs.trae.cn/ide_plans-and-billing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-trae-daily-checkin/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[每日签到送 100 积分，可累计用于模型调用]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-trae-daily-checkin/</deal:sourceUrl>
@@ -662,7 +662,7 @@
     <title>智谱：ZCode 邀请好友得夜间蹬蹬卡（1 亿 GLM-5.3-Flash tokens）</title>
     <link>https://zcode.z.ai/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[邀 1 位新用户得夜间蹬蹬卡：1 亿 GLM-5.3-Flash tokens]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/</deal:sourceUrl>
@@ -677,7 +677,7 @@
     <title>百度千帆：千帆企业版 Token Plan 加量不加价（每月赠积分）</title>
     <link>https://cloud.baidu.com/doc/qianfan/s/ymq8wwch2</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-bonus-credits/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[购企业版套餐每月额外赠积分，最高 +25,000/月]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qianfan-ent-bonus-credits/</deal:sourceUrl>
@@ -692,7 +692,7 @@
     <title>智谱 BigModel 新用户注册得 2000 万 Tokens</title>
     <link>https://open.bigmodel.cn/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-welcome-2000w/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>试用</category>
     <description><![CDATA[新用户注册得 2000 万 Tokens 体验包（含多款模型及搜索/生成次数）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-welcome-2000w/</deal:sourceUrl>
@@ -707,7 +707,7 @@
     <title>腾讯云 TokenHub 新用户福利：54 款模型免费体验</title>
     <link>https://cloud.tencent.com/product/tokenhub</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-tencent-tokenhub-welcome/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>试用</category>
     <description><![CDATA[54 款模型免费体验，语言/多模态/向量每款赠 100 万 tokens]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-tencent-tokenhub-welcome/</deal:sourceUrl>
@@ -722,7 +722,7 @@
     <title>智谱 GLM-OCR 尝鲜 2.9 元</title>
     <link>https://bigmodel.cn/special_area</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-ocr-changxian/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[GLM-OCR 尝鲜 2.9 元（5000万tokens，原价10）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-ocr-changxian/</deal:sourceUrl>
@@ -737,7 +737,7 @@
     <title>智谱 GLM-Image 尝鲜 5.9 元</title>
     <link>https://bigmodel.cn/special_area</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-image-changxian/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[GLM-Image 尝鲜 5.9 元（200次，原价20）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-image-changxian/</deal:sourceUrl>
@@ -752,7 +752,7 @@
     <title>智谱 CogVideoX-3 秒杀 29.9 元</title>
     <link>https://bigmodel.cn/special_area</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-cogvideox3-miaosha/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[CogVideoX-3 秒杀 29.9 元（100次，原价100）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-cogvideox3-miaosha/</deal:sourceUrl>
@@ -767,7 +767,7 @@
     <title>智谱 GLM-5.3-Flash 开发者包 18 元</title>
     <link>https://bigmodel.cn/special_area</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-glm53flash-dev/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[GLM-5.3-Flash 开发者 18 元（5000万tokens）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-glm53flash-dev/</deal:sourceUrl>
@@ -782,7 +782,7 @@
     <title>Qoder CN 续费/升级最高加赠 3000 Qwen Credits</title>
     <link>https://docs.qoder.cn/events/renewal-offer</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-renewal-offer/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[月付续费/升级加赠 1,000–3,000 Qwen 专属 Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-cn-renewal-offer/</deal:sourceUrl>
@@ -797,7 +797,7 @@
     <title>Qoder CN 开通专业版/高级版首月 Credits 翻倍</title>
     <link>https://docs.qoder.cn/events/bogo</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-firstbuy/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[首购个人月付，首月合计得 4,000/12,000 Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-cn-firstbuy/</deal:sourceUrl>
@@ -812,7 +812,7 @@
     <title>Qoder 国际站订阅加赠 Credits（10-21 起新活动）</title>
     <link>https://docs.qoder.com/zh/events/newbogo</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-qoder-intl-newbogo/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[首购/续费/升级个人订阅加赠，最高 6,000 Credits]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-qoder-intl-newbogo/</deal:sourceUrl>
@@ -827,7 +827,7 @@
     <title>Trae Pro 连续包月首月 39 元（次月恢复 45 元）</title>
     <link>https://docs.trae.cn/ide_plans-and-billing</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-trae-pro-first-month/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[Trae Pro 连续包月限时优惠：首月 39 元，第 2 个月起恢复 45 元]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-trae-pro-first-month/</deal:sourceUrl>
@@ -842,7 +842,7 @@
     <title>豆包每日签到领 200 额度（周一翻倍，30 天累计 8800）</title>
     <link>https://www.doubao.com/pc/agent-explore</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-doubao-daily-checkin/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[每日签到领 200 额度，周一翻倍，30 天累计 8800]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-doubao-daily-checkin/</deal:sourceUrl>
@@ -857,7 +857,7 @@
     <title>火山引擎：火山方舟秒杀专区每日限量 5 折（新客独享）</title>
     <link>https://www.volcengine.com/activity/ark</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-volc-ark-seckill-5fold/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时特价</category>
     <description><![CDATA[秒杀专区每日限量 5 折：40 元得 880 万 Tokens]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-volc-ark-seckill-5fold/</deal:sourceUrl>
@@ -872,7 +872,7 @@
     <title>智谱 AutoClaw 新用户注册领 2 亿 tokens（价值 120 元）</title>
     <link>https://autoclaw.zhipuai.cn/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-newuser-200m/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[新用户注册领取 2 亿 tokens（官方称价值 120 元）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-zhipu-autoclaw-newuser-200m/</deal:sourceUrl>
@@ -887,7 +887,7 @@
     <title>商汤小浣熊三端登录领 9000 积分（每日再领 300）</title>
     <link>https://office.xiaohuanxiong.com/</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-sensenova-xhx-9000-credits/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[三端登录合计 9000 积分（每日再领 300）]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-sensenova-xhx-9000-credits/</deal:sourceUrl>
@@ -902,7 +902,7 @@
     <title>京东云 AI 焕新季：JoyCode 限时送 5 万积分 + 云主机 1 折起</title>
     <link>https://www.jdcloud.com/cn/pages/cloudpromotion</link>
     <guid isPermaLink="false">aitkradar:https://aitkradar.cn/deals/manual-jd-cloud-ai-campaign/</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[JoyCode 限时送 5 万积分，云主机 1 折起]]></description>
     <deal:sourceUrl>https://aitkradar.cn/deals/manual-jd-cloud-ai-campaign/</deal:sourceUrl>
@@ -917,7 +917,7 @@
     <title>Gemini 4 Argon 推广价（到 11-30）</title>
     <link>https://ai.google.dev/gemini-api/docs/pricing</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#gemini-4-argon-promo</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时降价</category>
     <description><![CDATA[付费档每百万 token 输入 $2.00、输出 $10.00，到 2026-11-30；2026-12-01 起输入 $4.00、输出 $20.00。免费档不可用。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#gemini-4-argon-promo</deal:sourceUrl>
@@ -933,7 +933,7 @@
     <title>Gemini 3.8 Flash 推广价（到 12-31）</title>
     <link>https://ai.google.dev/gemini-api/docs/pricing</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#gemini-3-8-flash-promo</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时降价</category>
     <description><![CDATA[付费档每百万 token 输入 $0.75、输出 $3.75，到 2026-12-31；2027-01-01 起输入 $1.50、输出 $7.50。免费档输入、输出均为免费。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#gemini-3-8-flash-promo</deal:sourceUrl>
@@ -949,7 +949,7 @@
     <title>OpenCode Zen：12 个限时免费模型</title>
     <link>https://opencode.ai/docs/zen</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opencode-zen-free-models</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时免费模型</category>
     <description><![CDATA[官方 Zen 文档“Free models”一节列出的限时免费模型（Beam Free 条件不同，单列一条）：Big Pickle、GLM-5.3-Flash Free、DeepSeek V4.1 Flash Free、Flint 40B Free、LongCat 2.5 Preview Free、Exo Free、MiMo-V2.6-Flash Free、MiMo-V2.5 Free、Nemotron 3 Ultra Free、Nemotron 3.5 Lightning Free、Nemotron 3.5 Super VL Free、Jev 1.13 Free。价格表里输入、输出、缓存读取都是 Free。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opencode-zen-free-models</deal:sourceUrl>
@@ -964,7 +964,7 @@
     <title>OpenCode Zen：Beam Free 限时免费（中国大陆和港澳不可用）</title>
     <link>https://opencode.ai/docs/zen</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opencode-beam</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时免费模型</category>
     <description><![CDATA[Beam Free 在 OpenCode 限时免费，输入、输出、缓存读取都是 Free；官方 X 写 1M 上下文。提供方不用数据训练，出于安全原因保留 30 天。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opencode-beam</deal:sourceUrl>
@@ -979,7 +979,7 @@
     <title>OpenRouter：Poolside Laguna S 2.1 / XS 2.1 免费版（模型 10-31 到期）</title>
     <link>https://openrouter.ai/api/v1/models</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#openrouter-laguna-21-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时免费模型</category>
     <description><![CDATA[poolside/laguna-s-2.1:free 和 poolside/laguna-xs-2.1:free 价格为 $0。OpenRouter API 的 expiration_date 是 2026-10-31，这个日期写在模型本身上（付费版同一天到期），不只是免费期结束。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#openrouter-laguna-21-free</deal:sourceUrl>
@@ -994,7 +994,7 @@
     <title>OpenCode Go：DeepSeek V4.1 Flash 每月额度 $80</title>
     <link>https://opencode.ai/docs/go</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opencode-go-dsv41flash-80</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[OpenCode Go（$10/月）里 DeepSeek V4.1 Flash 的月额度是 $80。Peak 时段按 $0.30/$1.20（每百万 token 输入/输出）计，Off-Peak 按 $0.15/$0.60 计；Peak 是周一到周五 01:00–04:00、06:00–10:00 UTC。模型已升级到 1017 版本（官方 X 2112220734768779441），额度未变。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opencode-go-dsv41flash-80</deal:sourceUrl>
@@ -1009,7 +1009,7 @@
     <title>OpenCode Go：Step 5 Preview 限时 4 倍用量</title>
     <link>https://opencode.ai/go</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opencode-go-step5-4x</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[Step 5 Preview 在 Go 里限时 4 倍用量：Go 月额度 $15→$60，Go Plus $60→$240。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opencode-go-step5-4x</deal:sourceUrl>
@@ -1024,7 +1024,7 @@
     <title>OpenCode Go：Gemini 4 Argon Contributor 限时 2 倍用量</title>
     <link>https://opencode.ai/go</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opencode-go-argon-contributor-2x</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[Gemini 4 Argon Contributor 在 Go 里限时 2 倍用量：Go 月额度 $30→$60，Go Plus $120→$240。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opencode-go-argon-contributor-2x</deal:sourceUrl>
@@ -1039,7 +1039,7 @@
     <title>Command Code：MiniMax M3 五折（用量 2 倍）</title>
     <link>https://commandcode.ai/docs/resources/pricing-limits</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#commandcode-minimax-m3-50off</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时降价</category>
     <description><![CDATA[MiniMax M3 输入 $0.60→$0.30、输出 $2.40→$1.20、缓存读取 $0.12→$0.06（每百万 token，≤512K 和 >512K 上下文同价），每 1 美元额度相当于 2 倍用量；GOAT 月额度 $47、Pro $57；补充购买的额度同样适用；自动生效。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#commandcode-minimax-m3-50off</deal:sourceUrl>
@@ -1054,7 +1054,7 @@
     <title>Command Code：Beam 1.0、Laguna S 2.1、Glyph Cluster 免费</title>
     <link>https://commandcode.ai/docs/resources/pricing-limits</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#commandcode-free-models</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时免费模型</category>
     <description><![CDATA[三个模型输入、输出、缓存读取都是 $0。Glyph Cluster 每账号每天 100 次（UTC 零点重置）；开会话需要账户里至少有 $1 额度。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#commandcode-free-models</deal:sourceUrl>
@@ -1069,7 +1069,7 @@
     <title>Command Code：GLM-5.3 Flash 长期加量（Go $10、GOAT $80、Pro $90）</title>
     <link>https://commandcode.ai/docs/resources/pricing-limits</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#commandcode-glm53flash-boost-ongoing</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[GLM-5.3 Flash 单模型额度加量：Go $10（用满整个计划额度）、GOAT $80、Pro $90；单价不变。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#commandcode-glm53flash-boost-ongoing</deal:sourceUrl>
@@ -1084,7 +1084,7 @@
     <title>Command Code：Ling 3.1 Flash 加量（GOAT $100、Pro $110）</title>
     <link>https://commandcode.ai/docs/resources/pricing-limits</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#commandcode-ling31flash-boost</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[inclusionAI 的 Ling 3.1 Flash 单模型额度加量：GOAT $100、Pro $110；单价不变。免费版已撤（changelog「retire ling 3.1 flash free」），加量仍在。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#commandcode-ling31flash-boost</deal:sourceUrl>
@@ -1099,7 +1099,7 @@
     <title>OpenDesign：首月 8 折到 6 折</title>
     <link>https://open-design.ai/pricing/</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opendesign-first-month</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>订阅首月 / 首期折扣</category>
     <description><![CDATA[首月价：Go $8（原价 $10）、Plus $16（原价 $20）、Pro $70（原价 $100）、Max $120（原价 $200）；年付另有 30%–51% 折扣。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opendesign-first-month</deal:sourceUrl>
@@ -1114,7 +1114,7 @@
     <title>OpenDesign：DeepSeek V4.1 Flash 额度翻倍，Go 每月最高 $120</title>
     <link>https://open-design.ai/pricing/</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opendesign-dsv41flash-120</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[Go 套餐 DeepSeek V4.1 Flash 月额度最高 $120（原来 $60）；官方 X 称这是没有计划结束日期的长期权益。新用户可领免费试用额度，领取后 72 小时过期。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opendesign-dsv41flash-120</deal:sourceUrl>
@@ -1129,7 +1129,7 @@
     <title>OpenDesign：Fable 5.1 限时赠额（Pro +$20、Max +$100）</title>
     <link>https://open-design.ai/pricing/</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#opendesign-fable51-bonus</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>套餐加量</category>
     <description><![CDATA[Claude Fable 5.1 上线，Pro 限时赠 $20、Max 限时赠 $100；GPT-6.1 Sol 在 Design Plan 里限时提升用量（Go·Plus 2 倍，Pro·Max 10 倍）。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#opendesign-fable51-bonus</deal:sourceUrl>
@@ -1144,7 +1144,7 @@
     <title>Kilo：Cursor 合同剩余期内 Kilo Enterprise 免费</title>
     <link>https://kilo.ai/enterprise</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#kilo-enterprise-cursor-contract</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>迁移优惠</category>
     <description><![CDATA[官方横幅：“Cursor loses OpenAI on November 12”，正在付费用 Cursor 的团队在 Cursor 合同剩余期内可以免费用 Kilo Enterprise；官方 X 写“up to a year”。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#kilo-enterprise-cursor-contract</deal:sourceUrl>
@@ -1159,7 +1159,7 @@
     <title>Volcano Ark Coding Plan：首两月 2.5 折（Lite ¥9.9 / Pro ¥49.9）</title>
     <link>https://docs.volcengine.com/docs/ark/coding-plan-personal-universal-promotion?lang=zh</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#volcengine-codingplan-25</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>订阅首月 / 首期折扣</category>
     <description><![CDATA[Lite 原价 ¥40、折扣价 ¥9.9；Pro 原价 ¥200、折扣价 ¥49.9；首两个月享受，第三个月起恢复原价；名额有限，先到先得；新购、续费、升配共用一次资格；可叠加 9.5 折邀请。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#volcengine-codingplan-25</deal:sourceUrl>
@@ -1174,7 +1174,7 @@
     <title>Alibaba Cloud Model Studio Coding Plan Pro：新客首月 ¥39.90</title>
     <link>https://help.aliyun.com/zh/model-studio/coding-plan</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#aliyun-codingplan-pro-first-month</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>订阅首月 / 首期折扣</category>
     <description><![CDATA[首次订阅 Pro 套餐首月 ¥39.90（目录价 ¥200/月），之后按 ¥200/月续费；限量，每天 09:30（UTC+8）补充名额。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#aliyun-codingplan-pro-first-month</deal:sourceUrl>
@@ -1189,7 +1189,7 @@
     <title>DeepSeek：经 Harness / Claude Code / Codex 的服务端 Search 和 Fetch 调用暂时免费（到 11-01）</title>
     <link>https://api-docs.deepseek.com/quick_start/pricing</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时降价</category>
     <description><![CDATA[通过 DeepSeek Harness、Claude Code 或 Codex 使用 DeepSeek API 时，服务端工具调用会触发 Search 和 Fetch API，目前不收费；从 2026-11-01 00:00（北京时间）起按次计费。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free</deal:sourceUrl>
@@ -1206,7 +1206,7 @@
     <title>OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21）</title>
     <link>https://developers.openai.com/codex/pricing</link>
     <guid isPermaLink="false">apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时降价</category>
     <description><![CDATA[官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 10、输出 500 credits（每百万 token）。该页没写原价，所以折扣幅度未写明。]]></description>
     <deal:sourceUrl>https://apiprice.app/zh/deals/#codex-gpt56sol-promo</deal:sourceUrl>
@@ -1222,7 +1222,7 @@
     <title>ChatGPT Plus（学生）</title>
     <link>https://chatgpt.com/</link>
     <guid isPermaLink="false">devtk:chatgptplus（学生）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>学生优惠</category>
     <description><![CDATA[美国在读大学生/研究生免费用 4 个月 ChatGPT Plus]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1239,7 +1239,7 @@
     <title>Google AI Pro（学生）</title>
     <link>https://gemini.google/us/students/</link>
     <guid isPermaLink="false">devtk:googleaipro（学生）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>学生优惠</category>
     <description><![CDATA[美国大学生 12 个月免费 Google AI Pro；其他多数地区学生 12 个月免费 Google AI Plus]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1255,7 +1255,7 @@
     <title>DeepSeek API</title>
     <link>https://platform.deepseek.com/</link>
     <guid isPermaLink="false">devtk:deepseekapi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>折扣</category>
     <description><![CDATA[空闲时段半价：高峰为工作日北京时间 9:00–12:00、14:00–18:00，其余时间（含周末和法定节假日）价格减半]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1270,7 +1270,7 @@
     <title>硅基流动 SiliconFlow</title>
     <link>https://cloud.siliconflow.cn/</link>
     <guid isPermaLink="false">devtk:硅基流动siliconflow</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[实名认证送 16 元代金券；邀请好友双方各得 16 元；部分小模型永久免费]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1286,7 +1286,7 @@
     <title>Gemini API</title>
     <link>https://aistudio.google.com/</link>
     <guid isPermaLink="false">devtk:geminiapi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[Gemini Flash 系列 API 可免费调用（有限流，约 10 次/分钟、1500 次/天）]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1301,7 +1301,7 @@
     <title>GitHub Copilot（学生）</title>
     <link>https://devtk.ai/zh/deals/</link>
     <guid isPermaLink="false">devtk:githubcopilot（学生）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>学生优惠</category>
     <description><![CDATA[通过 GitHub 学生开发者包认证后免费使用 Copilot Pro]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1315,7 +1315,7 @@
     <title>OpenCode Go</title>
     <link>https://opencode.ai/</link>
     <guid isPermaLink="false">devtk:opencodego</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>折扣</category>
     <description><![CDATA[首月半价 $5，之后 $10/月，可用 27 个编程模型]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1330,7 +1330,7 @@
     <title>Perplexity Pro（教育）</title>
     <link>https://www.perplexity.ai/</link>
     <guid isPermaLink="false">devtk:perplexitypro（教育）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>学生优惠</category>
     <description><![CDATA[认证学生和教师可按 $10/月订阅 Education Pro，约为 Pro 原价的一半]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1345,7 +1345,7 @@
     <title>智谱 BigModel</title>
     <link>https://open.bigmodel.cn/</link>
     <guid isPermaLink="false">devtk:智谱bigmodel</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[新用户注册送 2000 万 Tokens；GLM-4-Flash 永久免费调用]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1360,7 +1360,7 @@
     <title>火山方舟（豆包）</title>
     <link>https://www.volcengine.com/product/ark</link>
     <guid isPermaLink="false">devtk:火山方舟（豆包）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[开发者每天最高 500 万 Tokens 免费推理额度（具体以控制台为准）]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1375,7 +1375,7 @@
     <title>百度千帆</title>
     <link>https://cloud.baidu.com/product/wenxinworkshop</link>
     <guid isPermaLink="false">devtk:百度千帆</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[ERNIE-Speed / Lite / Tiny 永久免费调用；Token Plan 首月半价]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1390,7 +1390,7 @@
     <title>讯飞星火 Spark Lite</title>
     <link>https://xinghuo.xfyun.cn/sparkapi</link>
     <guid isPermaLink="false">devtk:讯飞星火sparklite</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[Spark Lite API 永久免费]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1405,7 +1405,7 @@
     <title>阿里云百炼</title>
     <link>https://bailian.console.aliyun.com/</link>
     <guid isPermaLink="false">devtk:阿里云百炼</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>赠送额度</category>
     <description><![CDATA[新用户 7000 万 Tokens 免费额度，90 天有效]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1420,7 +1420,7 @@
     <title>Anthropic API</title>
     <link>https://console.anthropic.com/</link>
     <guid isPermaLink="false">devtk:anthropicapi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费试用</category>
     <description><![CDATA[API 按用量计费；可能需要预充值额度]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1435,7 +1435,7 @@
     <title>Cursor 免费档</title>
     <link>https://cursor.com/</link>
     <guid isPermaLink="false">devtk:cursor</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[免费 Hobby 计划，含有限 Agent 和 Tab 用量]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1450,7 +1450,7 @@
     <title>Ollama</title>
     <link>https://ollama.com/</link>
     <guid isPermaLink="false">devtk:ollama</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[100% 免费开源]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1465,7 +1465,7 @@
     <title>OpenAI API</title>
     <link>https://platform.openai.com/</link>
     <guid isPermaLink="false">devtk:openaiapi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费试用</category>
     <description><![CDATA[API 按用量计费；免费层资格请以账号页面为准]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1480,7 +1480,7 @@
     <title>Alibaba Cloud</title>
     <link>https://www.aliyun.com/minisite/goods?userCode=thxll2lu</link>
     <guid isPermaLink="false">devtk:alibabacloud</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>折扣</category>
     <description><![CDATA[云产品优惠与新用户活动]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1495,7 +1495,7 @@
     <title>Bolt.new</title>
     <link>https://bolt.new/</link>
     <guid isPermaLink="false">devtk:bolt.new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[免费计划含每日和每月 Token 限额]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1510,7 +1510,7 @@
     <title>Dify</title>
     <link>https://dify.ai/</link>
     <guid isPermaLink="false">devtk:dify</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[自托管免费 · 云端 Professional $59/月起]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1525,7 +1525,7 @@
     <title>Fllow AI</title>
     <link>https://fllow.ai/</link>
     <guid isPermaLink="false">devtk:fllowai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>折扣</category>
     <description><![CDATA[额度包 $10 起；月度计划 $15 起]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1540,7 +1540,7 @@
     <title>Groq Cloud</title>
     <link>https://groq.com/</link>
     <guid isPermaLink="false">devtk:groqcloud</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[可获取免费 API key；付费用量按 Token 计费]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1555,7 +1555,7 @@
     <title>Langfuse</title>
     <link>https://langfuse.com/</link>
     <guid isPermaLink="false">devtk:langfuse</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[云端 Hobby 免费 · 自托管核心功能免费]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1570,7 +1570,7 @@
     <title>LM Studio</title>
     <link>https://lmstudio.ai/</link>
     <guid isPermaLink="false">devtk:lmstudio</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[家庭和工作场景均可免费使用]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1585,7 +1585,7 @@
     <title>OpenRouter 免费模型</title>
     <link>https://openrouter.ai/</link>
     <guid isPermaLink="false">devtk:openrouter</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[有免费模型可用（Llama、Gemma 等）]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1600,7 +1600,7 @@
     <title>Pollo AI</title>
     <link>https://pollo.ai/</link>
     <guid isPermaLink="false">devtk:polloai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[赠送免费额度开始创作]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1615,7 +1615,7 @@
     <title>PPT.AI</title>
     <link>https://ppt.ai/</link>
     <guid isPermaLink="false">devtk:ppt.ai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[免费计划每月可生成 3 个演示文稿]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1630,7 +1630,7 @@
     <title>Tripo</title>
     <link>https://studio.tripo3d.ai/</link>
     <guid isPermaLink="false">devtk:tripo</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[免费 Basic 计划，每月 300 额度]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1645,7 +1645,7 @@
     <title>v0 by Vercel</title>
     <link>https://v0.dev/</link>
     <guid isPermaLink="false">devtk:v0byvercel</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[免费计划含每月 $5 额度和每日 7 条消息]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1660,7 +1660,7 @@
     <title>Windsurf 免费档</title>
     <link>https://windsurf.com/</link>
     <guid isPermaLink="false">devtk:windsurf</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费版</category>
     <description><![CDATA[有免费计划；付费计划采用基于用量的额度]]></description>
     <deal:sourceUrl>https://devtk.ai/zh/deals/</deal:sourceUrl>
@@ -1675,7 +1675,7 @@
     <title>Kilo Code</title>
     <link>https://docode.cc/</link>
     <guid isPermaLink="false">welfare:site:docode</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>New API、免费额度、Claude Code、Codex、Anthropic 兼容、OpenAI 兼容</category>
     <description><![CDATA[New API 中转站 · 注册送 50 站内刀，注册时填邀请码 zMRe 再加 250，首日 300 刀，Claude 与 GPT 都在架上｜额度：注册 50／邀请 250／免费抽奖+充值优惠券（site-usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1690,7 +1690,7 @@
     <title>AgentRouter</title>
     <link>https://agentrouter.org/</link>
     <guid isPermaLink="false">welfare:site:agentrouter</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>公益站、免费额度、Claude Code、Codex、Anthropic 兼容</category>
     <description><![CDATA[AI Coding 公益站 · 注册即送额度，签到每日续命｜额度：注册 100／邀请 50／签到 25]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1705,7 +1705,7 @@
     <title>万家灯火</title>
     <link>https://wjapi.vip/</link>
     <guid isPermaLink="false">welfare:site:wanjiadenghuo</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、GPT 订阅、每日签到、Claude Code、Codex、Anthropic 兼容、OpenAI 兼容</category>
     <description><![CDATA[注册赠 50 站内刀 GPT 订阅（1 个月）· 进群签到 ¥0.1～1/天 · 完成邀请任务双方各得 ¥5｜额度：注册 50／进群绑定账号后，每日签到随机领 ¥0.1～1 通用余额（site-usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1720,7 +1720,7 @@
     <title>Happy Code</title>
     <link>https://happycodeai.com/</link>
     <guid isPermaLink="false">welfare:site:happycode</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、注册 $100、新人体验包</category>
     <description><![CDATA[注册可获得 $100 额度，加入 QQ 群领取新人体验包｜额度：注册 100（usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1735,7 +1735,7 @@
     <title>Prime Relay</title>
     <link>https://www.primerelay.online/</link>
     <guid isPermaLink="false">welfare:site:primerelay</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、注册 $20、每日签到、OpenAI 兼容</category>
     <description><![CDATA[注册首日可获得 $20 额度，后续支持每日签到｜额度：注册 20／支持每日签到（usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1750,7 +1750,7 @@
     <title>ArtBloom</title>
     <link>https://api.artbloom.tech/</link>
     <guid isPermaLink="false">welfare:site:artbloom</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、注册 $100、支持 Opus 5.5、OpenAI 兼容</category>
     <description><![CDATA[支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册｜额度：注册 100（usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1765,7 +1765,7 @@
     <title>Codex Relay</title>
     <link>https://codex-relay.codes/</link>
     <guid isPermaLink="false">welfare:site:codex-relay</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、注册 $10</category>
     <description><![CDATA[注册可获得 $10 API 额度｜额度：注册 10（usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1780,7 +1780,7 @@
     <title>OmniRush</title>
     <link>https://omnirush.ai/</link>
     <guid isPermaLink="false">welfare:site:omnirush</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、每周 50M tokens、邀请额外 +5M、GPT 6 Astra、GPT 6 Sol、GPT-5.6 So</category>
     <description><![CDATA[每周免费 50M tokens · 本页邀请额外 +5M · GPT 6 Astra / GPT 6 Sol / GPT-5.6 Sol]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1795,7 +1795,7 @@
     <title>Conduit</title>
     <link>https://t.me/conduitoff_bot</link>
     <guid isPermaLink="false">welfare:site:conduit</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、注册 $500、GPT-6、Fable 5.1、Telegram</category>
     <description><![CDATA[注册赠送 $500 额度 · 支持 GPT-6、Fable 5.1 等模型，Telegram 机器人注册｜额度：注册 500（usd）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1810,7 +1810,7 @@
     <title>Mirasim</title>
     <link>https://mirasim.ai/</link>
     <guid isPermaLink="false">welfare:site:mirasim</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>$1/月、Go 订阅、多智能体、邀请赠月、Claude Code、Codex</category>
     <description><![CDATA[Go套餐 $1/月 · 每 5 小时官网估算：Kimi 约 130 次 / GLM 约 1,900 次 / DS 约 7,800 次]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1825,7 +1825,7 @@
     <title>AnyRouter</title>
     <link>https://gorouter.app/</link>
     <guid isPermaLink="false">welfare:site:gorouter</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>New API、免费额度、Claude Code、Anthropic 兼容、按次计费</category>
     <description><![CDATA[New API 中转站 · 注册送 $50，本页邀请码再加 $20，按次计费里最便宜的一档｜额度：注册 50／邀请 20]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1840,7 +1840,7 @@
     <title>Matrix</title>
     <link>https://matrix.mzsjai.com/</link>
     <guid isPermaLink="false">welfare:site:matrix</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>积分制、免费额度、OpenAI 兼容、开源应用商店、Cursor</category>
     <description><![CDATA[统一 API 网关 + 开源应用商店 · 邀请注册送 600 积分，实名再送 2000｜额度：邀请 600（point）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1855,7 +1855,7 @@
     <title>TaBiAI</title>
     <link>https://tabitoken.com/</link>
     <guid isPermaLink="false">welfare:site:tabitoken</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>New API、免费额度、Claude Code、Anthropic 兼容、按次计费</category>
     <description><![CDATA[New API 中转站 · 注册送 $100，本页邀请码再加 $20，专供 Claude Opus｜额度：注册 100／邀请 20]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1870,7 +1870,7 @@
     <title>RawChat 公益站</title>
     <link>https://new.sharedchat.cc/list/</link>
     <guid isPermaLink="false">welfare:site:rawchat</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>公益站、Codex、每日重置、免费额度</category>
     <description><![CDATA[Codex 公益站 · 每日 $50 额度池，0 点自动重置]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1885,7 +1885,7 @@
     <title>JustDoWork</title>
     <link>https://api.justwoker.icu/</link>
     <guid isPermaLink="false">welfare:site:justdowork</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>New API、免费额度、签到、绘图、OpenAI 兼容</category>
     <description><![CDATA[New API 中转站 · GitHub 一键登录，支持签到与绘图｜额度：注册 70／签到 22]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1900,7 +1900,7 @@
     <title>FlushAPI</title>
     <link>https://flushapi.fun/</link>
     <guid isPermaLink="false">welfare:site:flushapi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>New API、签到、Claude Code、Codex、免费额度、Anthropic 兼容、OpenAI 兼容</category>
     <description><![CDATA[New API 网关 · 注册送 $15，本页邀请进入共 $22.5，GitHub 一键建号，16 个模型与价格全公开｜额度：注册 15／邀请 7.5]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1915,7 +1915,7 @@
     <title>KKtoken AI</title>
     <link>https://kktoken.cc/</link>
     <guid isPermaLink="false">welfare:site:kktoken</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>New API、免费额度、签到、按 token 计费、Anthropic 兼容、OpenAI 兼容</category>
     <description><![CDATA[New API 中转站 · 注册送 $75，本页邀请码再加 $25，按 token 计费输入输出各 $1/M｜额度：注册 75／邀请 25／签到 20]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1930,7 +1930,7 @@
     <title>CheapCodex</title>
     <link>https://api.cheapcodex.online/</link>
     <guid isPermaLink="false">welfare:site:cheapcodex</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度、签到、Codex、Claude Code、OpenAI 兼容、Anthropic 兼容</category>
     <description><![CDATA[自研 AI 网关 · 本页邀请码送 $20，每日签到再 $20，OpenAI / Anthropic / Codex 三条协议一把 Key｜额度：邀请 20／签到 20]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1945,7 +1945,7 @@
     <title>NOFX</title>
     <link>https://nofx.one/zh-CN</link>
     <guid isPermaLink="false">welfare:site:nofx</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>积分制、免费额度、Discord 签到、Codex、OpenAI 兼容</category>
     <description><![CDATA[任务制积分站 · 做任务领 API 积分，签到 / Discord / 邀请 / 发推都给分，免密码登录、无需绑卡｜额度：邀请 10／签到 5（point）]]></description>
     <deal:sourceUrl>https://github.com/panxunying/ai-coding-welfare</deal:sourceUrl>
@@ -1960,7 +1960,7 @@
     <title>硅基流动（SiliconFlow）</title>
     <link>https://cloud.siliconflow.cn/i/A6Lc7N2E/</link>
     <guid isPermaLink="false">freehub:硅基流动（siliconflow）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[免费仅剩 embedding/语音识别/OCR/翻译/Kolors 生图（对话类小模型永久免费已于 2026-09 取消）；新用户注册赠约 16 元无门槛代金券（活动至 2026-12-31），可抵扣付费大模型调用。]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -1975,7 +1975,7 @@
     <title>火山方舟（Volcengine Ark）</title>
     <link>https://www.volcengine.com/product/ark</link>
     <guid isPermaLink="false">freehub:火山方舟（volcengineark）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -1990,7 +1990,7 @@
     <title>智谱AI（GLM）</title>
     <link>https://www.bigmodel.cn/</link>
     <guid isPermaLink="false">freehub:智谱ai（glm）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2005,7 +2005,7 @@
     <title>美团 LongCat Token 资源包</title>
     <link>https://longcat.chat/platform/</link>
     <guid isPermaLink="false">freehub:美团(longcat)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[新用户实名认证送 1000 万 token；邀请好友完成实名，邀请人与受邀人各再得 1000 万（可与实名额度叠加）；无截止时间。]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2020,7 +2020,7 @@
     <title>阿里云百炼（Model Studio）</title>
     <link>https://bailian.console.aliyun.com/</link>
     <guid isPermaLink="false">freehub:阿里云百炼（modelstudio）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2035,7 +2035,7 @@
     <title>百度智能云千帆</title>
     <link>https://cloud.baidu.com/product/wenxinworkshop</link>
     <guid isPermaLink="false">freehub:百度智能云千帆</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2050,7 +2050,7 @@
     <title>腾讯云混元</title>
     <link>https://console.cloud.tencent.com/tokenhub</link>
     <guid isPermaLink="false">freehub:腾讯云混元</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2065,7 +2065,7 @@
     <title>MiniMax (稀宇科技)</title>
     <link>https://platform.minimax.io/</link>
     <guid isPermaLink="false">freehub:minimax(稀宇科技)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2080,7 +2080,7 @@
     <title>Kimi 开放平台 (月之暗面)</title>
     <link>https://platform.moonshot.cn/</link>
     <guid isPermaLink="false">freehub:kimi开放平台(月之暗面)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2095,7 +2095,7 @@
     <title>PPIO 派欧云</title>
     <link>https://ppio.com/</link>
     <guid isPermaLink="false">freehub:ppio派欧云</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2110,7 +2110,7 @@
     <title>DeepSeek（深度求索）</title>
     <link>https://platform.deepseek.com/</link>
     <guid isPermaLink="false">freehub:deepseek（深度求索）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2125,7 +2125,7 @@
     <title>科大讯飞星火</title>
     <link>https://xinghuo.xfyun.cn/</link>
     <guid isPermaLink="false">freehub:科大讯飞星火</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2140,7 +2140,7 @@
     <title>StreamLake (快手)</title>
     <link>https://www.streamlake.com/</link>
     <guid isPermaLink="false">freehub:streamlake(快手)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2155,7 +2155,7 @@
     <title>中国电信 (天翼AI)</title>
     <link>https://www.ctyun.cn/</link>
     <guid isPermaLink="false">freehub:中国电信(天翼ai)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2170,7 +2170,7 @@
     <title>商汤大装置（SenseNova）</title>
     <link>https://signin.sensecore.cn/</link>
     <guid isPermaLink="false">freehub:商汤大装置（sensenova）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2185,7 +2185,7 @@
     <title>DMXAPI</title>
     <link>https://www.dmxapi.cn/</link>
     <guid isPermaLink="false">freehub:dmxapi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2200,7 +2200,7 @@
     <title>零一万物 (01.AI)</title>
     <link>https://platform.lingyiwanwu.com/</link>
     <guid isPermaLink="false">freehub:零一万物(01.ai)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2215,7 +2215,7 @@
     <title>中国移动 MoMA</title>
     <link>https://ecloud.10086.cn/</link>
     <guid isPermaLink="false">freehub:中国移动moma</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2230,7 +2230,7 @@
     <title>数眼智能 (DataEye)</title>
     <link>https://shuyanai.com/</link>
     <guid isPermaLink="false">freehub:数眼智能(dataeye)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2245,7 +2245,7 @@
     <title>昆仑万维</title>
     <link>https://model-platform.tiangong.cn/</link>
     <guid isPermaLink="false">freehub:昆仑万维</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2260,7 +2260,7 @@
     <title>360智脑</title>
     <link>https://ai.360.com/open</link>
     <guid isPermaLink="false">freehub:360智脑</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2275,7 +2275,7 @@
     <title>云知声 (山海)</title>
     <link>https://ai.unisound.com/</link>
     <guid isPermaLink="false">freehub:云知声(山海)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2290,7 +2290,7 @@
     <title>AWS Bedrock</title>
     <link>https://aws.amazon.com/bedrock/</link>
     <guid isPermaLink="false">freehub:awsbedrock</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2305,7 +2305,7 @@
     <title>Anyscale</title>
     <link>https://anyscale.com/</link>
     <guid isPermaLink="false">freehub:anyscale</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2320,7 +2320,7 @@
     <title>NCompass</title>
     <link>https://ncompass.tech/</link>
     <guid isPermaLink="false">freehub:ncompass</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2335,7 +2335,7 @@
     <title>DigitalOcean (GenAI)</title>
     <link>https://www.digitalocean.com/</link>
     <guid isPermaLink="false">freehub:digitalocean(genai)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2350,7 +2350,7 @@
     <title>Google (AI Studio)</title>
     <link>https://aistudio.google.com/</link>
     <guid isPermaLink="false">freehub:google(aistudio)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2365,7 +2365,7 @@
     <title>NVIDIA NIM</title>
     <link>https://build.nvidia.com/</link>
     <guid isPermaLink="false">freehub:nvidianim</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2380,7 +2380,7 @@
     <title>AI21 Labs</title>
     <link>https://studio.ai21.com/</link>
     <guid isPermaLink="false">freehub:ai21labs</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2395,7 +2395,7 @@
     <title>Mistral AI</title>
     <link>https://console.mistral.ai/</link>
     <guid isPermaLink="false">freehub:mistralai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2410,7 +2410,7 @@
     <title>Modal</title>
     <link>https://modal.com/</link>
     <guid isPermaLink="false">freehub:modal</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2425,7 +2425,7 @@
     <title>BaseTen</title>
     <link>https://baseten.co/</link>
     <guid isPermaLink="false">freehub:baseten</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2440,7 +2440,7 @@
     <title>BentoCloud</title>
     <link>https://bentoml.com/cloud</link>
     <guid isPermaLink="false">freehub:bentocloud</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2455,7 +2455,7 @@
     <title>Cohere 试用 Key</title>
     <link>https://dashboard.cohere.com/</link>
     <guid isPermaLink="false">freehub:cohere</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[调用完全免费｜官方明确写了：限速，且不允许用于生产或商业用途。想上线必须换付费 Key，别拿去跑正经业务。需海外网络]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2470,7 +2470,7 @@
     <title>InceptionLabs</title>
     <link>https://inceptionlabs.ai/</link>
     <guid isPermaLink="false">freehub:inceptionlabs</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2485,7 +2485,7 @@
     <title>Jina AI</title>
     <link>https://jina.ai/</link>
     <guid isPermaLink="false">freehub:jinaai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2500,7 +2500,7 @@
     <title>Cerebras</title>
     <link>https://inference.cerebras.ai/</link>
     <guid isPermaLink="false">freehub:cerebras</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2515,7 +2515,7 @@
     <title>Groq 免费层</title>
     <link>https://groq.com/</link>
     <guid isPermaLink="false">freehub:groq</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[每天 1,000 次调用｜算的是调用次数，不是字数：每分钟 30 次、每天 1,000 次，这三个模型同额度，一天还卡 20 万 token。限速按组织算，多开 Key 不叠加。语音识别另算，2,000 次/天。需海外网络]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2530,7 +2530,7 @@
     <title>Inference.net</title>
     <link>https://inference.net/</link>
     <guid isPermaLink="false">freehub:inference.net</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2545,7 +2545,7 @@
     <title>Mara</title>
     <link>https://mara.com/</link>
     <guid isPermaLink="false">freehub:mara</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2560,7 +2560,7 @@
     <title>Poolside</title>
     <link>https://poolside.ai/</link>
     <guid isPermaLink="false">freehub:poolside</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2575,7 +2575,7 @@
     <title>IBM (watsonx)</title>
     <link>https://ibm.com/watsonx</link>
     <guid isPermaLink="false">freehub:ibm(watsonx)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2590,7 +2590,7 @@
     <title>Morph Labs</title>
     <link>https://morphllm.com/</link>
     <guid isPermaLink="false">freehub:morphlabs</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2605,7 +2605,7 @@
     <title>Relace</title>
     <link>https://relace.ai/</link>
     <guid isPermaLink="false">freehub:relace</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2620,7 +2620,7 @@
     <title>Mancer</title>
     <link>https://mancer.tech/</link>
     <guid isPermaLink="false">freehub:mancer</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2635,7 +2635,7 @@
     <title>智谱AI GLM Coding Plan</title>
     <link>https://bigmodel.cn/</link>
     <guid isPermaLink="false">freehub:智谱aiglmcodingplan</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[Lite ¥118/月起｜GLM-5.3 驱动，能接 20+ 编程工具]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2650,7 +2650,7 @@
     <title>阿里云百炼 Coding Plan</title>
     <link>https://bailian.console.aliyun.com/</link>
     <guid isPermaLink="false">freehub:阿里云百炼codingplan</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2665,7 +2665,7 @@
     <title>MiniMax Token Plan (原编程套餐)</title>
     <link>https://minimaxi.com/</link>
     <guid isPermaLink="false">freehub:minimaxtokenplan(原编程套餐)</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2680,7 +2680,7 @@
     <title>摩尔线程 AI Coding Plan</title>
     <link>https://code.mthreads.com/</link>
     <guid isPermaLink="false">freehub:摩尔线程aicodingplan</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2695,7 +2695,7 @@
     <title>腾讯云混元 Token Plan</title>
     <link>https://cloud.tencent.com/product/hunyuan</link>
     <guid isPermaLink="false">freehub:腾讯云混元tokenplan</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2710,7 +2710,7 @@
     <title>科大讯飞星火 Coding Plan</title>
     <link>https://xinghuo.xfyun.cn/</link>
     <guid isPermaLink="false">freehub:科大讯飞星火codingplan</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2725,7 +2725,7 @@
     <title>白嫖推荐 TOP 4</title>
     <link>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</link>
     <guid isPermaLink="false">freehub:白嫖推荐top4</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2739,7 +2739,7 @@
     <title>编程订阅推荐</title>
     <link>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</link>
     <guid isPermaLink="false">freehub:编程订阅推荐</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费额度</category>
     <description><![CDATA[管理这么多平台的免费API Key太麻烦？推荐使用以下项目，将所有Key统一接入和管理，实现额度最大化利用。]]></description>
     <deal:sourceUrl>https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub</deal:sourceUrl>
@@ -2753,7 +2753,7 @@
     <title>库库 AI</title>
     <link>https://kuku.baidu.com/</link>
     <guid isPermaLink="false">tokfbi:库库ai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>百度·每日赠送</category>
     <description><![CDATA[每日登录 +50 积分、完成一次对话 +50 积分，合计每天可领 100 积分；DeepSeek V4.1 按 0.16 倍率消耗。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2768,7 +2768,7 @@
     <title>WorkBuddy 国际版</title>
     <link>https://www.codebuddy.cn/events/</link>
     <guid isPermaLink="false">tokfbi:workbuddy</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时活动</category>
     <description><![CDATA[Hy3 全天免费、Hy4 preview 每晚 23:00–次日 8:00 免费，两档均至 10 月 31 日；Step 5 Preview 的限免已于 10 月 25 日结束。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2785,7 +2785,7 @@
     <title>字节 TRAE（AI IDE）</title>
     <link>https://www.trae.cn/</link>
     <guid isPermaLink="false">tokfbi:字节trae（aiide）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[基础版长期免费（覆盖约 90% 个人开发场景），SOLO 模式 0 元使用；经分享链接注册并登录桌面端，新用户一次性得 3,000 积分（500 注册 + 2,500 新人福利），积分抵扣模型调用，用完仍可用免费基础模型。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2800,7 +2800,7 @@
     <title>Qoder cn</title>
     <link>https://t.aliyun.com/U/Ob4f6l</link>
     <guid isPermaLink="false">tokfbi:qodercn</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时活动</category>
     <description><![CDATA[Qwen3.8-Flash 限免（官方未公布截止日，将在活动页提前公告）；DeepSeek-V4.1-Flash-1017 按 0× Credits 计费，免费期延至 11 月 1 日 00:00（UTC+8）。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2817,7 +2817,7 @@
     <title>Cline</title>
     <link>https://cline.bot/</link>
     <guid isPermaLink="false">tokfbi:cline</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[不绑卡即可免费调用；有额度限制但日常 coding 够用；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2832,7 +2832,7 @@
     <title>Verdent AI</title>
     <link>https://verdent.ai/</link>
     <guid isPermaLink="false">tokfbi:verdentai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[两款模型完全免费，按 5 小时 / 每周滚动限额；新用户另赠 7 天 + 100 credits；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2847,7 +2847,7 @@
     <title>火山引擎 Ark 协作计划（字节）</title>
     <link>https://console.volcengine.com/ark/region:cn-beijing/openManagement/rewardPlan</link>
     <guid isPermaLink="false">tokfbi:火山引擎ark协作计划（字节）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[免费额度约 200 万 token/天、每日重置，可叠加部分第三方模型；无截止时间。使用体验：用起来比较闹心，需要经常去后台查看，最近模型更替也比较快；但总的来说质量是很好的]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2862,7 +2862,7 @@
     <title>美团 catpaw（App）</title>
     <link>https://catpaw.meituan.com/</link>
     <guid isPermaLink="false">tokfbi:美团catpaw（app）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[新用户登录送 1200 积分；LongCat 免费不限量；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2877,7 +2877,7 @@
     <title>Agnes AI</title>
     <link>https://platform.agnes-ai.com/</link>
     <guid isPermaLink="false">tokfbi:agnesai</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[不限期免费，覆盖文本 / 图像 / 视频；API 每分钟 20 次请求；适合新手小白使用]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2892,7 +2892,7 @@
     <title>BazaarLink</title>
     <link>https://bazaarlink.ai/free</link>
     <guid isPermaLink="false">tokfbi:bazaarlink</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[长期免费：10 RPM / 每天 150 次，不绑卡、无试用期；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2907,7 +2907,7 @@
     <title>魔搭社区 ModelScope</title>
     <link>https://modelscope.cn/</link>
     <guid isPermaLink="false">tokfbi:魔搭社区modelscope</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[较优模型每天至少可调用 200 次；属阿里云旗下，站内还有非常多值得研究的东西；注册即享、无需实名。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2922,7 +2922,7 @@
     <title>微信 AI 小程序成长计划（云开发 CloudBase）</title>
     <link>https://cloud.tencent.com/developer/article/2705075</link>
     <guid isPermaLink="false">tokfbi:微信ai小程序成长计划（云开发cloudbase）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时活动</category>
     <description><![CDATA[10 亿大模型 Token + 10 万张 AI 生图，自申请起 6 个月有效。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2938,7 +2938,7 @@
     <title>天翼云息壤（电信）</title>
     <link>https://www.ctyun.cn/product/maas</link>
     <guid isPermaLink="false">tokfbi:天翼云息壤（电信）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[文本类模型每款 2500 万 Tokens，有效期 2 周（自首次使用算起）。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2953,7 +2953,7 @@
     <title>MonkeyCode（长亭）</title>
     <link>https://monkeycode-ai.com/?ic=019fe974-4b9e-7186-b8a6-2901baec7c2e</link>
     <guid isPermaLink="false">tokfbi:monkeycode（长亭）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[免费档 ¥0 永久：每天 3000 万 Token；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2968,7 +2968,7 @@
     <title>点点 AI（小红书 dots3-note-prev）</title>
     <link>https://dots.ai/platform/apikeys</link>
     <guid isPermaLink="false">tokfbi:点点ai（小红书dots3noteprev）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[限时免费公测：20 RPM / 50 万 TPM；截止时间未公布。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2983,7 +2983,7 @@
     <title>TeleAgent（星辰超级智能体）</title>
     <link>https://www.teleai.com.cn/product/teleagent</link>
     <guid isPermaLink="false">tokfbi:teleagent（星辰超级智能体）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[每天 6000 万 token；长期免费、无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -2998,7 +2998,7 @@
     <title>AMD 免费 API 与开发者计划</title>
     <link>https://developer.amd.com.cn/radeon/tokenfactory</link>
     <guid isPermaLink="false">tokfbi:amd免费api与开发者计划</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[AMD AI 开发者计划最高 $100 云额度 + $50 Fireworks 托管推理额度；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3013,7 +3013,7 @@
     <title>小米 MiMo（Xiaomi）</title>
     <link>https://s.mi.cn/NNI4kZp9</link>
     <guid isPermaLink="false">tokfbi:小米mimo（xiaomi）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[桌面客户端限时限量免费邀测；截止时间未公布，额满即止。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3028,7 +3028,7 @@
     <title>LobsterAI 有道龙虾</title>
     <link>https://lobsterai.youdao.com/#/index?keyfrom=invitation</link>
     <guid isPermaLink="false">tokfbi:lobsterai有道龙虾</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[下载安装即可免费使用；无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3043,7 +3043,7 @@
     <title>云工开物学生专区</title>
     <link>https://university.aliyun.com/course/promotion28-activity?clubTaskBiz=subTask..12836123..10290..&amp;userCode=ygtxup80</link>
     <guid isPermaLink="false">tokfbi:云工开物学生专区</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>注册赠送</category>
     <description><![CDATA[阿里云学生认证可领 300 元代金券，可抵扣 1 个月 Qoder CN 专业版；每人限 1 次，无截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3058,7 +3058,7 @@
     <title>阿里云百炼（DashScope）</title>
     <link>https://dashscope.console.aliyun.com/</link>
     <guid isPermaLink="false">tokfbi:阿里云百炼（dashscope）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[每模型 100 万 token / 3 个月，可叠加（合计约 7000 万）；有效期 3 个月。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3073,7 +3073,7 @@
     <title>书生·端砚 墨点计划（上海AI实验室）</title>
     <link>https://discovery.intern-ai.org.cn/token-plan/home</link>
     <guid isPermaLink="false">tokfbi:书生·端砚墨点计划（上海ai实验室）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>长期免费</category>
     <description><![CDATA[测试期每月 10 墨点（约每月 5 亿 token）；官方未给截止时间。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3088,7 +3088,7 @@
     <title>华为云码道</title>
     <link>https://edu.huaweicloud.com/signup/00ce9d4a32584039a9741d8488d16711?channelCode=edu&amp;medium=share_kfzlb</link>
     <guid isPermaLink="false">tokfbi:华为云码道</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>华为云·每日赠送</category>
     <description><![CDATA[每天赠送 1000 万 Token（当日 24:00 清零），限时福利模型 3 款；签到另得 100 积分/天（体验版）。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3104,7 +3104,7 @@
     <title>Google Antigravity（反重力）</title>
     <link>https://antigravity.google/download</link>
     <guid isPermaLink="false">tokfbi:googleantigravity（反重力）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Google·免费层</category>
     <description><![CDATA[每周提供免费使用额度，支持 Gemini、Claude 等模型。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3119,7 +3119,7 @@
     <title>豆包工作（30 天订阅）</title>
     <link>https://www.doubao.com/download</link>
     <guid isPermaLink="false">tokfbi:豆包工作（30天订阅）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费层</category>
     <description><![CDATA[登录电脑版即可领 30 天标准订阅，到期可再续领一次（合计最多 60 天），付费订阅时长自动顺延。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3134,7 +3134,7 @@
     <title>OVHcloud AI Endpoints</title>
     <link>https://endpoints.ai.cloud.ovh.net/</link>
     <guid isPermaLink="false">tokfbi:ovhcloudaiendpoints</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>免费层</category>
     <description><![CDATA[匿名档免注册、免 API Key 直接调用（约 2 次/分钟）；注册账号后额度更高。免费覆盖 Qwen3.8-27B、Qwen3.5-397B-A17B、Mistral-Small-3.2-24B、Llama-3.3-70B 等 8 款开源模型。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3149,7 +3149,7 @@
     <title>智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）</title>
     <link>https://autoclaw.zhipuai.cn/</link>
     <guid isPermaLink="false">tokfbi:智谱autoclaw登录送token福利（glm5.3flash）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>限时活动</category>
     <description><![CDATA[10/26–11/1 登录客户端领 1 亿 Token（约 10,000 积分），每账号限一次，统一 11/1 23:59 失效。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3166,7 +3166,7 @@
     <title>联通云 Coding Plan（免费体验）</title>
     <link>https://www.cucloud.cn/</link>
     <guid isPermaLink="false">tokfbi:联通云codingplan（免费体验）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>联通云·免费层</category>
     <description><![CDATA[Coding Plan Lite 免费体验 ¥0/月，额度 1.8 万次/月；Pro 免费体验 ¥0/月，额度最高 9 万次/月。Lite 与 Pro 合计 12,000 个专属免费名额、先到先得；领取后生成的 API Key 有效期 31 天。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3181,7 +3181,7 @@
     <title>Loomy（科大讯飞）</title>
     <link>https://loomy.xunfei.cn/</link>
     <guid isPermaLink="false">tokfbi:loomy（科大讯飞）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>科大讯飞·每日赠送</category>
     <description><![CDATA[新用户注册到账 5000 积分；免费用户每天登录再送 5000 积分（次日自动补满、不累积），约可执行 50 次办公任务（简单问答约 10–20 积分、文档处理约 50–100 积分）。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3196,7 +3196,7 @@
     <title>UOS AI（deepin）免费 DeepSeek 账号</title>
     <link>https://www.deepin.org/zh/ai-free-experience/</link>
     <guid isPermaLink="false">tokfbi:uosai（deepin）免费deepseek账号</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>统信 / deepin 社区·免费层</category>
     <description><![CDATA[可免费领取 DeepSeek 账号，每月 50 次文本对话额度（历史账号同样适用）；当月额度用尽后可参考官方《UOS AI 大模型账号申请攻略》自行申请。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3211,7 +3211,7 @@
     <title>移动云 MoMA 模型服务平台</title>
     <link>https://ecloud.10086.cn/</link>
     <guid isPermaLink="false">tokfbi:移动云moma模型服务平台</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>中国移动（移动云）·注册赠送</category>
     <description><![CDATA[每位新用户一次性 2,500 万 Tokens 免费体验额度（限移动云自营模型），自领取起 30 天有效；限流 3,000 tokens/分钟。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3226,7 +3226,7 @@
     <title>百川智能开放平台</title>
     <link>https://platform.baichuan-ai.com/</link>
     <guid isPermaLink="false">tokfbi:百川智能开放平台</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>百川智能·注册赠送</category>
     <description><![CDATA[新用户注册即自动下发 1,000 万 tokens 赠送金（官方按 Baichuan2-Turbo 折算约 80 元），自领取起 3 个月有效。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3241,7 +3241,7 @@
     <title>蚂蚁百灵 Ling Studio</title>
     <link>https://ling.tbox.cn/</link>
     <guid isPermaLink="false">tokfbi:蚂蚁百灵lingstudio</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>蚂蚁集团（百灵大模型）·每日赠送</category>
     <description><![CDATA[每个账号每天赠送 50 万免费计算单元（含输入与输出），每天 02:00 前完成刷新，当日未用完不结转。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3256,7 +3256,7 @@
     <title>书生 Intern AI（上海 AI 实验室）</title>
     <link>https://internlm.intern-ai.org.cn/api/tokens</link>
     <guid isPermaLink="false">tokfbi:书生internai（上海ai实验室）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>上海人工智能实验室·免费层</category>
     <description><![CDATA[每月 9,000 万输入 + 9,000 万输出 tokens 免费额度（各自独立计数、按自然月刷新），默认速率限制 30 次/分钟。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3271,7 +3271,7 @@
     <title>云知声 U2-Flash（Unisound MaaS）</title>
     <link>https://maas.unisound.com/</link>
     <guid isPermaLink="false">tokfbi:云知声u2flash（unisoundmaas）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>云知声（Unisound）·限时活动</category>
     <description><![CDATA[活动期内 U2-Flash 输入、输出、缓存命中三档全部 0 元且不限量，不绑卡、不充值，注册登录 MaaS 平台即自动发放免费额度。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3288,7 +3288,7 @@
     <title>Inception Labs（Mercury 3 扩散式大模型）</title>
     <link>https://platform.inceptionlabs.ai/</link>
     <guid isPermaLink="false">tokfbi:inceptionlabs（mercury3扩散式大模型）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Inception Labs·注册赠送</category>
     <description><![CDATA[每个新账户一次性赠送 1 亿 Tokens（全模型共享，不按模型分别发放），无需绑定支付方式；Mercury 3 上线 5 折：输入 $0.10 / 输出 $0.35 每百万 Tokens（原价 $0.20 / $0.70），缓存读取 $0.01。1M 上下文、单次最多 131,072 输出 Tokens。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3303,7 +3303,7 @@
     <title>七牛云 Conatus Free（1024 免费模型季）</title>
     <link>https://www.qiniu.com/ai/free-models/conatus-2026</link>
     <guid isPermaLink="false">tokfbi:七牛云conatusfree（1024免费模型季）</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>七牛云·限时活动</category>
     <description><![CDATA[实名认证后每日 1 亿 Token；单笔充值满 100 元提至每日 10 亿。10/24–11/30，额度每日 0 点重置不结转。]]></description>
     <deal:sourceUrl>https://token-fbi.com/table/</deal:sourceUrl>
@@ -3319,7 +3319,7 @@
     <title>WorkBuddy 邀请好友</title>
     <link>https://curl.qcloud.com/XWKzfPNG</link>
     <guid isPermaLink="false">tokentab:wb-invite</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[付费升级双方各得 500｜好友 30 天内付费升级，双方各得 500]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3334,7 +3334,7 @@
     <title>WorkBuddy 每月 500 积分</title>
     <link>https://curl.qcloud.com/XWKzfPNG</link>
     <guid isPermaLink="false">tokentab:wb-month</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[每月 1 日自动到账｜免费版基础额度，当月有效、不累积]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3349,7 +3349,7 @@
     <title>WorkBuddy 社区发文赚积分</title>
     <link>https://cloud.tencent.com/developer</link>
     <guid isPermaLink="false">tokentab:wb-article</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[最高 3,000 积分/篇｜心得 +500、教程 +1,000，精选再加 2,000]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3364,7 +3364,7 @@
     <title>QClaw 老用户迁移补贴</title>
     <link>https://curl.qcloud.com/XWKzfPNG</link>
     <guid isPermaLink="false">tokentab:qclaw-move</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[约 1,000 积分｜QClaw 将于 12-24 停止运营，老用户去官网顶部迁移到 WorkBuddy 可领（1 个月有效）]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3380,7 +3380,7 @@
     <title>Marvis 每日 1,000 万 Token</title>
     <link>https://marvis.qq.com/</link>
     <guid isPermaLink="false">tokentab:marvis</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[每人每天 1,000 万｜腾讯系统级 AI 管家，可接第三方模型]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3395,7 +3395,7 @@
     <title>Qoder CN 注册礼</title>
     <link>https://www.aliyun.com/product/lingma?userCode=ud9ofr4y</link>
     <guid isPermaLink="false">tokentab:qoder-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[300 Credits + 2 周试用｜注册领 300 Credits + 2 周专业版]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3410,7 +3410,7 @@
     <title>Qoder 内 DeepSeek-Flash 0 倍率</title>
     <link>https://qoder.com/</link>
     <guid isPermaLink="false">tokentab:qoder-deepseek-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[0× Credits 不扣额度｜延期到 11-01 00:00；免费和付费个人账号都是 0 倍率，团队版和企业版照常扣。每日免费次数官方没公布，用完等次日]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3427,7 +3427,7 @@
     <title>GLM Coding 7 天体验卡</title>
     <link>https://bigmodel.cn/glm-coding</link>
     <guid isPermaLink="false">tokentab:glm-trial</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[2,000 积分 · 7 天｜没订阅过的账号限领一次，2,000 积分 7 天后作废]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3442,7 +3442,7 @@
     <title>智谱 × 杭州 Coding 计划</title>
     <link>https://www.bigmodel.cn/glm-coding</link>
     <guid isPermaLink="false">tokentab:glm-hangzhou</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[Token 减免最高 55%｜在杭个人季卡减 44%、年卡减 51%，上城企业年卡减 55%；个人要交杭州社保参保或高校在校证明，名额先到先得]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3458,7 +3458,7 @@
     <title>Kimi Code 订阅</title>
     <link>https://www.kimi.com/code</link>
     <guid isPermaLink="false">tokentab:kimi-code</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[Plus 档 ¥99/月（年付折算 ¥79）｜五档月付 ¥49 起，Code 要从 Plus 档起]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3473,7 +3473,7 @@
     <title>秒悟 Meoo 免费版</title>
     <link>https://docs.meoo.com/coindesc</link>
     <guid isPermaLink="false">tokentab:meoo-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[¥0 月费 · 每天 2,000 积分｜免费版首月送 5,000 积分，每日登录再送 2,000]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3488,7 +3488,7 @@
     <title>Trae SOLO 模式</title>
     <link>https://www.trae.cn/</link>
     <guid isPermaLink="false">tokentab:trae-solo</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[完全免费｜国内版全线免费，内置豆包、Kimi、GLM]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3503,7 +3503,7 @@
     <title>文心快码 Auto-Free 通道</title>
     <link>https://comate.baidu.com/zh/pricing</link>
     <guid isPermaLink="false">tokentab:comate-autofree</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[Pro 150k / Max 500k tokens/h｜限时到 12-31：付费档没模型额度时自动切 Auto-Free、不扣积分（Max 不限量）。免费版只送 5,000 积分，Auto 调度不能手选模型]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3519,7 +3519,7 @@
     <title>文心快码付费版</title>
     <link>https://comate.baidu.com/zh/pricing</link>
     <guid isPermaLink="false">tokentab:comate-pro</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[Pro ¥55/月 · Max ¥199/月｜Pro 2.5 万、Max 10 万积分/月，带 Auto-Free]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3534,7 +3534,7 @@
     <title>CodeBuddy 体验版</title>
     <link>https://www.codebuddy.cn/pricing/</link>
     <guid isPermaLink="false">tokentab:codebuddy-trial</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>Agent/编程助手</category>
     <description><![CDATA[每月 500 积分 + 限免全模型｜和 WorkBuddy 共账号积分，包月约 7 折]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3549,7 +3549,7 @@
     <title>编程助手免费档</title>
     <link>https://www.tokentab.cn/deals.html</link>
     <guid isPermaLink="false">tokentab:agent-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>永久免费·Agent/编程助手</category>
     <description><![CDATA[完全免费｜Trae（字节）、Qoder CN 社区版（阿里，原通义灵码）、CodeBuddy 个人版（腾讯）、CodeGeeX（智谱）都不要钱，日常补全够用]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3563,7 +3563,7 @@
     <title>阿里云百炼 Qwen3.8 Flash</title>
     <link>https://www.aliyun.com/product/bailian?userCode=ud9ofr4y</link>
     <guid isPermaLink="false">tokentab:qwen-flash</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[¥0.8 / ¥2.7 每百万｜批量 5 折、缓存命中 ¥0.1，不享新人额度]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3578,7 +3578,7 @@
     <title>腾讯混元 TokenHub 新人包</title>
     <link>https://cloud.tencent.com/product/hunyuan</link>
     <guid isPermaLink="false">tokentab:hunyuan-tokenhub</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[每模型 100 万 · 1 年有效｜12-31 前注册可领；混元 Lite 另外长期免费]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3594,7 +3594,7 @@
     <title>腾讯元器 每月 100 万 Token</title>
     <link>https://yuanqi.tencent.com/guide/publish-agent-api-token-explanation</link>
     <guid isPermaLink="false">tokentab:yuanqi</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[每月 100 万 · 长期｜官方每月 100 万 token，公众号和企业微信不限量]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3609,7 +3609,7 @@
     <title>火山方舟 协作奖励计划</title>
     <link>https://www.volcengine.com/product/doubao</link>
     <guid isPermaLink="false">tokentab:ark-coop</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[每天返还免费 Token｜实名授权即加入，每天约 200 万次日返还]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3624,7 +3624,7 @@
     <title>阿里云百炼新人 7,000 万 Token</title>
     <link>https://www.aliyun.com/product/bailian?userCode=ud9ofr4y</link>
     <guid isPermaLink="false">tokentab:bailian-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[每模型独立 100 万｜开通自动发，90 天有效，仅华北2 地域]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3639,7 +3639,7 @@
     <title>智谱 AI 新人 2,000 万 Token</title>
     <link>https://open.bigmodel.cn/</link>
     <guid isPermaLink="false">tokentab:zhipu-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[永久有效｜注册即送；GLM-4.7-Flash 另外永久免费]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3654,7 +3654,7 @@
     <title>GLM-5.3-Flash 限时五折</title>
     <link>https://www.bigmodel.cn/pricing</link>
     <guid isPermaLink="false">tokentab:glm-flash-half</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[¥0.4 / ¥1.4 每百万｜标准价 ¥0.8/¥2.8，官方没写截止日]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3669,7 +3669,7 @@
     <title>硅基流动新人赠金</title>
     <link>https://cloud.siliconflow.cn/i/ShOTFRBQ</link>
     <guid isPermaLink="false">tokentab:siliconflow-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[约 ¥16 无门槛代金券｜「9B 以下永久免费」已取消，只剩语音]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3684,7 +3684,7 @@
     <title>Kimi 新人代金券</title>
     <link>https://platform.kimi.com/</link>
     <guid isPermaLink="false">tokentab:kimi-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[约 ¥15 · 永久有效｜开放平台注册即送，形式以页面为准]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3699,7 +3699,7 @@
     <title>七牛云新人 300 万 Token</title>
     <link>https://www.qiniu.com/ai/agent</link>
     <guid isPermaLink="false">tokentab:qiniu-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[一个 Key 调 70+ 模型｜注册即领；企业认证再领 1,200 万]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3714,7 +3714,7 @@
     <title>讯飞星火实名 50 万 Token</title>
     <link>https://xinghuo.xfyun.cn/</link>
     <guid isPermaLink="false">tokentab:iflytek-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[30 天有效｜实名认证即送；Spark Lite 另永久免费]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3729,7 +3729,7 @@
     <title>百度千帆每模型 100 万 Token</title>
     <link>https://cloud.baidu.com/campaign/ambassador-product/index.html?ambassadorId=00fa45bd5fe848078164195ca7565624#knowledge-model</link>
     <guid isPermaLink="false">tokentab:baidu-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[约 90 天有效｜ERNIE-Speed-8K 永久免费，限 50 QPS]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3744,7 +3744,7 @@
     <title>DeepSeek 新人 500 万 Token</title>
     <link>https://platform.deepseek.com/</link>
     <guid isPermaLink="false">tokentab:deepseek-new</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[注册即送｜V4-Pro / V4-Flash，写代码便宜；有效期以控制台为准]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3759,7 +3759,7 @@
     <title>DeepSeek 搜索·抓取 API 免费窗口</title>
     <link>https://api-docs.deepseek.com/zh-cn/quick_start/pricing</link>
     <guid isPermaLink="false">tokentab:deepseek-search</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[Search / Fetch 暂时不计费｜在 DeepSeek Harness、Claude Code、Codex 里走服务端工具调用才免费，11-01 00:00 起按次收：每 1,000 次成功请求 5 元，失败和空结果不计费。只是搜索接口免费，不等于模型 API 免费]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3776,7 +3776,7 @@
     <title>阿里魔搭每天 2,000 次调用</title>
     <link>https://modelscope.cn/home</link>
     <guid isPermaLink="false">tokentab:modelscope</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>大模型 API</category>
     <description><![CDATA[每天 2,000 次｜社区全模型可用，单模型上限 500 次/天]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3791,7 +3791,7 @@
     <title>永久免费模型</title>
     <link>https://www.tokentab.cn/deals.html</link>
     <guid isPermaLink="false">tokentab:model-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>永久免费·大模型 API</category>
     <description><![CDATA[输入输出全免｜Hunyuan-Lite（腾讯）、GLM-4.7-Flash（智谱）、ERNIE-Speed-8K（百度）、Spark Lite（讯飞）——轻量任务长期零成本]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3805,7 +3805,7 @@
     <title>Copilot 学生免费档</title>
     <link>https://www.tokentab.cn/deals.html</link>
     <guid isPermaLink="false">tokentab:g-copilot-student</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[认证学生免费｜在校学生做 GitHub 学生认证后免费，功能和免费档接近但限制更宽。需海外网络 + 学生身份]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3819,7 +3819,7 @@
     <title>ChatGPT 教师计划</title>
     <link>https://openai.com/api/pricing/</link>
     <guid isPermaLink="false">tokentab:g-oai-teacher</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[认证教师免费｜美国 K-12 认证教育工作者免费用 ChatGPT。官方只写到「有效期至 2027 年 6 月」，没给具体日子，这里的倒计时按月底估算。国内读者基本用不上，当新闻看]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3835,7 +3835,7 @@
     <title>OpenAI 非营利折扣</title>
     <link>https://openai.com/api/pricing/</link>
     <guid isPermaLink="false">tokentab:g-oai-nonprofit</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[最高减 75%｜面向非营利组织的 Business / Enterprise 折扣，要走资质审核，个人号用不上。长期政策，未标截止]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3850,7 +3850,7 @@
     <title>Workers AI 免费额度</title>
     <link>https://developers.cloudflare.com/workers-ai/platform/pricing/</link>
     <guid isPermaLink="false">tokentab:g-cf-workers</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[每天 1 万个算力点｜官方叫 Neurons，按 GPU 算力消耗算的点数，不是 token；一天 1 万个折成钱约 0.11 美元（≈¥0.8）。超出按每千个 0.011 美元计，模型越大扣得越快，一万只够小脚本跑。需海外网络]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3865,7 +3865,7 @@
     <title>ElevenLabs 免费档</title>
     <link>https://elevenlabs.io/pricing</link>
     <guid isPermaLink="false">tokentab:g-elevenlabs</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[每月 1 万个点数｜官方叫 credits，配音按长短扣点、不是按次；含 3 个 Studio 项目。免费档点数月底清零不结转，商用要署名。需海外网络]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3880,7 +3880,7 @@
     <title>Gemini 免费层</title>
     <link>https://ai.google.dev/</link>
     <guid isPermaLink="false">tokentab:g-gemini-free</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[Flash 系列免费｜有免费层这件事准确，但具体次数官方页抓不到，网上传的 1,500 次/天和 50 次/天互相矛盾，你以 AI Studio 控制台里显示的为准。免费层数据可能用于训练，涉密别用。需海外网络]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3895,7 +3895,7 @@
     <title>Mercury 3 发布期五折</title>
     <link>https://www.inceptionlabs.ai/</link>
     <guid isPermaLink="false">tokentab:g-mercury3</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[¥0.72 / ¥2.52 每百万 token｜扩散架构，1M 上下文；官网首页标 50% OFF，输入 0.10 美元、输出 0.35 美元每百万，折人民币如上，原价正好翻倍。官方没写折扣到期日，Inception、OpenRouter、Baseten 都能调。需海外网络]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
@@ -3910,7 +3910,7 @@
     <title>Claude 代码执行免费额度</title>
     <link>https://www.anthropic.com/pricing</link>
     <guid isPermaLink="false">tokentab:g-anthropic</guid>
-    <pubDate>Fri, 30 Oct 2026 06:33:49 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 07:40:59 +0000</pubDate>
     <category>海外</category>
     <description><![CDATA[每天 50 小时执行时长｜指沙箱里跑代码的时长，不是模型调用免费，超出按每容器每小时 0.05 美元计。另外买 Claude Max 套餐（100 美元/月起）会送每月 100-200 美元 API 额度。需海外网络]]></description>
     <deal:sourceUrl>https://www.tokentab.cn/deals.html</deal:sourceUrl>
