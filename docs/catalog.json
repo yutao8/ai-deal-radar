@@ -1,29 +1,7 @@
 {
- "generated_at": "2026-10-30T23:44:56+08:00",
- "total": 258,
+ "generated_at": "2026-10-31T10:09:11+08:00",
+ "total": 257,
  "items": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-intl-communityboost/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "Qoder 国际站 Community Boost 阶梯加赠最高 4,096 SOTA Credits",
-   "cat": "赠送额度",
-   "detail": "阶梯加赠最高 4,096 SOTA Credits",
-   "deadline": "2026-10-30",
-   "basis": "https://docs.qoder.com/events/communityboost.md",
-   "link_source": "https://aitkradar.cn/deals/manual-qoder-intl-communityboost/",
-   "link_vendor": "https://docs.qoder.com/events/communityboost.md",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-qoder-intl-communityboost/"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达"
-  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
    "src": "aitkradar",
@@ -35,7 +13,7 @@
    "basis": "https://agent.minimax.cn/",
    "link_source": "https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
    "link_vendor": "https://agent.minimax.cn/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar",
     "tokentab"
@@ -45,7 +23,7 @@
     "tokentab:minimax-mplan"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -59,7 +37,7 @@
    "basis": "https://qoder.cn",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
    "link_vendor": "https://qoder.cn/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -68,7 +46,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-sensenova-xhx-deepseek-free/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -82,7 +60,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -90,7 +68,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -104,7 +82,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -112,7 +90,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -126,7 +104,7 @@
    "basis": "https://autoclaw.z.ai/blog/news/M10W4/",
    "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
    "link_vendor": "https://autoclaw.z.ai/blog/news/M10W4/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "aitkradar"
    ],
@@ -1723,7 +1701,7 @@
    "basis": "https://api-docs.deepseek.com/quick_start/pricing",
    "link_source": "https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free",
    "link_vendor": "https://api-docs.deepseek.com/quick_start/pricing",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "apiprice"
    ],
@@ -1767,7 +1745,7 @@
    "basis": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
    "link_source": "https://devtk.ai/zh/deals/",
    "link_vendor": "https://chatgpt.com/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "devtk"
    ],
@@ -1775,7 +1753,7 @@
     "devtk:chatgptplus（学生）"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "DevTk.AI"
   },
   {
@@ -4064,7 +4042,7 @@
    "basis": "https://www.toutiao.com/a7698041018058342953",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokfbi"
    ],
@@ -4073,7 +4051,7 @@
     "tokfbi:workbuddy国际版"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "Token FBI"
   },
   {
@@ -4109,7 +4087,7 @@
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://t.aliyun.com/U/Ob4f6l",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4610,12 +4588,11 @@
    "kind": "deal",
    "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
    "cat": "限时活动",
-   "detail": "10/26–11/1 登录客户端领 1 亿 Token（约 10,000 积分），每账号限一次，统一 11/1 23:59 失效。",
-   "deadline": "2026-11-01",
+   "detail": "每周登录领一次：本周 10/26–11/1 领 1 亿 Token（1 万积分），下周 11/2–11/8 为 5000 万（5000 积分），均于当期截止日失效。",
+   "deadline": "2026-11-08",
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -4624,7 +4601,8 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI"
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4783,15 +4761,14 @@
   {
    "key": "tokfbi:云知声u2flash（unisoundmaas）",
    "src": "tokfbi",
-   "kind": "deal",
+   "kind": "res",
    "title": "云知声 U2-Flash（Unisound MaaS）",
-   "cat": "云知声（Unisound）·限时活动",
-   "detail": "活动期内 U2-Flash 输入、输出、缓存命中三档全部 0 元且不限量，不绑卡、不充值，注册登录 MaaS 平台即自动发放免费额度。",
-   "deadline": "2026-10-31",
+   "cat": "云知声（Unisound）·免费层",
+   "detail": "U Plan Free 档：每周 2500 积分、5 小时窗口 500 积分，另赠 U2-ASR 8 小时 / U2-TTS 4 万字；原不限量限免已于 10-31 结束。",
+   "deadline": "",
    "basis": "https://maas.unisound.com/models/u2-flash",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://maas.unisound.com/",
-   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4800,7 +4777,8 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI"
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:inceptionlabs（mercury3扩散式大模型）",
@@ -4993,7 +4971,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://qoder.com/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -5499,7 +5477,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],

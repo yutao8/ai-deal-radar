@@ -1,12 +1,15 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-10-30T23:44:56+08:00",
+ "generated_at": "2026-10-31T10:09:11+08:00",
  "meta": {
-  "chars": 45,
+  "chars": 392,
   "dropped": 0,
-  "items": 0,
+  "items": 6,
+  "blocks": {
+   "即将截止": 6
+  },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】10-30 23:44\n\n本次无新增活动，也无新进入提醒窗口的截止条目。"
+ "brief": "【AI 优惠雷达】10-31 10:09\n\n■ 即将截止\nChatGPT Plus（学生） ｜ 今天截止 ｜ https://chatgpt.com/\nMiniMax M Plan 月付首月五折 ｜ 今天截止 ｜ https://agent.minimax.cn/\nWorkBuddy Hy3 模型限免延期 ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy Hy4 preview 夜间限免 ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy 国际版 ｜ 今天截止 ｜ https://www.codebuddy.cn/events/\n商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31） ｜ 今天截止 ｜ https://qoder.cn/"
 }

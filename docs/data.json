@@ -1,40 +1,22 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-10-30T23:44:56+08:00",
- "generated_date": "2026-10-30",
+ "generated_at": "2026-10-31T10:09:11+08:00",
+ "generated_date": "2026-10-31",
  "near_days": 3,
- "has_changes": false,
+ "has_changes": true,
  "counts": {
-  "total": 258,
+  "total": 257,
   "new": 0,
   "new_deals": 0,
   "new_resources": 0,
-  "expiring": 14,
-  "expiring_new": 0,
+  "expiring": 11,
+  "expiring_new": 6,
   "failed_sources": 0
  },
  "new_deals": [],
  "new_resources": [],
  "expiring": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-intl-communityboost/",
-   "title": "Qoder 国际站 Community Boost 阶梯加赠最高 4,096 SOTA Credits",
-   "detail": "阶梯加赠最高 4,096 SOTA Credits",
-   "cat": "赠送额度",
-   "link": "https://docs.qoder.com/events/communityboost.md",
-   "link_source": "https://aitkradar.cn/deals/manual-qoder-intl-communityboost/",
-   "link_vendor": "https://docs.qoder.com/events/communityboost.md",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-10-30",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": false
-  },
   {
    "key": "devtk:chatgptplus（学生）",
    "title": "ChatGPT Plus（学生）",
@@ -49,9 +31,9 @@
    ],
    "deadline": "2026-10-31",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
@@ -68,9 +50,9 @@
    ],
    "deadline": "2026-10-31",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
@@ -86,9 +68,9 @@
    ],
    "deadline": "2026-10-31",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
@@ -104,9 +86,9 @@
    ],
    "deadline": "2026-10-31",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "tokfbi:workbuddy",
@@ -122,27 +104,9 @@
    ],
    "deadline": "2026-10-31",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
-  },
-  {
-   "key": "tokfbi:云知声u2flash（unisoundmaas）",
-   "title": "云知声 U2-Flash（Unisound MaaS）",
-   "detail": "活动期内 U2-Flash 输入、输出、缓存命中三档全部 0 元且不限量，不绑卡、不充值，注册登录 MaaS 平台即自动发放免费额度。",
-   "cat": "云知声（Unisound）·限时活动",
-   "link": "https://maas.unisound.com/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://maas.unisound.com/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-10-31",
-   "kind": "deal",
-   "days_left": 1,
-   "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
@@ -158,9 +122,9 @@
    ],
    "deadline": "2026-10-31",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "tokentab:deepseek-search",
@@ -176,7 +140,7 @@
    ],
    "deadline": "2026-11-01",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -194,7 +158,7 @@
    ],
    "deadline": "2026-11-01",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -212,7 +176,7 @@
    ],
    "deadline": "2026-11-01",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -230,7 +194,7 @@
    ],
    "deadline": "2026-11-01",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -248,39 +212,134 @@
    ],
    "deadline": "2026-11-01",
    "kind": "deal",
-   "days_left": 2,
-   "is_new": false,
-   "notify": false
-  },
-  {
-   "key": "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）",
-   "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
-   "detail": "10/26–11/1 登录客户端领 1 亿 Token（约 10,000 积分），每账号限一次，统一 11/1 23:59 失效。",
-   "cat": "限时活动",
-   "link": "https://autoclaw.zhipuai.cn/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-01",
-   "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   }
  ],
- "expiring_new": [],
+ "expiring_new": [
+  {
+   "key": "devtk:chatgptplus（学生）",
+   "title": "ChatGPT Plus（学生）",
+   "detail": "美国在读大学生/研究生免费用 4 个月 ChatGPT Plus",
+   "cat": "学生优惠",
+   "link": "https://chatgpt.com/",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://chatgpt.com/",
+   "src_name": "DevTk.AI",
+   "srcs": [
+    "devtk"
+   ],
+   "deadline": "2026-10-31",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
+   "title": "MiniMax M Plan 月付首月五折",
+   "detail": "至10月31日，新订阅或升级M Plan月付首月5折，次月起原价续订",
+   "cat": "限时特价",
+   "link": "https://agent.minimax.cn/",
+   "link_source": "https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
+   "link_vendor": "https://agent.minimax.cn/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar",
+    "tokentab"
+   ],
+   "deadline": "2026-10-31",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
+   "title": "WorkBuddy Hy3 模型限免延期",
+   "detail": "Hy3 模型限免，延期至 10/31",
+   "cat": "免费额度",
+   "link": "https://www.workbuddy.cn/pricing/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
+   "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-10-31",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
+   "title": "WorkBuddy Hy4 preview 夜间限免",
+   "detail": "Hy4 preview 夜间限免（23:00-08:00）",
+   "cat": "免费额度",
+   "link": "https://www.workbuddy.cn/pricing/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
+   "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-10-31",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokfbi:workbuddy",
+   "title": "WorkBuddy 国际版",
+   "detail": "Hy3 全天免费、Hy4 preview 每晚 23:00–次日 8:00 免费，两档均至 10 月 31 日；Step 5 Preview 的限免已于 10 月 25 日结束。",
+   "cat": "限时活动",
+   "link": "https://www.codebuddy.cn/events/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://www.codebuddy.cn/events/",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
+   ],
+   "deadline": "2026-10-31",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
+   "title": "商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31）",
+   "detail": "DeepSeek-V4.1-Flash 系数 0x 不扣 Credits",
+   "cat": "免费额度",
+   "link": "https://qoder.cn/",
+   "link_source": "https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
+   "link_vendor": "https://qoder.cn/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-10-31",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  }
+ ],
  "events": [],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】10-30 23:44\n\n本次无新增活动，也无新进入提醒窗口的截止条目。",
+ "brief": "【AI 优惠雷达】10-31 10:09\n\n■ 即将截止\nChatGPT Plus（学生） ｜ 今天截止 ｜ https://chatgpt.com/\nMiniMax M Plan 月付首月五折 ｜ 今天截止 ｜ https://agent.minimax.cn/\nWorkBuddy Hy3 模型限免延期 ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy Hy4 preview 夜间限免 ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy 国际版 ｜ 今天截止 ｜ https://www.codebuddy.cn/events/\n商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31） ｜ 今天截止 ｜ https://qoder.cn/",
  "brief_meta": {
-  "chars": 45,
+  "chars": 392,
   "dropped": 0,
-  "items": 0,
+  "items": 6,
+  "blocks": {
+   "即将截止": 6
+  },
   "limit": 1500
  },
- "should_push": false,
- "report_md": "NO_CHANGE\n\n2026-10-30 23:44 检查完成：在架 258 条，无新增、无新进入 3 天窗口的活动。\n"
+ "should_push": true,
+ "report_md": "# AI 优惠雷达 · 2026-10-31（10:09）\n\n### 即将截止 6 条\n\n- ChatGPT Plus（学生） — 2026-10-31（今天截止）\n  美国在读大学生/研究生免费用 4 个月 ChatGPT Plus\n  来源 https://devtk.ai/zh/deals/\n  官方 https://chatgpt.com/\n- MiniMax M Plan 月付首月五折 — 2026-10-31（今天截止）\n  至10月31日，新订阅或升级M Plan月付首月5折，次月起原价续订\n  来源 https://aitkradar.cn/deals/manual-minimax-mplan-half-month/\n  官方 https://agent.minimax.cn/\n- 商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31） — 2026-10-31（今天截止）\n  DeepSeek-V4.1-Flash 系数 0x 不扣 Credits\n  来源 https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/\n  官方 https://qoder.cn/\n- WorkBuddy 国际版 — 2026-10-31（今天截止）\n  Hy3 全天免费、Hy4 preview 每晚 23:00–次日 8:00 免费，两档均至 10 月 31 日；Step 5 Preview 的限免已于 10 月 25 日结束。\n  来源 https://token-fbi.com/table/\n  官方 https://www.codebuddy.cn/events/\n- WorkBuddy Hy3 模型限免延期 — 2026-10-31（今天截止）\n  Hy3 模型限免，延期至 10/31\n  来源 https://aitkradar.cn/deals/manual-workbuddy-hy3/\n  官方 https://www.workbuddy.cn/pricing/\n- WorkBuddy Hy4 preview 夜间限免 — 2026-10-31（今天截止）\n  Hy4 preview 夜间限免（23:00-08:00）\n  来源 https://aitkradar.cn/deals/manual-workbuddy-hy4preview/\n  官方 https://www.workbuddy.cn/pricing/\n\n"
 }
