@@ -289,26 +289,19 @@
   "tokentab:g-gemini-free": "2026-10-30",
   "tokentab:g-gemini-argon": "2026-10-30",
   "tokentab:g-mercury3": "2026-10-30",
-  "tokentab:g-anthropic": "2026-10-30"
+  "tokentab:g-anthropic": "2026-10-30",
+  "aitkradar:https://aitkradar.cn/deals/manual-zcode-daily-300m/": "2026-11-01",
+  "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-buddyone-100/": "2026-11-01",
+  "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/": "2026-11-01"
  },
  "expiring_notified": {
-  "devtk:chatgptplus（学生）": 0,
-  "tokentab:minimax-mplan": 0,
-  "aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/": 0,
-  "aitkradar:https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/": 0,
   "tokfbi:workbuddy": 0,
   "tokfbi:workbuddy国际版": 0,
-  "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/": 0,
-  "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/": 0,
   "tokfbi:云知声u2flash（unisoundmaas）": 1,
-  "aitkradar:https://aitkradar.cn/deals/manual-sensenova-xhx-deepseek-free/": 0,
-  "tokentab:deepseek-search": 2,
-  "apiprice:https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free": 2,
   "tokfbi:qodercn": 2,
-  "tokentab:qoder-deepseek-free": 2,
   "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）": 2,
-  "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/": 2
+  "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/": 0
  },
- "last_run": "2026-10-31T10:09:11+08:00",
+ "last_run": "2026-11-01T09:59:57+08:00",
  "first_run": "2026-10-30T14:13:34+08:00"
 }

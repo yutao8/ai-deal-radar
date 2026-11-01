@@ -1,9 +1,9 @@
-【AI 优惠雷达】10-31 10:09
+【AI 优惠雷达】11-01 09:59
 
 ■ 即将截止
-ChatGPT Plus（学生） ｜ 今天截止 ｜ https://chatgpt.com/
-MiniMax M Plan 月付首月五折 ｜ 今天截止 ｜ https://agent.minimax.cn/
-WorkBuddy Hy3 模型限免延期 ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/
-WorkBuddy Hy4 preview 夜间限免 ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/
-WorkBuddy 国际版 ｜ 今天截止 ｜ https://www.codebuddy.cn/events/
-商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31） ｜ 今天截止 ｜ https://qoder.cn/
+智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M10W4） ｜ 今天截止 ｜ https://autoclaw.z.ai/blog/news/M10W4/
+
+■ 新增免费资源
+智谱：ZCode 邀请好友得夜间蹬蹬卡（1 亿 GLM-5.3-Flash tokens） ｜ https://zcode.z.ai/
+WorkBuddy 关联 Buddy One 送 100 积分（四端通用） ｜ https://www.workbuddy.cn/buddyone
+Qoder CN 双十一特惠：专业版月付首购 19.9 元（原 59 元） ｜ https://docs.qoder.cn/events/purchase-offer.md

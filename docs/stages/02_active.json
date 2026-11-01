@@ -1,104 +1,13 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-10-31T10:09:11+08:00",
- "count": 257,
+ "generated_at": "2026-11-01T09:59:57+08:00",
+ "count": 249,
  "split": {
-  "deal": 27,
-  "res": 230
+  "deal": 18,
+  "res": 231
  },
  "items": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "MiniMax M Plan 月付首月五折",
-   "cat": "限时特价",
-   "detail": "至10月31日，新订阅或升级M Plan月付首月5折，次月起原价续订",
-   "deadline": "2026-10-31",
-   "basis": "https://agent.minimax.cn/",
-   "link_source": "https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
-   "link_vendor": "https://agent.minimax.cn/",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar",
-    "tokentab"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-minimax-mplan-half-month/",
-    "tokentab:minimax-mplan"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "AI价格雷达"
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "商汤小浣熊 DeepSeek-V4.1-Flash-1017 限免（至 10-31）",
-   "cat": "免费额度",
-   "detail": "DeepSeek-V4.1-Flash 系数 0x 不扣 Credits",
-   "deadline": "2026-10-31",
-   "basis": "https://qoder.cn",
-   "link_source": "https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
-   "link_vendor": "https://qoder.cn/",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-qoder-deepseek-flash-free/",
-    "aitkradar:https://aitkradar.cn/deals/manual-sensenova-xhx-deepseek-free/"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "AI价格雷达"
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "WorkBuddy Hy3 模型限免延期",
-   "cat": "免费额度",
-   "detail": "Hy3 模型限免，延期至 10/31",
-   "deadline": "2026-10-31",
-   "basis": "https://www.workbuddy.cn/pricing/",
-   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
-   "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "AI价格雷达"
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "WorkBuddy Hy4 preview 夜间限免",
-   "cat": "免费额度",
-   "detail": "Hy4 preview 夜间限免（23:00-08:00）",
-   "deadline": "2026-10-31",
-   "basis": "https://www.workbuddy.cn/pricing/",
-   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
-   "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "AI价格雷达"
-  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
    "src": "aitkradar",
@@ -110,7 +19,7 @@
    "basis": "https://autoclaw.z.ai/blog/news/M10W4/",
    "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
    "link_vendor": "https://autoclaw.z.ai/blog/news/M10W4/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -118,7 +27,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -937,10 +846,11 @@
     "aitkradar"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/"
+    "aitkradar:https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/",
+    "aitkradar:https://aitkradar.cn/deals/manual-zcode-daily-300m/"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -1297,6 +1207,50 @@
    "days_left": null
   },
   {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-buddyone-100/",
+   "src": "aitkradar",
+   "kind": "res",
+   "title": "WorkBuddy 关联 Buddy One 送 100 积分（四端通用）",
+   "cat": "赠送额度",
+   "detail": "关联 Buddy One 账号送 100 积分（四端通用）",
+   "deadline": "",
+   "basis": "https://www.workbuddy.cn/buddyone",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-buddyone-100/",
+   "link_vendor": "https://www.workbuddy.cn/buddyone",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-buddyone-100/"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/",
+   "src": "aitkradar",
+   "kind": "res",
+   "title": "Qoder CN 双十一特惠：专业版月付首购 19.9 元（原 59 元）",
+   "cat": "限时特价",
+   "detail": "专业版首月 19.9 元（原 59 元/月，含 2000 Credits）",
+   "deadline": "",
+   "basis": "https://docs.qoder.cn/events/purchase-offer.md",
+   "link_source": "https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/",
+   "link_vendor": "https://docs.qoder.cn/events/purchase-offer.md",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
    "key": "apiprice:https://apiprice.app/zh/deals/#gemini-4-argon-promo",
    "src": "apiprice",
    "kind": "deal",
@@ -1382,28 +1336,6 @@
    ],
    "keys": [
     "apiprice:https://apiprice.app/zh/deals/#opencode-beam"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "apiprice",
-   "days_left": null
-  },
-  {
-   "key": "apiprice:https://apiprice.app/zh/deals/#openrouter-laguna-21-free",
-   "src": "apiprice",
-   "kind": "res",
-   "title": "OpenRouter：Poolside Laguna S 2.1 / XS 2.1 免费版（模型 10-31 到期）",
-   "cat": "限时免费模型",
-   "detail": "poolside/laguna-s-2.1:free 和 poolside/laguna-xs-2.1:free 价格为 $0。OpenRouter API 的 expiration_date 是 2026-10-31，这个日期写在模型本身上（付费版同一天到期），不只是免费期结束。",
-   "deadline": "",
-   "basis": "https://openrouter.ai/api/v1/models",
-   "link_source": "https://apiprice.app/zh/deals/#openrouter-laguna-21-free",
-   "link_vendor": "https://openrouter.ai/api/v1/models",
-   "srcs": [
-    "apiprice"
-   ],
-   "keys": [
-    "apiprice:https://apiprice.app/zh/deals/#openrouter-laguna-21-free"
    ],
    "is_new": false,
    "notify": false,
@@ -1697,28 +1629,6 @@
    "days_left": null
   },
   {
-   "key": "apiprice:https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free",
-   "src": "apiprice",
-   "kind": "deal",
-   "title": "DeepSeek：经 Harness / Claude Code / Codex 的服务端 Search 和 Fetch 调用暂时免费（到 11-01）",
-   "cat": "限时降价",
-   "detail": "通过 DeepSeek Harness、Claude Code 或 Codex 使用 DeepSeek API 时，服务端工具调用会触发 Search 和 Fetch API，目前不收费；从 2026-11-01 00:00（北京时间）起按次计费。",
-   "deadline": "2026-11-01",
-   "basis": "https://api-docs.deepseek.com/quick_start/pricing",
-   "link_source": "https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free",
-   "link_vendor": "https://api-docs.deepseek.com/quick_start/pricing",
-   "days_left": 1,
-   "srcs": [
-    "apiprice"
-   ],
-   "keys": [
-    "apiprice:https://apiprice.app/zh/deals/#deepseek-server-search-fetch-free"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "apiprice"
-  },
-  {
    "key": "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "src": "apiprice",
    "kind": "deal",
@@ -1739,28 +1649,6 @@
    "notify": false,
    "src_name": "apiprice",
    "days_left": null
-  },
-  {
-   "key": "devtk:chatgptplus（学生）",
-   "src": "devtk",
-   "kind": "deal",
-   "title": "ChatGPT Plus（学生）",
-   "cat": "学生优惠",
-   "detail": "美国在读大学生/研究生免费用 4 个月 ChatGPT Plus",
-   "deadline": "2026-10-31",
-   "basis": "https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://chatgpt.com/",
-   "days_left": 0,
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:chatgptplus（学生）"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "DevTk.AI"
   },
   {
    "key": "devtk:googleaipro（学生）",
@@ -4041,24 +3929,23 @@
    "key": "tokfbi:workbuddy",
    "src": "tokfbi",
    "kind": "deal",
-   "title": "WorkBuddy 国际版",
+   "title": "WorkBuddy",
    "cat": "限时活动",
-   "detail": "Hy3 全天免费、Hy4 preview 每晚 23:00–次日 8:00 免费，两档均至 10 月 31 日；Step 5 Preview 的限免已于 10 月 25 日结束。",
-   "deadline": "2026-10-31",
-   "basis": "https://www.toutiao.com/a7698041018058342953",
+   "detail": "Hy3 与 Hy4 preview 的 0.00x 限免已于 10-31 结束、官方未续期；新户 2000 积分礼包与邀请奖励至 11-30。",
+   "deadline": "2026-11-30",
+   "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
-   "days_left": 0,
    "srcs": [
     "tokfbi"
    ],
    "keys": [
-    "tokfbi:workbuddy",
-    "tokfbi:workbuddy国际版"
+    "tokfbi:workbuddy"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "Token FBI"
+   "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:字节trae（aiide）",
@@ -4085,24 +3972,26 @@
   {
    "key": "tokfbi:qodercn",
    "src": "tokfbi",
-   "kind": "deal",
-   "title": "Qoder cn",
-   "cat": "限时活动",
-   "detail": "Qwen3.8-Flash 限免（官方未公布截止日，将在活动页提前公告）；DeepSeek-V4.1-Flash-1017 按 0× Credits 计费，免费期延至 11 月 1 日 00:00（UTC+8）。",
-   "deadline": "2026-11-01",
+   "kind": "res",
+   "title": "Qoder CN 注册礼",
+   "cat": "每日赠送",
+   "detail": "Qwen3.8-Flash 个人版每日赠送免费额度、按 0× 计费，官方未公布截止日；DeepSeek 系列 0× 免费期已于 11-01 00:00 结束，现按 0.1×–0.5× 计费。",
+   "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://t.aliyun.com/U/Ob4f6l",
-   "days_left": 1,
    "srcs": [
+    "tokentab",
     "tokfbi"
    ],
    "keys": [
-    "tokfbi:qodercn"
+    "tokfbi:qodercn",
+    "tokentab:qoder-new"
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI"
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:cline",
@@ -4501,6 +4390,32 @@
    "days_left": null
   },
   {
+   "key": "tokfbi:workbuddy国际版",
+   "src": "tokfbi",
+   "kind": "res",
+   "title": "WorkBuddy 邀请好友",
+   "cat": "免费层",
+   "detail": "DeepSeek-V4.1-Flash-1017 与混元 Hy3 的 0 倍率限免原定 10-31 结束，官方未公布新截止日；倍率以客户端为准。",
+   "deadline": "",
+   "basis": "https://www.toutiao.com/a7698041018058342953",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://workbuddy.ai/",
+   "srcs": [
+    "tokentab",
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:workbuddy国际版",
+    "tokentab:wb-invite",
+    "tokentab:wb-new",
+    "tokentab:wb-sign"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
    "key": "tokfbi:华为云码道",
    "src": "tokfbi",
    "kind": "deal",
@@ -4833,30 +4748,6 @@
    "days_left": null
   },
   {
-   "key": "tokentab:wb-invite",
-   "src": "tokentab",
-   "kind": "res",
-   "title": "WorkBuddy 邀请好友",
-   "cat": "Agent/编程助手",
-   "detail": "付费升级双方各得 500｜好友 30 天内付费升级，双方各得 500",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://curl.qcloud.com/XWKzfPNG",
-   "srcs": [
-    "tokentab"
-   ],
-   "keys": [
-    "tokentab:wb-invite",
-    "tokentab:wb-new",
-    "tokentab:wb-sign"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
-  },
-  {
    "key": "tokentab:wb-month",
    "src": "tokentab",
    "kind": "res",
@@ -4943,50 +4834,6 @@
    "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
-  },
-  {
-   "key": "tokentab:qoder-new",
-   "src": "tokentab",
-   "kind": "res",
-   "title": "Qoder CN 注册礼",
-   "cat": "Agent/编程助手",
-   "detail": "300 Credits + 2 周试用｜注册领 300 Credits + 2 周专业版",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://www.aliyun.com/product/lingma?userCode=ud9ofr4y",
-   "srcs": [
-    "tokentab"
-   ],
-   "keys": [
-    "tokentab:qoder-new"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
-  },
-  {
-   "key": "tokentab:qoder-deepseek-free",
-   "src": "tokentab",
-   "kind": "deal",
-   "title": "Qoder 内 DeepSeek-Flash 0 倍率",
-   "cat": "Agent/编程助手",
-   "detail": "0× Credits 不扣额度｜延期到 11-01 00:00；免费和付费个人账号都是 0 倍率，团队版和企业版照常扣。每日免费次数官方没公布，用完等次日",
-   "deadline": "2026-11-01",
-   "basis": "",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://qoder.com/",
-   "days_left": 1,
-   "srcs": [
-    "tokentab"
-   ],
-   "keys": [
-    "tokentab:qoder-deepseek-free"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:glm-trial",
@@ -5471,28 +5318,6 @@
    "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
-  },
-  {
-   "key": "tokentab:deepseek-search",
-   "src": "tokentab",
-   "kind": "deal",
-   "title": "DeepSeek 搜索·抓取 API 免费窗口",
-   "cat": "大模型 API",
-   "detail": "Search / Fetch 暂时不计费｜在 DeepSeek Harness、Claude Code、Codex 里走服务端工具调用才免费，11-01 00:00 起按次收：每 1,000 次成功请求 5 元，失败和空结果不计费。只是搜索接口免费，不等于模型 API 免费",
-   "deadline": "2026-11-01",
-   "basis": "",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
-   "days_left": 1,
-   "srcs": [
-    "tokentab"
-   ],
-   "keys": [
-    "tokentab:deepseek-search"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:modelscope",
