@@ -1,7 +1,51 @@
 {
- "generated_at": "2026-11-02T10:12:55+08:00",
- "total": 248,
+ "generated_at": "2026-11-03T11:53:08+08:00",
+ "total": 250,
  "items": [
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1）",
+   "cat": "赠送额度",
+   "detail": "每周登录领 4000 万 Tokens（每账号限领一次）",
+   "deadline": "2026-11-08",
+   "basis": "https://autoclaw.z.ai/blog/news/M11W1/",
+   "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
+   "link_vendor": "https://autoclaw.z.ai/blog/news/M11W1/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分",
+   "cat": "免费额度",
+   "detail": "11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分",
+   "deadline": "2026-11-08",
+   "basis": "https://www.trae.cn/",
+   "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
+   "link_vendor": "https://www.trae.cn/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
    "src": "aitkradar",
@@ -1003,28 +1047,6 @@
    "days_left": null
   },
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-firstbuy/",
-   "src": "aitkradar",
-   "kind": "res",
-   "title": "Qoder CN 开通专业版/高级版首月 Credits 翻倍",
-   "cat": "免费额度",
-   "detail": "首购个人月付，首月合计得 4,000/12,000 Credits",
-   "deadline": "",
-   "basis": "https://docs.qoder.cn/events/bogo",
-   "link_source": "https://aitkradar.cn/deals/manual-qoder-cn-firstbuy/",
-   "link_vendor": "https://docs.qoder.cn/events/bogo",
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-firstbuy/"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
-  },
-  {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-intl-newbogo/",
    "src": "aitkradar",
    "kind": "res",
@@ -1208,9 +1230,9 @@
    "cat": "限时特价",
    "detail": "专业版首月 19.9 元（原 59 元/月，含 2000 Credits）",
    "deadline": "",
-   "basis": "https://docs.qoder.cn/events/purchase-offer.md",
+   "basis": "https://docs.qoder.cn/events/purchase-offer",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/",
-   "link_vendor": "https://docs.qoder.cn/events/purchase-offer.md",
+   "link_vendor": "https://docs.qoder.cn/events/purchase-offer",
    "srcs": [
     "aitkradar"
    ],
@@ -3903,8 +3925,8 @@
    "kind": "deal",
    "title": "WorkBuddy",
    "cat": "限时活动",
-   "detail": "Hy3 与 Hy4 preview 的 0.00x 限免已于 10-31 结束、官方未续期；新户 2000 积分礼包与邀请奖励至 11-30。",
-   "deadline": "2026-11-30",
+   "detail": "Hy3 的 0.00× 限免已延至 11-15，全天可用、纯语言任务不扣积分（生图生视频照扣）；Hy4 preview 限免 10-31 未续期；新户 2000 积分与邀请奖励至 11-30。",
+   "deadline": "2026-11-15",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
@@ -4716,6 +4738,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
+   "key": "tokfbi:商汤小浣熊（办公agent）",
+   "src": "tokfbi",
+   "kind": "res",
+   "title": "商汤小浣熊（办公 Agent）",
+   "cat": "商汤·注册赠送",
+   "detail": "网页/桌面/移动三端各送 3000 积分（共 9000，有效期 1 年），每日登录再领 300；6.8 Flash 等模型限免至 12-01。",
+   "deadline": "",
+   "basis": "https://xiaohuanxiong.com/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://xiaohuanxiong.com/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:商汤小浣熊（办公agent）"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "Token FBI",
    "days_left": null
   },

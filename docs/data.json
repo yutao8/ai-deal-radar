@@ -1,32 +1,81 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-02T10:12:55+08:00",
- "generated_date": "2026-11-02",
+ "generated_at": "2026-11-03T11:53:08+08:00",
+ "generated_date": "2026-11-03",
  "near_days": 3,
- "has_changes": false,
+ "has_changes": true,
  "counts": {
-  "total": 248,
-  "new": 0,
-  "new_deals": 0,
-  "new_resources": 0,
+  "total": 250,
+  "new": 2,
+  "new_deals": 1,
+  "new_resources": 1,
   "expiring": 0,
   "expiring_new": 0,
   "failed_sources": 0
  },
- "new_deals": [],
- "new_resources": [],
+ "new_deals": [
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
+   "title": "TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分",
+   "detail": "11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分",
+   "cat": "免费额度",
+   "link": "https://www.trae.cn/",
+   "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
+   "link_vendor": "https://www.trae.cn/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-11-08",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  }
+ ],
+ "new_resources": [
+  {
+   "key": "tokfbi:商汤小浣熊（办公agent）",
+   "title": "商汤小浣熊（办公 Agent）",
+   "detail": "网页/桌面/移动三端各送 3000 积分（共 9000，有效期 1 年），每日登录再领 300；6.8 Flash 等模型限免至 12-01。",
+   "cat": "商汤·注册赠送",
+   "link": "https://xiaohuanxiong.com/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://xiaohuanxiong.com/",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  }
+ ],
  "expiring": [],
  "expiring_new": [],
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-02T16:42:28.454Z",
+   "type": "site_removed",
+   "text": "移入历史区 JustDoWork：2026-11-02 巡检发现首页与注册链接 HTTP 522；2026-11-03 复查首页、注册和控制台仍返回 HTTP 522（源站连接超时），公开状态接口可达但网页不可用，暂移历史区，确认恢复后可重新收录",
+   "severity": "major"
+  }
+ ],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-02 10:12\n\n本次无新增活动，也无新进入提醒窗口的截止条目。",
+ "brief": "【AI 优惠雷达】11-03 11:53\n\n■ 新活动\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ https://www.trae.cn/\n\n■ 新增免费资源\n商汤小浣熊（办公 Agent） ｜ https://xiaohuanxiong.com/",
  "brief_meta": {
-  "chars": 45,
+  "chars": 138,
   "dropped": 0,
-  "items": 0,
+  "items": 2,
+  "blocks": {
+   "新活动": 1,
+   "新增免费资源": 1
+  },
   "limit": 1500
  },
- "should_push": false,
- "report_md": "NO_CHANGE\n\n2026-11-02 10:12 检查完成：在架 248 条，无新增、无新进入 3 天窗口的活动。\n"
+ "should_push": true,
+ "report_md": "# AI 优惠雷达 · 2026-11-03（11:53）\n\n### 新活动 1 条\n\n- TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分｜截止 2026-11-08\n  11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分\n  来源 https://aitkradar.cn/deals/manual-trae-bao-free/\n  官方 https://www.trae.cn/\n\n### 新增免费资源 1 条\n\n- 商汤小浣熊（办公 Agent）〔商汤·注册赠送〕\n  网页/桌面/移动三端各送 3000 积分（共 9000，有效期 1 年），每日登录再领 300；6.8 Flash 等模型限免至 12-01。\n  来源 https://token-fbi.com/table/\n  官方 https://xiaohuanxiong.com/\n\n### 免费站状态变化 1 条\n\n- 2026-11-02 16:42｜移入历史区 JustDoWork：2026-11-02 巡检发现首页与注册链接 HTTP 522；2026-11-03 复查首页、注册和控制台仍返回 HTTP 522（源站连接超时），公开状态接口可达但网页不可用，暂移历史区，确认恢复后可重新收录\n\n"
 }

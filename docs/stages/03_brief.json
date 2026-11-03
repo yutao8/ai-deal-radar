@@ -1,12 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-02T10:12:55+08:00",
+ "generated_at": "2026-11-03T11:53:08+08:00",
  "meta": {
-  "chars": 45,
+  "chars": 138,
   "dropped": 0,
-  "items": 0,
+  "items": 2,
+  "blocks": {
+   "新活动": 1,
+   "新增免费资源": 1
+  },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-02 10:12\n\n本次无新增活动，也无新进入提醒窗口的截止条目。"
+ "brief": "【AI 优惠雷达】11-03 11:53\n\n■ 新活动\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ https://www.trae.cn/\n\n■ 新增免费资源\n商汤小浣熊（办公 Agent） ｜ https://xiaohuanxiong.com/"
 }
