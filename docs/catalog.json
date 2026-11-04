@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T11:53:08+08:00",
- "total": 250,
+ "generated_at": "2026-11-04T10:57:22+08:00",
+ "total": 252,
  "items": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
@@ -40,6 +40,28 @@
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）",
+   "cat": "限时特价",
+   "detail": "首月 Lite 34 / Pro 69 元起（原 49/99）",
+   "deadline": "2026-11-16",
+   "basis": "https://www.trae.cn/pricing",
+   "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "link_vendor": "https://www.trae.cn/pricing",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/"
    ],
    "is_new": true,
    "notify": true,
@@ -1072,9 +1094,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-pro-first-month/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "Trae Pro 连续包月首月 39 元（次月恢复 45 元）",
+   "title": "Trae 会员连续包月首月优惠：Lite 39 元 / Pro 69 元",
    "cat": "限时特价",
-   "detail": "Trae Pro 连续包月限时优惠：首月 39 元，第 2 个月起恢复 45 元",
+   "detail": "首月 Lite 39 / Pro 69 元，次月恢复 45 / 89 元",
    "deadline": "",
    "basis": "https://docs.trae.cn/ide_plans-and-billing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-pro-first-month/",
@@ -4757,6 +4779,28 @@
    ],
    "keys": [
     "tokfbi:商汤小浣熊（办公agent）"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
+   "key": "tokfbi:腾讯云tokenhub（大模型服务平台）",
+   "src": "tokfbi",
+   "kind": "deal",
+   "title": "腾讯云 TokenHub（大模型服务平台）",
+   "cat": "限时活动",
+   "detail": "每个语言模型各 100 万 Tokens、有效期 1 年；生视频 50 积分、混元生3D 各 100 积分；领取截止 12-31。",
+   "deadline": "2026-12-31",
+   "basis": "",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://console.cloud.tencent.com/tokenhub/models",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:腾讯云tokenhub（大模型服务平台）"
    ],
    "is_new": true,
    "notify": true,

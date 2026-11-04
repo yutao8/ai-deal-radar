@@ -1,20 +1,14 @@
-# AI 优惠雷达 · 2026-11-03（11:53）
+# AI 优惠雷达 · 2026-11-04（10:57）
 
-### 新活动 1 条
+### 新活动 2 条
 
-- TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分｜截止 2026-11-08
-  11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分
-  来源 https://aitkradar.cn/deals/manual-trae-bao-free/
-  官方 https://www.trae.cn/
+- TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）｜截止 2026-11-16
+  首月 Lite 34 / Pro 69 元起（原 49/99）
+  来源 https://aitkradar.cn/deals/manual-trae-double11-member/
+  官方 https://www.trae.cn/pricing
 
-### 新增免费资源 1 条
-
-- 商汤小浣熊（办公 Agent）〔商汤·注册赠送〕
-  网页/桌面/移动三端各送 3000 积分（共 9000，有效期 1 年），每日登录再领 300；6.8 Flash 等模型限免至 12-01。
+- 腾讯云 TokenHub（大模型服务平台）｜截止 2026-12-31
+  每个语言模型各 100 万 Tokens、有效期 1 年；生视频 50 积分、混元生3D 各 100 积分；领取截止 12-31。
   来源 https://token-fbi.com/table/
-  官方 https://xiaohuanxiong.com/
-
-### 免费站状态变化 1 条
-
-- 2026-11-02 16:42｜移入历史区 JustDoWork：2026-11-02 巡检发现首页与注册链接 HTTP 522；2026-11-03 复查首页、注册和控制台仍返回 HTTP 522（源站连接超时），公开状态接口可达但网页不可用，暂移历史区，确认恢复后可重新收录
+  官方 https://console.cloud.tencent.com/tokenhub/models
 

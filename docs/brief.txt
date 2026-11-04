@@ -1,7 +1,5 @@
-【AI 优惠雷达】11-03 11:53
+【AI 优惠雷达】11-04 10:57
 
 ■ 新活动
-TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ https://www.trae.cn/
-
-■ 新增免费资源
-商汤小浣熊（办公 Agent） ｜ https://xiaohuanxiong.com/
+TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ https://www.trae.cn/pricing
+腾讯云 TokenHub（大模型服务平台） ｜ https://console.cloud.tencent.com/tokenhub/models

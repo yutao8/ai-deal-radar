@@ -1,16 +1,15 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-03T11:53:08+08:00",
+ "generated_at": "2026-11-04T10:57:22+08:00",
  "meta": {
-  "chars": 138,
+  "chars": 166,
   "dropped": 0,
   "items": 2,
   "blocks": {
-   "新活动": 1,
-   "新增免费资源": 1
+   "新活动": 2
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-03 11:53\n\n■ 新活动\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ https://www.trae.cn/\n\n■ 新增免费资源\n商汤小浣熊（办公 Agent） ｜ https://xiaohuanxiong.com/"
+ "brief": "【AI 优惠雷达】11-04 10:57\n\n■ 新活动\nTRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ https://www.trae.cn/pricing\n腾讯云 TokenHub（大模型服务平台） ｜ https://console.cloud.tencent.com/tokenhub/models"
 }

@@ -1,81 +1,72 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-03T11:53:08+08:00",
- "generated_date": "2026-11-03",
+ "generated_at": "2026-11-04T10:57:22+08:00",
+ "generated_date": "2026-11-04",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 250,
+  "total": 252,
   "new": 2,
-  "new_deals": 1,
-  "new_resources": 1,
+  "new_deals": 2,
+  "new_resources": 0,
   "expiring": 0,
   "expiring_new": 0,
   "failed_sources": 0
  },
  "new_deals": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "title": "TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分",
-   "detail": "11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分",
-   "cat": "免费额度",
-   "link": "https://www.trae.cn/",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "link_vendor": "https://www.trae.cn/",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "title": "TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）",
+   "detail": "首月 Lite 34 / Pro 69 元起（原 49/99）",
+   "cat": "限时特价",
+   "link": "https://www.trae.cn/pricing",
+   "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "link_vendor": "https://www.trae.cn/pricing",
    "src_name": "AI价格雷达",
    "srcs": [
     "aitkradar"
    ],
-   "deadline": "2026-11-08",
+   "deadline": "2026-11-16",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokfbi:腾讯云tokenhub（大模型服务平台）",
+   "title": "腾讯云 TokenHub（大模型服务平台）",
+   "detail": "每个语言模型各 100 万 Tokens、有效期 1 年；生视频 50 积分、混元生3D 各 100 积分；领取截止 12-31。",
+   "cat": "限时活动",
+   "link": "https://console.cloud.tencent.com/tokenhub/models",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://console.cloud.tencent.com/tokenhub/models",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
+   ],
+   "deadline": "2026-12-31",
    "kind": "deal",
    "days_left": null,
    "is_new": true,
    "notify": true
   }
  ],
- "new_resources": [
-  {
-   "key": "tokfbi:商汤小浣熊（办公agent）",
-   "title": "商汤小浣熊（办公 Agent）",
-   "detail": "网页/桌面/移动三端各送 3000 积分（共 9000，有效期 1 年），每日登录再领 300；6.8 Flash 等模型限免至 12-01。",
-   "cat": "商汤·注册赠送",
-   "link": "https://xiaohuanxiong.com/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://xiaohuanxiong.com/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  }
- ],
+ "new_resources": [],
  "expiring": [],
  "expiring_new": [],
- "events": [
-  {
-   "at": "2026-11-02T16:42:28.454Z",
-   "type": "site_removed",
-   "text": "移入历史区 JustDoWork：2026-11-02 巡检发现首页与注册链接 HTTP 522；2026-11-03 复查首页、注册和控制台仍返回 HTTP 522（源站连接超时），公开状态接口可达但网页不可用，暂移历史区，确认恢复后可重新收录",
-   "severity": "major"
-  }
- ],
+ "events": [],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-03 11:53\n\n■ 新活动\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ https://www.trae.cn/\n\n■ 新增免费资源\n商汤小浣熊（办公 Agent） ｜ https://xiaohuanxiong.com/",
+ "brief": "【AI 优惠雷达】11-04 10:57\n\n■ 新活动\nTRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ https://www.trae.cn/pricing\n腾讯云 TokenHub（大模型服务平台） ｜ https://console.cloud.tencent.com/tokenhub/models",
  "brief_meta": {
-  "chars": 138,
+  "chars": 166,
   "dropped": 0,
   "items": 2,
   "blocks": {
-   "新活动": 1,
-   "新增免费资源": 1
+   "新活动": 2
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-03（11:53）\n\n### 新活动 1 条\n\n- TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分｜截止 2026-11-08\n  11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分\n  来源 https://aitkradar.cn/deals/manual-trae-bao-free/\n  官方 https://www.trae.cn/\n\n### 新增免费资源 1 条\n\n- 商汤小浣熊（办公 Agent）〔商汤·注册赠送〕\n  网页/桌面/移动三端各送 3000 积分（共 9000，有效期 1 年），每日登录再领 300；6.8 Flash 等模型限免至 12-01。\n  来源 https://token-fbi.com/table/\n  官方 https://xiaohuanxiong.com/\n\n### 免费站状态变化 1 条\n\n- 2026-11-02 16:42｜移入历史区 JustDoWork：2026-11-02 巡检发现首页与注册链接 HTTP 522；2026-11-03 复查首页、注册和控制台仍返回 HTTP 522（源站连接超时），公开状态接口可达但网页不可用，暂移历史区，确认恢复后可重新收录\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-04（10:57）\n\n### 新活动 2 条\n\n- TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）｜截止 2026-11-16\n  首月 Lite 34 / Pro 69 元起（原 49/99）\n  来源 https://aitkradar.cn/deals/manual-trae-double11-member/\n  官方 https://www.trae.cn/pricing\n\n- 腾讯云 TokenHub（大模型服务平台）｜截止 2026-12-31\n  每个语言模型各 100 万 Tokens、有效期 1 年；生视频 50 积分、混元生3D 各 100 积分；领取截止 12-31。\n  来源 https://token-fbi.com/table/\n  官方 https://console.cloud.tencent.com/tokenhub/models\n\n"
 }
