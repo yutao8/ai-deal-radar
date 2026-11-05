@@ -1,5 +1,19 @@
-【AI 优惠雷达】11-04 10:57
+【AI 优惠雷达】11-05 11:20
 
 ■ 新活动
-TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ https://www.trae.cn/pricing
-腾讯云 TokenHub（大模型服务平台） ｜ https://console.cloud.tencent.com/tokenhub/models
+Qoder CN 双 11 首月 19.9 元 ｜ https://qoder.cn/
+小浣熊 SenseNova 6.8 限免 ｜ https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421
+腾讯云 Token Plan 空闲时段 4 折 ｜ https://cloud.tencent.com/document/product/248/140042
+火山方舟 Agent Plan 抵扣下调 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount
+智谱 AutoClaw 本周额度 ｜ 剩 3 天 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/
+
+■ 即将截止
+TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 剩 3 天 ｜ https://www.trae.cn/
+智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1） ｜ 剩 3 天 ｜ https://autoclaw.z.ai/blog/news/M11W1/
+
+■ 新增免费资源
+百度千帆：千帆 Token Plan 个人版首发限时五折 ｜ https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html
+阿里云百炼：百炼Token Plan夜间错峰优惠 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview
+美团 LongCat Token 资源包 ｜ https://longcat.chat/platform/
+豆包电脑版新用户订阅 ｜ https://www.doubao.com/
+ChatGPT Pro 订阅送 API 额度 ｜ https://openai.com/api/pricing/

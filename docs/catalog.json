@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T10:57:22+08:00",
- "total": 252,
+ "generated_at": "2026-11-05T11:20:49+08:00",
+ "total": 260,
  "items": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
@@ -13,6 +13,7 @@
    "basis": "https://autoclaw.z.ai/blog/news/M11W1/",
    "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
    "link_vendor": "https://autoclaw.z.ai/blog/news/M11W1/",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
@@ -20,9 +21,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
@@ -35,11 +35,55 @@
    "basis": "https://www.trae.cn/",
    "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
    "link_vendor": "https://www.trae.cn/",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/"
+   ],
+   "is_new": false,
+   "notify": true,
+   "src_name": "AI价格雷达"
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "WorkBuddy Hy3 限时免费（延至 11-15）",
+   "cat": "免费额度",
+   "detail": "Hy3 限时免费，延至 11-15 23:59",
+   "deadline": "2026-11-15",
+   "basis": "https://www.workbuddy.cn/pricing/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
+   "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入）",
+   "cat": "免费额度",
+   "detail": "Hy4 限时免费体验，11-04 至 11-15 23:59",
+   "deadline": "2026-11-15",
+   "basis": "https://www.workbuddy.cn/pricing/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
+   "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/"
    ],
    "is_new": false,
    "notify": false,
@@ -63,8 +107,8 @@
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -480,13 +524,15 @@
    "link_source": "https://aitkradar.cn/deals/manual-qianfan-seckill/",
    "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "srcs": [
-    "aitkradar"
+    "aitkradar",
+    "tokentab"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-qianfan-seckill/"
+    "aitkradar:https://aitkradar.cn/deals/manual-qianfan-seckill/",
+    "tokentab:qianfan-tp"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -748,14 +794,16 @@
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
    "srcs": [
-    "aitkradar"
+    "aitkradar",
+    "tokentab"
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
-    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/"
+    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/",
+    "tokentab:bailian-tp"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -2822,15 +2870,17 @@
    "link_vendor": "https://longcat.chat/platform/",
    "srcs": [
     "freehub",
+    "tokentab",
     "tokfbi"
    ],
    "keys": [
     "freehub:美团(longcat)",
     "freehub:美团longcattoken资源包",
-    "tokfbi:美团longcat大模型"
+    "tokfbi:美团longcat大模型",
+    "tokentab:longcat-new"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "FreeLLM-API-KeyHub",
    "days_left": null
   },
@@ -3945,18 +3995,19 @@
    "key": "tokfbi:workbuddy",
    "src": "tokfbi",
    "kind": "deal",
-   "title": "WorkBuddy",
+   "title": "WorkBuddy 国际版",
    "cat": "限时活动",
-   "detail": "Hy3 的 0.00× 限免已延至 11-15，全天可用、纯语言任务不扣积分（生图生视频照扣）；Hy4 preview 限免 10-31 未续期；新户 2000 积分与邀请奖励至 11-30。",
+   "detail": "Hy4 正式版 11-04 上线并限免至 11-15（0.00× 全天）；Hy3 限免同步延至 11-15；新户 2000 积分与邀请奖励至 11-30。",
    "deadline": "2026-11-15",
-   "basis": "",
+   "basis": "https://www.toutiao.com/a7698041018058342953",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
    "srcs": [
     "tokfbi"
    ],
    "keys": [
-    "tokfbi:workbuddy"
+    "tokfbi:workbuddy",
+    "tokfbi:workbuddy国际版"
    ],
    "is_new": false,
    "notify": false,
@@ -4406,32 +4457,6 @@
    "days_left": null
   },
   {
-   "key": "tokfbi:workbuddy国际版",
-   "src": "tokfbi",
-   "kind": "res",
-   "title": "WorkBuddy 邀请好友",
-   "cat": "免费层",
-   "detail": "DeepSeek-V4.1-Flash-1017 与混元 Hy3 的 0 倍率限免原定 10-31 结束，官方未公布新截止日；倍率以客户端为准。",
-   "deadline": "",
-   "basis": "https://www.toutiao.com/a7698041018058342953",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://workbuddy.ai/",
-   "srcs": [
-    "tokentab",
-    "tokfbi"
-   ],
-   "keys": [
-    "tokfbi:workbuddy国际版",
-    "tokentab:wb-invite",
-    "tokentab:wb-new",
-    "tokentab:wb-sign"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
-  },
-  {
    "key": "tokfbi:华为云码道",
    "src": "tokfbi",
    "kind": "deal",
@@ -4530,6 +4555,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -4538,8 +4564,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4701,7 +4726,7 @@
    "kind": "res",
    "title": "云知声 U2-Flash（Unisound MaaS）",
    "cat": "云知声（Unisound）·免费层",
-   "detail": "U Plan Free 档：每周 2500 积分、5 小时窗口 500 积分，另赠 U2-ASR 8 小时 / U2-TTS 4 万字；原不限量限免已于 10-31 结束。",
+   "detail": "U Plan Free 档：每周 2500 积分、5 小时窗口 500 积分，另赠 U2-ASR 8 小时 / U2-TTS 4 万字；U2-Flash 上线平台另赠 1 亿 Token。",
    "deadline": "",
    "basis": "https://maas.unisound.com/models/u2-flash",
    "link_source": "https://token-fbi.com/table/",
@@ -4797,14 +4822,40 @@
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://console.cloud.tencent.com/tokenhub/models",
    "srcs": [
+    "tokentab",
     "tokfbi"
    ],
    "keys": [
-    "tokfbi:腾讯云tokenhub（大模型服务平台）"
+    "tokfbi:腾讯云tokenhub（大模型服务平台）",
+    "tokentab:hunyuan-tokenhub"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:wb-invite",
+   "src": "tokentab",
+   "kind": "res",
+   "title": "WorkBuddy 邀请好友",
+   "cat": "Agent/编程助手",
+   "detail": "付费升级双方各得 500｜好友 30 天内付费升级，双方各得 500",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://curl.qcloud.com/XWKzfPNG",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:wb-invite",
+    "tokentab:wb-new",
+    "tokentab:wb-sign"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "TokenTab 次元塔",
    "days_left": null
   },
   {
@@ -5072,6 +5123,94 @@
    "days_left": null
   },
   {
+   "key": "tokentab:doubao-pc",
+   "src": "tokentab",
+   "kind": "res",
+   "title": "豆包电脑版新用户订阅",
+   "cat": "Agent/编程助手",
+   "detail": "30 天免费 + 签到 8,800｜只在电脑端签到，额度 30 天不含 Pro",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://www.doubao.com/",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:doubao-pc"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:autoclaw-week",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "智谱 AutoClaw 本周额度",
+   "cat": "Agent/编程助手",
+   "detail": "5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零",
+   "deadline": "2026-11-08",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
+   "days_left": 3,
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:autoclaw-week"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
+  },
+  {
+   "key": "tokentab:qoder-1111",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "Qoder CN 双 11 首月 19.9 元",
+   "cat": "Agent/编程助手",
+   "detail": "首月 ¥19.9 · 新客首购｜另含 300 Credits + 2 周试用",
+   "deadline": "2026-11-30",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://qoder.cn/",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:qoder-1111"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:xiaohuanxiong",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "小浣熊 SenseNova 6.8 限免",
+   "cat": "Agent/编程助手",
+   "detail": "限免至 12-01｜三端通用，积分有效期一年",
+   "deadline": "2026-12-01",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:xiaohuanxiong"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
    "key": "tokentab:agent-free",
    "src": "tokentab",
    "kind": "res",
@@ -5116,24 +5255,24 @@
    "days_left": null
   },
   {
-   "key": "tokentab:hunyuan-tokenhub",
+   "key": "tokentab:tencent-tp-off",
    "src": "tokentab",
    "kind": "deal",
-   "title": "腾讯混元 TokenHub 新人包",
+   "title": "腾讯云 Token Plan 空闲时段 4 折",
    "cat": "大模型 API",
-   "detail": "每模型 100 万 · 1 年有效｜12-31 前注册可领；混元 Lite 另外长期免费",
-   "deadline": "2026-12-31",
+   "detail": "¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00",
+   "deadline": "2026-11-16",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/product/hunyuan",
+   "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
    "srcs": [
     "tokentab"
    ],
    "keys": [
-    "tokentab:hunyuan-tokenhub"
+    "tokentab:tencent-tp-off"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5178,6 +5317,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:ark-plan-cut",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "火山方舟 Agent Plan 抵扣下调",
+   "cat": "大模型 API",
+   "detail": "kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少",
+   "deadline": "2026-11-09",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:ark-plan-cut"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5317,13 +5478,13 @@
    "key": "tokentab:iflytek-new",
    "src": "tokentab",
    "kind": "res",
-   "title": "讯飞星火实名 50 万 Token",
+   "title": "讯飞星火 10 亿 Token 免费额度",
    "cat": "大模型 API",
-   "detail": "30 天有效｜实名认证即送；Spark Lite 另永久免费",
+   "detail": "零门槛领取｜Spark-X2.6 可领，期限以控制台为准",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://xinghuo.xfyun.cn/",
+   "link_vendor": "https://maas.xfyun.cn/overview",
    "srcs": [
     "tokentab"
    ],
@@ -5574,6 +5735,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:g-oai-apicredit",
+   "src": "tokentab",
+   "kind": "res",
+   "title": "ChatGPT Pro 订阅送 API 额度",
+   "cat": "海外",
+   "detail": "每月 ¥720 起 · Team 封顶 ¥3,600｜订阅满 7 天才可领，Codex 命令行不覆盖，需海外网络",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://openai.com/api/pricing/",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:g-oai-apicredit"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
