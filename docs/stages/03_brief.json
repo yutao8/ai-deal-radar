@@ -1,17 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-05T11:20:49+08:00",
+ "generated_at": "2026-11-06T11:18:18+08:00",
  "meta": {
-  "chars": 930,
+  "chars": 193,
   "dropped": 0,
-  "items": 12,
+  "items": 2,
   "blocks": {
-   "新活动": 5,
-   "即将截止": 2,
-   "新增免费资源": 5
+   "新活动": 1,
+   "即将截止": 1
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-05 11:20\n\n■ 新活动\nQoder CN 双 11 首月 19.9 元 ｜ https://qoder.cn/\n小浣熊 SenseNova 6.8 限免 ｜ https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421\n腾讯云 Token Plan 空闲时段 4 折 ｜ https://cloud.tencent.com/document/product/248/140042\n火山方舟 Agent Plan 抵扣下调 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount\n智谱 AutoClaw 本周额度 ｜ 剩 3 天 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/\n\n■ 即将截止\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 剩 3 天 ｜ https://www.trae.cn/\n智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1） ｜ 剩 3 天 ｜ https://autoclaw.z.ai/blog/news/M11W1/\n\n■ 新增免费资源\n百度千帆：千帆 Token Plan 个人版首发限时五折 ｜ https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html\n阿里云百炼：百炼Token Plan夜间错峰优惠 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n美团 LongCat Token 资源包 ｜ https://longcat.chat/platform/\n豆包电脑版新用户订阅 ｜ https://www.doubao.com/\nChatGPT Pro 订阅送 API 额度 ｜ https://openai.com/api/pricing/"
+ "brief": "【AI 优惠雷达】11-06 11:18\n\n■ 新活动\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ https://developer.ant-ling.com/\n\n■ 即将截止\n火山方舟 Agent Plan 抵扣下调 ｜ 剩 3 天 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount"
 }

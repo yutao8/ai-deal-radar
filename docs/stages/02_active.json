@@ -1,10 +1,10 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-05T11:20:49+08:00",
- "count": 260,
+ "generated_at": "2026-11-06T11:18:18+08:00",
+ "count": 261,
  "split": {
-  "deal": 27,
+  "deal": 28,
   "res": 233
  },
  "items": [
@@ -19,7 +19,7 @@
    "basis": "https://autoclaw.z.ai/blog/news/M11W1/",
    "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
    "link_vendor": "https://autoclaw.z.ai/blog/news/M11W1/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar"
    ],
@@ -27,7 +27,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -41,7 +41,7 @@
    "basis": "https://www.trae.cn/",
    "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
    "link_vendor": "https://www.trae.cn/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar"
    ],
@@ -49,7 +49,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -537,8 +537,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-qianfan-seckill/",
     "tokentab:qianfan-tp"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -808,8 +808,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/",
     "tokentab:bailian-tp"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -2885,8 +2885,8 @@
     "tokfbi:美团longcat大模型",
     "tokentab:longcat-new"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "FreeLLM-API-KeyHub",
    "days_left": null
   },
@@ -4048,7 +4048,7 @@
    "kind": "res",
    "title": "Qoder CN 注册礼",
    "cat": "每日赠送",
-   "detail": "Qwen3.8-Flash 个人版每日赠送免费额度、按 0× 计费，官方未公布截止日；DeepSeek 系列 0× 免费期已于 11-01 00:00 结束，现按 0.1×–0.5× 计费。",
+   "detail": "每日 10:00 客户端领 100 Credits（30 天有效、可累积），新户注册送 300；Qwen3.8-Flash 每日免费用量按 0×，DeepSeek 系列 11-01 起转 0.1×–0.5×。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -4561,7 +4561,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -4841,6 +4841,28 @@
    "days_left": null
   },
   {
+   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
+   "src": "tokfbi",
+   "kind": "deal",
+   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
+   "cat": "蚂蚁集团（百灵大模型）·限时活动",
+   "detail": "上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。",
+   "deadline": "2026-11-19",
+   "basis": "https://developer.ant-ling.com/en/docs/models/price/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://developer.ant-ling.com/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:蚂蚁百灵ling3.2flash（首发限免）"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
    "key": "tokentab:wb-invite",
    "src": "tokentab",
    "kind": "res",
@@ -5044,13 +5066,13 @@
    "key": "tokentab:trae-solo",
    "src": "tokentab",
    "kind": "res",
-   "title": "Trae SOLO 模式",
+   "title": "Trae 免费档",
    "cat": "Agent/编程助手",
-   "detail": "完全免费｜国内版全线免费，内置豆包、Kimi、GLM",
+   "detail": "¥0 · 500 积分/月｜有免费档，付费 ¥49 起，内置豆包、Kimi",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://www.trae.cn/",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "tokentab"
    ],
@@ -5145,8 +5167,8 @@
    "keys": [
     "tokentab:doubao-pc"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5161,15 +5183,15 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
    "keys": [
     "tokentab:autoclaw-week"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -5189,8 +5211,8 @@
    "keys": [
     "tokentab:qoder-1111"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5211,8 +5233,8 @@
    "keys": [
     "tokentab:xiaohuanxiong"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5222,7 +5244,7 @@
    "kind": "res",
    "title": "编程助手免费档",
    "cat": "永久免费·Agent/编程助手",
-   "detail": "完全免费｜Trae（字节）、Qoder CN 社区版（阿里，原通义灵码）、CodeBuddy 个人版（腾讯）、CodeGeeX（智谱）都不要钱，日常补全够用",
+   "detail": "完全免费｜Qoder CN 社区版（阿里，原通义灵码）、CodeBuddy 个人版（腾讯）、CodeGeeX（智谱）都不要钱，日常补全够用",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5277,8 +5299,8 @@
    "keys": [
     "tokentab:tencent-tp-off"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5337,16 +5359,16 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
    "keys": [
     "tokentab:ark-plan-cut"
    ],
-   "is_new": true,
+   "is_new": false,
    "notify": true,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:bailian-new",
@@ -5761,8 +5783,8 @@
    "keys": [
     "tokentab:g-oai-apicredit"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },

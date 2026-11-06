@@ -1,207 +1,40 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-05T11:20:49+08:00",
- "generated_date": "2026-11-05",
+ "generated_at": "2026-11-06T11:18:18+08:00",
+ "generated_date": "2026-11-06",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 260,
-  "new": 10,
-  "new_deals": 5,
-  "new_resources": 5,
-  "expiring": 4,
-  "expiring_new": 3,
+  "total": 261,
+  "new": 1,
+  "new_deals": 1,
+  "new_resources": 0,
+  "expiring": 5,
+  "expiring_new": 1,
   "failed_sources": 0
  },
  "new_deals": [
   {
-   "key": "tokentab:autoclaw-week",
-   "title": "智谱 AutoClaw 本周额度",
-   "detail": "5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零",
-   "cat": "Agent/编程助手",
-   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "src_name": "TokenTab 次元塔",
+   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
+   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
+   "detail": "上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。",
+   "cat": "蚂蚁集团（百灵大模型）·限时活动",
+   "link": "https://developer.ant-ling.com/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://developer.ant-ling.com/",
+   "src_name": "Token FBI",
    "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:qoder-1111",
-   "title": "Qoder CN 双 11 首月 19.9 元",
-   "detail": "首月 ¥19.9 · 新客首购｜另含 300 Credits + 2 周试用",
-   "cat": "Agent/编程助手",
-   "link": "https://qoder.cn/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://qoder.cn/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:xiaohuanxiong",
-   "title": "小浣熊 SenseNova 6.8 限免",
-   "detail": "限免至 12-01｜三端通用，积分有效期一年",
-   "cat": "Agent/编程助手",
-   "link": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-12-01",
-   "kind": "deal",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:tencent-tp-off",
-   "title": "腾讯云 Token Plan 空闲时段 4 折",
-   "detail": "¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/248/140042",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-16",
-   "kind": "deal",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:ark-plan-cut",
-   "title": "火山方舟 Agent Plan 抵扣下调",
-   "detail": "kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少",
-   "cat": "大模型 API",
-   "link": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-09",
-   "kind": "deal",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  }
- ],
- "new_resources": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qianfan-seckill/",
-   "title": "百度千帆：千帆 Token Plan 个人版首发限时五折",
-   "detail": "个人版首发限时5折，季9.2折年8.8折",
-   "cat": "限时特价",
-   "link": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
-   "link_source": "https://aitkradar.cn/deals/manual-qianfan-seckill/",
-   "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar",
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
-   "title": "阿里云百炼：百炼Token Plan夜间错峰优惠",
-   "detail": "Token Plan个人版限时39元起，Pro档499元（原价600元）",
-   "cat": "限时特价",
-   "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
-   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar",
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "freehub:美团(longcat)",
-   "title": "美团 LongCat Token 资源包",
-   "detail": "新用户实名认证送 1000 万 token；邀请好友完成实名，邀请人与受邀人各再得 1000 万（可与实名额度叠加）；无截止时间。",
-   "cat": "免费额度",
-   "link": "https://longcat.chat/platform/",
-   "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
-   "link_vendor": "https://longcat.chat/platform/",
-   "src_name": "FreeLLM-API-KeyHub",
-   "srcs": [
-    "freehub",
-    "tokentab",
     "tokfbi"
    ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:doubao-pc",
-   "title": "豆包电脑版新用户订阅",
-   "detail": "30 天免费 + 签到 8,800｜只在电脑端签到，额度 30 天不含 Pro",
-   "cat": "Agent/编程助手",
-   "link": "https://www.doubao.com/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://www.doubao.com/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:g-oai-apicredit",
-   "title": "ChatGPT Pro 订阅送 API 额度",
-   "detail": "每月 ¥720 起 · Team 封顶 ¥3,600｜订阅满 7 天才可领，Codex 命令行不覆盖，需海外网络",
-   "cat": "海外",
-   "link": "https://openai.com/api/pricing/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://openai.com/api/pricing/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
+   "deadline": "2026-11-19",
+   "kind": "deal",
    "days_left": null,
    "is_new": true,
    "notify": true
   }
  ],
+ "new_resources": [],
  "expiring": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
@@ -217,9 +50,9 @@
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokentab:autoclaw-week",
@@ -235,9 +68,9 @@
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 3,
-   "is_new": true,
-   "notify": true
+   "days_left": 2,
+   "is_new": false,
+   "notify": false
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
@@ -253,9 +86,9 @@
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）",
@@ -271,61 +104,43 @@
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
-  }
- ],
- "expiring_new": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "title": "TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分",
-   "detail": "11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分",
-   "cat": "免费额度",
-   "link": "https://www.trae.cn/",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "link_vendor": "https://www.trae.cn/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
   },
   {
-   "key": "tokentab:autoclaw-week",
-   "title": "智谱 AutoClaw 本周额度",
-   "detail": "5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零",
-   "cat": "Agent/编程助手",
-   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
+   "key": "tokentab:ark-plan-cut",
+   "title": "火山方舟 Agent Plan 抵扣下调",
+   "detail": "kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少",
+   "cat": "大模型 API",
+   "link": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
+   "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-08",
+   "deadline": "2026-11-09",
    "kind": "deal",
    "days_left": 3,
-   "is_new": true,
+   "is_new": false,
    "notify": true
-  },
+  }
+ ],
+ "expiring_new": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "title": "智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1）",
-   "detail": "每周登录领 4000 万 Tokens（每账号限领一次）",
-   "cat": "赠送额度",
-   "link": "https://autoclaw.z.ai/blog/news/M11W1/",
-   "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "link_vendor": "https://autoclaw.z.ai/blog/news/M11W1/",
-   "src_name": "AI价格雷达",
+   "key": "tokentab:ark-plan-cut",
+   "title": "火山方舟 Agent Plan 抵扣下调",
+   "detail": "kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少",
+   "cat": "大模型 API",
+   "link": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
+   "src_name": "TokenTab 次元塔",
    "srcs": [
-    "aitkradar"
+    "tokentab"
    ],
-   "deadline": "2026-11-08",
+   "deadline": "2026-11-09",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
@@ -334,18 +149,17 @@
  ],
  "events": [],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-05 11:20\n\n■ 新活动\nQoder CN 双 11 首月 19.9 元 ｜ https://qoder.cn/\n小浣熊 SenseNova 6.8 限免 ｜ https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421\n腾讯云 Token Plan 空闲时段 4 折 ｜ https://cloud.tencent.com/document/product/248/140042\n火山方舟 Agent Plan 抵扣下调 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount\n智谱 AutoClaw 本周额度 ｜ 剩 3 天 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/\n\n■ 即将截止\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 剩 3 天 ｜ https://www.trae.cn/\n智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1） ｜ 剩 3 天 ｜ https://autoclaw.z.ai/blog/news/M11W1/\n\n■ 新增免费资源\n百度千帆：千帆 Token Plan 个人版首发限时五折 ｜ https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html\n阿里云百炼：百炼Token Plan夜间错峰优惠 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n美团 LongCat Token 资源包 ｜ https://longcat.chat/platform/\n豆包电脑版新用户订阅 ｜ https://www.doubao.com/\nChatGPT Pro 订阅送 API 额度 ｜ https://openai.com/api/pricing/",
+ "brief": "【AI 优惠雷达】11-06 11:18\n\n■ 新活动\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ https://developer.ant-ling.com/\n\n■ 即将截止\n火山方舟 Agent Plan 抵扣下调 ｜ 剩 3 天 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
  "brief_meta": {
-  "chars": 930,
+  "chars": 193,
   "dropped": 0,
-  "items": 12,
+  "items": 2,
   "blocks": {
-   "新活动": 5,
-   "即将截止": 2,
-   "新增免费资源": 5
+   "新活动": 1,
+   "即将截止": 1
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-05（11:20）\n\n### 新活动 5 条\n\n- 智谱 AutoClaw 本周额度｜截止 2026-11-08\n  5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://autoclaw.zhipuai.cn/blog/news/M11W1/\n\n- Qoder CN 双 11 首月 19.9 元｜截止 2026-11-30\n  首月 ¥19.9 · 新客首购｜另含 300 Credits + 2 周试用\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://qoder.cn/\n\n- 小浣熊 SenseNova 6.8 限免｜截止 2026-12-01\n  限免至 12-01｜三端通用，积分有效期一年\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421\n\n- 腾讯云 Token Plan 空闲时段 4 折｜截止 2026-11-16\n  ¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/248/140042\n\n- 火山方舟 Agent Plan 抵扣下调｜截止 2026-11-09\n  kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://ark.volcengine.com/docs/agent-plan-personal-model-discount\n\n### 即将截止 2 条\n\n- TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 — 2026-11-08（剩 3 天）\n  11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分\n  来源 https://aitkradar.cn/deals/manual-trae-bao-free/\n  官方 https://www.trae.cn/\n- 智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1） — 2026-11-08（剩 3 天）\n  每周登录领 4000 万 Tokens（每账号限领一次）\n  来源 https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/\n  官方 https://autoclaw.z.ai/blog/news/M11W1/\n\n### 新增免费资源 5 条\n\n- 豆包电脑版新用户订阅〔Agent/编程助手〕\n  30 天免费 + 签到 8,800｜只在电脑端签到，额度 30 天不含 Pro\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.doubao.com/\n\n- 阿里云百炼 Token Plan 限时价〔大模型 API〕\n  ¥39 起 / 月｜Lite ¥39 起，夜间 4 折，官方未公示期限\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n\n- 百度千帆 Token Plan 首购五折〔大模型 API〕\n  ¥4.9 起 / 月｜Mini ¥4.9 起，续费 6 折，官方未公示期限\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.baidu.com/product/codingplan.html\n\n- 美团 LongCat 注册礼〔大模型 API〕\n  1,000 万 Token｜注册即送，一次性到账不续期\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://longcat.chat/\n\n- ChatGPT Pro 订阅送 API 额度〔海外〕\n  每月 ¥720 起 · Team 封顶 ¥3,600｜订阅满 7 天才可领，Codex 命令行不覆盖，需海外网络\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://openai.com/api/pricing/\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-06（11:18）\n\n### 新活动 1 条\n\n- 蚂蚁百灵 Ling-3.2-flash（首发限免）｜截止 2026-11-19\n  上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。\n  来源 https://token-fbi.com/table/\n  官方 https://developer.ant-ling.com/\n\n### 即将截止 1 条\n\n- 火山方舟 Agent Plan 抵扣下调 — 2026-11-09（剩 3 天）\n  kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://ark.volcengine.com/docs/agent-plan-personal-model-discount\n\n"
 }
