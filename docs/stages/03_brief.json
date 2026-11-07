@@ -1,16 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-06T11:18:18+08:00",
+ "generated_at": "2026-11-07T10:38:24+08:00",
  "meta": {
-  "chars": 193,
+  "chars": 493,
   "dropped": 0,
-  "items": 2,
+  "items": 9,
   "blocks": {
-   "新活动": 1,
-   "即将截止": 1
+   "新活动": 3,
+   "新增免费资源": 6
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-06 11:18\n\n■ 新活动\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ https://developer.ant-ling.com/\n\n■ 即将截止\n火山方舟 Agent Plan 抵扣下调 ｜ 剩 3 天 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount"
+ "brief": "【AI 优惠雷达】11-07 10:38\n\n■ 新活动\n混元 Hy4 客户端内限免 ｜ https://hy.tencent.com/research/hy4\nSkyProduction 双 11 视频模型 0 积分 ｜ https://www.skyproduction.cn/\nAntigravity 免费档 ｜ https://antigravity.google/docs/models\n\n■ 新增免费资源\nCerebras 试用额度 ｜ https://inference.cerebras.ai/\n腾讯 EdgeOne Makers（AI 网关） ｜ https://pages.edgeone.ai/zh\nZCode 每晚 3 亿 Token ｜ https://zcode.z.ai/cn\nAutoClaw 新人礼 2 亿 Token ｜ https://autoclaw.zhipuai.cn/\nKiro 首次升级 Pro 免当月 ｜ https://kiro.dev/docs/billing/\nSuno 免费档 ｜ https://suno.com/pricing"
 }

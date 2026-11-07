@@ -1,7 +1,14 @@
-【AI 优惠雷达】11-06 11:18
+【AI 优惠雷达】11-07 10:38
 
 ■ 新活动
-蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ https://developer.ant-ling.com/
+混元 Hy4 客户端内限免 ｜ https://hy.tencent.com/research/hy4
+SkyProduction 双 11 视频模型 0 积分 ｜ https://www.skyproduction.cn/
+Antigravity 免费档 ｜ https://antigravity.google/docs/models
 
-■ 即将截止
-火山方舟 Agent Plan 抵扣下调 ｜ 剩 3 天 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount
+■ 新增免费资源
+Cerebras 试用额度 ｜ https://inference.cerebras.ai/
+腾讯 EdgeOne Makers（AI 网关） ｜ https://pages.edgeone.ai/zh
+ZCode 每晚 3 亿 Token ｜ https://zcode.z.ai/cn
+AutoClaw 新人礼 2 亿 Token ｜ https://autoclaw.zhipuai.cn/
+Kiro 首次升级 Pro 免当月 ｜ https://kiro.dev/docs/billing/
+Suno 免费档 ｜ https://suno.com/pricing

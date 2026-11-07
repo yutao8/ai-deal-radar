@@ -1,40 +1,186 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-06T11:18:18+08:00",
- "generated_date": "2026-11-06",
+ "generated_at": "2026-11-07T10:38:24+08:00",
+ "generated_date": "2026-11-07",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 261,
-  "new": 1,
-  "new_deals": 1,
-  "new_resources": 0,
-  "expiring": 5,
-  "expiring_new": 1,
+  "total": 269,
+  "new": 9,
+  "new_deals": 3,
+  "new_resources": 6,
+  "expiring": 4,
+  "expiring_new": 0,
   "failed_sources": 0
  },
  "new_deals": [
   {
-   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
-   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
-   "detail": "上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。",
-   "cat": "蚂蚁集团（百灵大模型）·限时活动",
-   "link": "https://developer.ant-ling.com/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://developer.ant-ling.com/",
-   "src_name": "Token FBI",
+   "key": "tokentab:hunyuan-hy4",
+   "title": "混元 Hy4 客户端内限免",
+   "detail": "免到 11-15 · 0.00x 不扣积分｜WorkBuddy / CodeBuddy 里选 Hy4，名字旁显示 0.00x 就是免费，不用配 Key。每天一份额度，用完开始扣积分；生图生视频会切到别的模型、照常扣。Hy3 同步到同一天。产品内额度，不是 API",
+   "cat": "Agent/编程助手",
+   "link": "https://hy.tencent.com/research/hy4",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://hy.tencent.com/research/hy4",
+   "src_name": "TokenTab 次元塔",
    "srcs": [
-    "tokfbi"
+    "tokentab"
    ],
-   "deadline": "2026-11-19",
+   "deadline": "2026-11-15",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:skyproduction-1111",
+   "title": "SkyProduction 双 11 视频模型 0 积分",
+   "detail": "4 款视频模型 0 积分 · 到 11-11｜11-03 00:00 至 11-11 24:00。0 积分是限量体验、按模型给免费条数；「最高 60 天无限」得开年包",
+   "cat": "Agent/编程助手",
+   "link": "https://www.skyproduction.cn/",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://www.skyproduction.cn/",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-11",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:g-antigravity",
+   "title": "Antigravity 免费档",
+   "detail": "0 元 · 含 Claude Opus 4.6｜免费档能用 Claude Sonnet / Opus 4.6、Gemini 3.8 Flash、GPT-OSS-120b，Tab 补全与 Command 不限次。但官方模型页写明：那三个第三方模型 11-18 移除，之后只剩 Gemini 3.8 Flash。需海外网络",
+   "cat": "海外",
+   "link": "https://antigravity.google/docs/models",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://antigravity.google/docs/models",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-18",
    "kind": "deal",
    "days_left": null,
    "is_new": true,
    "notify": true
   }
  ],
- "new_resources": [],
+ "new_resources": [
+  {
+   "key": "freehub:cerebras",
+   "title": "Cerebras 试用额度",
+   "detail": "绑卡送 5 美元 · 30 天过期｜网传「每天免费 100 万 token」不准确：官方 FAQ 明说没有永久免费层，新号要绑支付方式才拿到 5 美元试用金，30 天后过期；100 万 token 只是试用期内的每日速率上限。想长期白用别指望它",
+   "cat": "免费额度",
+   "link": "https://inference.cerebras.ai/",
+   "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
+   "link_vendor": "https://inference.cerebras.ai/",
+   "src_name": "FreeLLM-API-KeyHub",
+   "srcs": [
+    "freehub",
+    "tokentab"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokfbi:腾讯edgeonemakers（ai网关）",
+   "title": "腾讯 EdgeOne Makers（AI 网关）",
+   "detail": "新账号赠 50 万 Token（账号内项目共享、免绑卡），网关内置 DeepSeek/MiniMax/混元；英文口径每月 50 万，以控制台为准。",
+   "cat": "免费层",
+   "link": "https://pages.edgeone.ai/zh",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://pages.edgeone.ai/zh",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:zcode-night",
+   "title": "ZCode 每晚 3 亿 Token",
+   "detail": "每天 3 亿 Token · 19:00 开领｜19:00 领、23:00 到次日 09:00 才能用；只能选 GLM-5.3-Flash，只在客户端内有效，额度当天清零不累计。官方没公布结束日期，别当永久福利",
+   "cat": "Agent/编程助手",
+   "link": "https://zcode.z.ai/cn",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://zcode.z.ai/cn",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:autoclaw-new",
+   "title": "AutoClaw 新人礼 2 亿 Token",
+   "detail": "新号 2 亿 Token · 官网标 ¥120｜官网首页写「2 亿 tokens · 价值 120 元」，限新号一次性；10 月底另一版写「1 亿 / ¥60」，以客户端实际到账为准。产品内额度，也不能拿去当 API Key 调别的软件",
+   "cat": "Agent/编程助手",
+   "link": "https://autoclaw.zhipuai.cn/",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://autoclaw.zhipuai.cn/",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:g-kiro",
+   "title": "Kiro 首次升级 Pro 免当月",
+   "detail": "当月全免 + 500 点试用｜要绑信用卡，次月 1 号起按 20 美元扣费；500 点只给首次升级，12 个月后过期。免费档每月 50 点，够试水。大陆能用哪些模型，以页面显示为准",
+   "cat": "海外",
+   "link": "https://kiro.dev/docs/billing/",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://kiro.dev/docs/billing/",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:g-suno",
+   "title": "Suno 免费档",
+   "detail": "每天 50 点 · 约 10 首｜不用绑卡，每天 50 点约合 10 首歌，跑的是 v4.5 / v6-mini 旧模型。免费档不能商用，升级也不会追溯授权，免费期生成的歌永远是个人用途。需海外网络",
+   "cat": "海外",
+   "link": "https://suno.com/pricing",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://suno.com/pricing",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  }
+ ],
  "expiring": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
@@ -50,7 +196,7 @@
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -68,43 +214,25 @@
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "title": "智谱 AutoClaw 每周福利：登录领 4000 万 Tokens（M11W1）",
-   "detail": "每周登录领 4000 万 Tokens（每账号限领一次）",
+   "title": "智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1）",
+   "detail": "每周登录领 5000 万 Tokens（5000 积分，每账号限领一次）",
    "cat": "赠送额度",
-   "link": "https://autoclaw.z.ai/blog/news/M11W1/",
+   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
    "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "link_vendor": "https://autoclaw.z.ai/blog/news/M11W1/",
+   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
    "src_name": "AI价格雷达",
    "srcs": [
     "aitkradar"
    ],
    "deadline": "2026-11-08",
    "kind": "deal",
-   "days_left": 2,
-   "is_new": false,
-   "notify": false
-  },
-  {
-   "key": "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）",
-   "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
-   "detail": "本周 11/2–11/8 登录领 5000 万 Token（5,000 积分），单账号限一次，11-08 23:59 失效；较上周 1 亿减半。",
-   "cat": "限时活动",
-   "link": "https://autoclaw.zhipuai.cn/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -122,44 +250,25 @@
    ],
    "deadline": "2026-11-09",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   }
  ],
- "expiring_new": [
-  {
-   "key": "tokentab:ark-plan-cut",
-   "title": "火山方舟 Agent Plan 抵扣下调",
-   "detail": "kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少",
-   "cat": "大模型 API",
-   "link": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-09",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  }
- ],
+ "expiring_new": [],
  "events": [],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-06 11:18\n\n■ 新活动\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ https://developer.ant-ling.com/\n\n■ 即将截止\n火山方舟 Agent Plan 抵扣下调 ｜ 剩 3 天 ｜ https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
+ "brief": "【AI 优惠雷达】11-07 10:38\n\n■ 新活动\n混元 Hy4 客户端内限免 ｜ https://hy.tencent.com/research/hy4\nSkyProduction 双 11 视频模型 0 积分 ｜ https://www.skyproduction.cn/\nAntigravity 免费档 ｜ https://antigravity.google/docs/models\n\n■ 新增免费资源\nCerebras 试用额度 ｜ https://inference.cerebras.ai/\n腾讯 EdgeOne Makers（AI 网关） ｜ https://pages.edgeone.ai/zh\nZCode 每晚 3 亿 Token ｜ https://zcode.z.ai/cn\nAutoClaw 新人礼 2 亿 Token ｜ https://autoclaw.zhipuai.cn/\nKiro 首次升级 Pro 免当月 ｜ https://kiro.dev/docs/billing/\nSuno 免费档 ｜ https://suno.com/pricing",
  "brief_meta": {
-  "chars": 193,
+  "chars": 493,
   "dropped": 0,
-  "items": 2,
+  "items": 9,
   "blocks": {
-   "新活动": 1,
-   "即将截止": 1
+   "新活动": 3,
+   "新增免费资源": 6
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-06（11:18）\n\n### 新活动 1 条\n\n- 蚂蚁百灵 Ling-3.2-flash（首发限免）｜截止 2026-11-19\n  上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。\n  来源 https://token-fbi.com/table/\n  官方 https://developer.ant-ling.com/\n\n### 即将截止 1 条\n\n- 火山方舟 Agent Plan 抵扣下调 — 2026-11-09（剩 3 天）\n  kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://ark.volcengine.com/docs/agent-plan-personal-model-discount\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-07（10:38）\n\n### 新活动 3 条\n\n- 混元 Hy4 客户端内限免｜截止 2026-11-15\n  免到 11-15 · 0.00x 不扣积分｜WorkBuddy / CodeBuddy 里选 Hy4，名字旁显示 0.00x 就是免费，不用配 Key。每天一份额度，用完开始扣积分；生图生视频会切到别的模型、照常扣。Hy3 同步到同一天。产品内额度，不是 API\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://hy.tencent.com/research/hy4\n\n- SkyProduction 双 11 视频模型 0 积分｜截止 2026-11-11\n  4 款视频模型 0 积分 · 到 11-11｜11-03 00:00 至 11-11 24:00。0 积分是限量体验、按模型给免费条数；「最高 60 天无限」得开年包\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.skyproduction.cn/\n\n- Antigravity 免费档｜截止 2026-11-18\n  0 元 · 含 Claude Opus 4.6｜免费档能用 Claude Sonnet / Opus 4.6、Gemini 3.8 Flash、GPT-OSS-120b，Tab 补全与 Command 不限次。但官方模型页写明：那三个第三方模型 11-18 移除，之后只剩 Gemini 3.8 Fl\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://antigravity.google/docs/models\n\n### 新增免费资源 6 条\n\n- 腾讯 EdgeOne Makers（AI 网关）〔免费层〕\n  新账号赠 50 万 Token（账号内项目共享、免绑卡），网关内置 DeepSeek/MiniMax/混元；英文口径每月 50 万，以控制台为准。\n  来源 https://token-fbi.com/table/\n  官方 https://pages.edgeone.ai/zh\n\n- ZCode 每晚 3 亿 Token〔Agent/编程助手〕\n  每天 3 亿 Token · 19:00 开领｜19:00 领、23:00 到次日 09:00 才能用；只能选 GLM-5.3-Flash，只在客户端内有效，额度当天清零不累计。官方没公布结束日期，别当永久福利\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://zcode.z.ai/cn\n\n- AutoClaw 新人礼 2 亿 Token〔Agent/编程助手〕\n  新号 2 亿 Token · 官网标 ¥120｜官网首页写「2 亿 tokens · 价值 120 元」，限新号一次性；10 月底另一版写「1 亿 / ¥60」，以客户端实际到账为准。产品内额度，也不能拿去当 API Key 调别的软件\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://autoclaw.zhipuai.cn/\n\n- Kiro 首次升级 Pro 免当月〔海外〕\n  当月全免 + 500 点试用｜要绑信用卡，次月 1 号起按 20 美元扣费；500 点只给首次升级，12 个月后过期。免费档每月 50 点，够试水。大陆能用哪些模型，以页面显示为准\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://kiro.dev/docs/billing/\n\n- Suno 免费档〔海外〕\n  每天 50 点 · 约 10 首｜不用绑卡，每天 50 点约合 10 首歌，跑的是 v4.5 / v6-mini 旧模型。免费档不能商用，升级也不会追溯授权，免费期生成的歌永远是个人用途。需海外网络\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://suno.com/pricing\n\n- Cerebras 试用额度〔海外〕\n  绑卡送 5 美元 · 30 天过期｜网传「每天免费 100 万 token」不准确：官方 FAQ 明说没有永久免费层，新号要绑支付方式才拿到 5 美元试用金，30 天后过期；100 万 token 只是试用期内的每日速率上限。想长期白用别指望它\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://inference-docs.cerebras.ai/support/rate-limits\n\n"
 }

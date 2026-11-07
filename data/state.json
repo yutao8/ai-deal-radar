@@ -307,7 +307,16 @@
   "tokentab:qianfan-tp": "2026-11-05",
   "tokentab:longcat-new": "2026-11-05",
   "tokentab:g-oai-apicredit": "2026-11-05",
-  "tokfbi:蚂蚁百灵ling3.2flash（首发限免）": "2026-11-06"
+  "tokfbi:蚂蚁百灵ling3.2flash（首发限免）": "2026-11-06",
+  "tokfbi:腾讯edgeonemakers（ai网关）": "2026-11-07",
+  "tokentab:hunyuan-hy4": "2026-11-07",
+  "tokentab:zcode-night": "2026-11-07",
+  "tokentab:autoclaw-new": "2026-11-07",
+  "tokentab:skyproduction-1111": "2026-11-07",
+  "tokentab:g-kiro": "2026-11-07",
+  "tokentab:g-antigravity": "2026-11-07",
+  "tokentab:g-suno": "2026-11-07",
+  "tokentab:g-cerebras": "2026-11-07"
  },
  "expiring_notified": {
   "tokfbi:workbuddy": 0,
@@ -320,6 +329,6 @@
   "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/": 3,
   "tokentab:ark-plan-cut": 3
  },
- "last_run": "2026-11-06T11:18:18+08:00",
+ "last_run": "2026-11-07T10:38:24+08:00",
  "first_run": "2026-10-30T14:13:34+08:00"
 }
