@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T10:38:24+08:00",
+ "generated_at": "2026-11-08T10:10:44+08:00",
  "total": 269,
  "items": [
   {
@@ -13,7 +13,7 @@
    "basis": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
    "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -21,7 +21,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -35,7 +35,7 @@
    "basis": "https://www.trae.cn/",
    "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
    "link_vendor": "https://www.trae.cn/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -43,7 +43,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -3607,8 +3607,8 @@
     "freehub:cerebras",
     "tokentab:g-cerebras"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "FreeLLM-API-KeyHub",
    "days_left": null
   },
@@ -4873,8 +4873,8 @@
    "keys": [
     "tokfbi:腾讯edgeonemakers（ai网关）"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "Token FBI",
    "days_left": null
   },
@@ -5199,7 +5199,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5207,7 +5207,7 @@
     "tokentab:autoclaw-week"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -5271,8 +5271,8 @@
    "keys": [
     "tokentab:hunyuan-hy4"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5293,8 +5293,8 @@
    "keys": [
     "tokentab:zcode-night"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5315,8 +5315,8 @@
    "keys": [
     "tokentab:autoclaw-new"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5331,16 +5331,16 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://www.skyproduction.cn/",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
    "keys": [
     "tokentab:skyproduction-1111"
    ],
-   "is_new": true,
+   "is_new": false,
    "notify": true,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:agent-free",
@@ -5463,7 +5463,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -5733,8 +5733,8 @@
    "keys": [
     "tokentab:g-kiro"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5755,8 +5755,8 @@
    "keys": [
     "tokentab:g-antigravity"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5887,8 +5887,8 @@
    "keys": [
     "tokentab:g-suno"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },

@@ -1,14 +1,7 @@
-【AI 优惠雷达】11-07 10:38
+【AI 优惠雷达】11-08 10:10
 
-■ 新活动
-混元 Hy4 客户端内限免 ｜ https://hy.tencent.com/research/hy4
-SkyProduction 双 11 视频模型 0 积分 ｜ https://www.skyproduction.cn/
-Antigravity 免费档 ｜ https://antigravity.google/docs/models
-
-■ 新增免费资源
-Cerebras 试用额度 ｜ https://inference.cerebras.ai/
-腾讯 EdgeOne Makers（AI 网关） ｜ https://pages.edgeone.ai/zh
-ZCode 每晚 3 亿 Token ｜ https://zcode.z.ai/cn
-AutoClaw 新人礼 2 亿 Token ｜ https://autoclaw.zhipuai.cn/
-Kiro 首次升级 Pro 免当月 ｜ https://kiro.dev/docs/billing/
-Suno 免费档 ｜ https://suno.com/pricing
+■ 即将截止
+TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 今天截止 ｜ https://www.trae.cn/
+智谱 AutoClaw 本周额度 ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/
+智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1） ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/
+SkyProduction 双 11 视频模型 0 积分 ｜ 剩 3 天 ｜ https://www.skyproduction.cn/
