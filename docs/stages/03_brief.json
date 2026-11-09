@@ -1,15 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-08T10:10:44+08:00",
+ "generated_at": "2026-11-09T10:30:02+08:00",
  "meta": {
-  "chars": 327,
+  "chars": 518,
   "dropped": 0,
-  "items": 4,
+  "items": 7,
   "blocks": {
-   "即将截止": 4
+   "新活动": 4,
+   "新增免费资源": 3
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-08 10:10\n\n■ 即将截止\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 今天截止 ｜ https://www.trae.cn/\n智谱 AutoClaw 本周额度 ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/\n智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1） ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/\nSkyProduction 双 11 视频模型 0 积分 ｜ 剩 3 天 ｜ https://www.skyproduction.cn/"
+ "brief": "【AI 优惠雷达】11-09 10:30\n\n■ 新活动\n国家超算互联网 SCNet（双 11 科研智能体） ｜ https://www.scnet.cn/\n腾讯云 Token Plan Hy4 2.5 折 ｜ https://cloud.tencent.com/document/product/1823/140042\n腾讯云 Token Plan Auto 统一 11 积分 ｜ https://cloud.tencent.com/document/product/1823/140042\n移动云 MoMA 2,500 万 Token ｜ https://ecloud.10086.cn/op-help-center/doc/article/92837\n\n■ 新增免费资源\nQoder 匿名模型 Qoduck 限时免费（国际版） ｜ https://docs.qoder.com/zh/events/qoduck-free\nQoder CN 错峰 4 折 ｜ https://t.aliyun.com/U/Ob4f6l\n讯飞 Spark-X2.6-4B 限时免费 ｜ https://xinghuo.xfyun.cn/sparkapi"
 }

@@ -1,7 +1,12 @@
-【AI 优惠雷达】11-08 10:10
+【AI 优惠雷达】11-09 10:30
 
-■ 即将截止
-TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 今天截止 ｜ https://www.trae.cn/
-智谱 AutoClaw 本周额度 ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/
-智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1） ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/
-SkyProduction 双 11 视频模型 0 积分 ｜ 剩 3 天 ｜ https://www.skyproduction.cn/
+■ 新活动
+国家超算互联网 SCNet（双 11 科研智能体） ｜ https://www.scnet.cn/
+腾讯云 Token Plan Hy4 2.5 折 ｜ https://cloud.tencent.com/document/product/1823/140042
+腾讯云 Token Plan Auto 统一 11 积分 ｜ https://cloud.tencent.com/document/product/1823/140042
+移动云 MoMA 2,500 万 Token ｜ https://ecloud.10086.cn/op-help-center/doc/article/92837
+
+■ 新增免费资源
+Qoder 匿名模型 Qoduck 限时免费（国际版） ｜ https://docs.qoder.com/zh/events/qoduck-free
+Qoder CN 错峰 4 折 ｜ https://t.aliyun.com/U/Ob4f6l
+讯飞 Spark-X2.6-4B 限时免费 ｜ https://xinghuo.xfyun.cn/sparkapi

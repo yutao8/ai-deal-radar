@@ -1,199 +1,191 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-08T10:10:44+08:00",
- "generated_date": "2026-11-08",
+ "generated_at": "2026-11-09T10:30:02+08:00",
+ "generated_date": "2026-11-09",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 269,
-  "new": 0,
-  "new_deals": 0,
-  "new_resources": 0,
-  "expiring": 5,
-  "expiring_new": 4,
+  "total": 271,
+  "new": 7,
+  "new_deals": 4,
+  "new_resources": 3,
+  "expiring": 1,
+  "expiring_new": 0,
   "failed_sources": 0
  },
- "new_deals": [],
- "new_resources": [],
+ "new_deals": [
+  {
+   "key": "tokfbi:国家超算互联网scnet（双11科研智能体）",
+   "title": "国家超算互联网 SCNet（双 11 科研智能体）",
+   "detail": "新户注册领 1 亿词元智能体额度；客户端旗舰模型活动期内词元不限量；活动至 11-30。",
+   "cat": "国家超算互联网·限时活动",
+   "link": "https://www.scnet.cn/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://www.scnet.cn/",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
+   ],
+   "deadline": "2026-11-30",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:tencent-hy4-tp",
+   "title": "腾讯云 Token Plan Hy4 2.5 折",
+   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事",
+   "cat": "大模型 API",
+   "link": "https://cloud.tencent.com/document/product/1823/140042",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-17",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:tencent-auto-11",
+   "title": "腾讯云 Token Plan Auto 统一 11 积分",
+   "detail": "¥0.55 每百万 · 一口价｜Auto 档不分输入输出都按 11 积分扣；同期 Kimi K3 7.5 折、GLM-5.3 5.5 折。官方文档写到 11-30 12:00",
+   "cat": "大模型 API",
+   "link": "https://cloud.tencent.com/document/product/1823/140042",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-30",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:yidong-moma",
+   "title": "移动云 MoMA 2,500 万 Token",
+   "detail": "2,500 万 Token · 30 天有效｜官方文档 11-03 更新：2026-02-15 至 12-31 期间领取，一人一次、领后 30 天有效。只抵扣部分自营模型，合作模型与机密模型不支持；限流 3,000 tokens/分钟。入口在 MoMA 控制台模型广场右上角",
+   "cat": "大模型 API",
+   "link": "https://ecloud.10086.cn/op-help-center/doc/article/92837",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://ecloud.10086.cn/op-help-center/doc/article/92837",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-12-31",
+   "kind": "deal",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  }
+ ],
+ "new_resources": [
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-qoduck-free/",
+   "title": "Qoder 匿名模型 Qoduck 限时免费（国际版）",
+   "detail": "每日免费额度，调用 Qoduck 不耗 Credits（0.5×→0.0×）",
+   "cat": "免费额度",
+   "link": "https://docs.qoder.com/zh/events/qoduck-free",
+   "link_source": "https://aitkradar.cn/deals/manual-qoder-qoduck-free/",
+   "link_vendor": "https://docs.qoder.com/zh/events/qoduck-free",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokfbi:qodercn",
+   "title": "Qoder CN 错峰 4 折",
+   "detail": "每日 10:00 客户端领 100 Credits（30 天有效、可累积），新户注册送 300；Qwen3.8-Flash 每日免费用量按 0×，DeepSeek 系列 11-01 起转 0.1×–0.5×。",
+   "cat": "每日赠送",
+   "link": "https://t.aliyun.com/U/Ob4f6l",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://t.aliyun.com/U/Ob4f6l",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokentab",
+    "tokfbi"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:iflytek-4b",
+   "title": "讯飞 Spark-X2.6-4B 限时免费",
+   "detail": "输入输出全免｜4B 端侧小模型，模型集市里点免费领取；官方只写限时、没给结束日。旗舰 X2.6 是限时 6 折，不免费",
+   "cat": "大模型 API",
+   "link": "https://xinghuo.xfyun.cn/sparkapi",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://xinghuo.xfyun.cn/sparkapi",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  }
+ ],
  "expiring": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "title": "TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分",
-   "detail": "11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分",
-   "cat": "免费额度",
-   "link": "https://www.trae.cn/",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "link_vendor": "https://www.trae.cn/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:autoclaw-week",
-   "title": "智谱 AutoClaw 本周额度",
-   "detail": "5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零",
+   "key": "tokentab:skyproduction-1111",
+   "title": "SkyProduction 双 11 视频模型 0 积分",
+   "detail": "4 款视频模型 0 积分 · 到 11-11｜11-03 00:00 至 11-11 24:00。0 积分是限量体验、按模型给免费条数；「最高 60 天无限」得开年包",
    "cat": "Agent/编程助手",
-   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
+   "link": "https://www.skyproduction.cn/",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
+   "link_vendor": "https://www.skyproduction.cn/",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-08",
+   "deadline": "2026-11-11",
    "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "title": "智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1）",
-   "detail": "每周登录领 5000 万 Tokens（5000 积分，每账号限领一次）",
-   "cat": "赠送额度",
-   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:ark-plan-cut",
-   "title": "火山方舟 Agent Plan 抵扣下调",
-   "detail": "kimi-k3.1-pro 7 → 3.5｜同期 Auto 模式 0.5 系数到 11-08，deepseek-v4.1-flash 五折到 12-30。系数越低，同样额度扣得越少",
-   "cat": "大模型 API",
-   "link": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-09",
-   "kind": "deal",
-   "days_left": 1,
+   "days_left": 2,
    "is_new": false,
    "notify": false
-  },
-  {
-   "key": "tokentab:skyproduction-1111",
-   "title": "SkyProduction 双 11 视频模型 0 积分",
-   "detail": "4 款视频模型 0 积分 · 到 11-11｜11-03 00:00 至 11-11 24:00。0 积分是限量体验、按模型给免费条数；「最高 60 天无限」得开年包",
-   "cat": "Agent/编程助手",
-   "link": "https://www.skyproduction.cn/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://www.skyproduction.cn/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-11",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
   }
  ],
- "expiring_new": [
+ "expiring_new": [],
+ "events": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "title": "TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分",
-   "detail": "11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分",
-   "cat": "免费额度",
-   "link": "https://www.trae.cn/",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-bao-free/",
-   "link_vendor": "https://www.trae.cn/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:autoclaw-week",
-   "title": "智谱 AutoClaw 本周额度",
-   "detail": "5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零",
-   "cat": "Agent/编程助手",
-   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "title": "智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1）",
-   "detail": "每周登录领 5000 万 Tokens（5000 积分，每账号限领一次）",
-   "cat": "赠送额度",
-   "link": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "link_source": "https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W1/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-08",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:skyproduction-1111",
-   "title": "SkyProduction 双 11 视频模型 0 积分",
-   "detail": "4 款视频模型 0 积分 · 到 11-11｜11-03 00:00 至 11-11 24:00。0 积分是限量体验、按模型给免费条数；「最高 60 天无限」得开年包",
-   "cat": "Agent/编程助手",
-   "link": "https://www.skyproduction.cn/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://www.skyproduction.cn/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-11",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
+   "at": "2026-11-08T13:27:48.104Z",
+   "type": "announcement",
+   "text": "DoCode 发了公告：Claude特殊渠道受不可抗拒原因，倍率上调",
+   "severity": "minor"
   }
  ],
- "events": [],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-08 10:10\n\n■ 即将截止\nTRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 ｜ 今天截止 ｜ https://www.trae.cn/\n智谱 AutoClaw 本周额度 ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/\n智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1） ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/blog/news/M11W1/\nSkyProduction 双 11 视频模型 0 积分 ｜ 剩 3 天 ｜ https://www.skyproduction.cn/",
+ "brief": "【AI 优惠雷达】11-09 10:30\n\n■ 新活动\n国家超算互联网 SCNet（双 11 科研智能体） ｜ https://www.scnet.cn/\n腾讯云 Token Plan Hy4 2.5 折 ｜ https://cloud.tencent.com/document/product/1823/140042\n腾讯云 Token Plan Auto 统一 11 积分 ｜ https://cloud.tencent.com/document/product/1823/140042\n移动云 MoMA 2,500 万 Token ｜ https://ecloud.10086.cn/op-help-center/doc/article/92837\n\n■ 新增免费资源\nQoder 匿名模型 Qoduck 限时免费（国际版） ｜ https://docs.qoder.com/zh/events/qoduck-free\nQoder CN 错峰 4 折 ｜ https://t.aliyun.com/U/Ob4f6l\n讯飞 Spark-X2.6-4B 限时免费 ｜ https://xinghuo.xfyun.cn/sparkapi",
  "brief_meta": {
-  "chars": 327,
+  "chars": 518,
   "dropped": 0,
-  "items": 4,
+  "items": 7,
   "blocks": {
-   "即将截止": 4
+   "新活动": 4,
+   "新增免费资源": 3
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-08（10:10）\n\n### 即将截止 4 条\n\n- TRAE 宝（开发者个人助理）限时免费：问答/下发任务不消耗积分 — 2026-11-08（今天截止）\n  11-08 23:59 前，桌面端用 TRAE 宝问答/下发任务不消耗积分\n  来源 https://aitkradar.cn/deals/manual-trae-bao-free/\n  官方 https://www.trae.cn/\n- 智谱 AutoClaw 本周额度 — 2026-11-08（今天截止）\n  5,000 万 Token · 登录即领｜仅客户端内可用，11-08 23:59 清零\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://autoclaw.zhipuai.cn/blog/news/M11W1/\n- 智谱 AutoClaw 每周福利：登录领 5000 万 Tokens（M11W1） — 2026-11-08（今天截止）\n  每周登录领 5000 万 Tokens（5000 积分，每账号限领一次）\n  来源 https://aitkradar.cn/deals/manual-zhipu-autoclaw-weekly-login/\n  官方 https://autoclaw.zhipuai.cn/blog/news/M11W1/\n- SkyProduction 双 11 视频模型 0 积分 — 2026-11-11（剩 3 天）\n  4 款视频模型 0 积分 · 到 11-11｜11-03 00:00 至 11-11 24:00。0 积分是限量体验、按模型给免费条数；「最高 60 天无限」得开年包\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.skyproduction.cn/\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-09（10:30）\n\n### 新活动 4 条\n\n- 国家超算互联网 SCNet（双 11 科研智能体）｜截止 2026-11-30\n  新户注册领 1 亿词元智能体额度；客户端旗舰模型活动期内词元不限量；活动至 11-30。\n  来源 https://token-fbi.com/table/\n  官方 https://www.scnet.cn/\n\n- 腾讯云 Token Plan Hy4 2.5 折｜截止 2026-11-17\n  ¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/1823/140042\n\n- 腾讯云 Token Plan Auto 统一 11 积分｜截止 2026-11-30\n  ¥0.55 每百万 · 一口价｜Auto 档不分输入输出都按 11 积分扣；同期 Kimi K3 7.5 折、GLM-5.3 5.5 折。官方文档写到 11-30 12:00\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/1823/140042\n\n- 移动云 MoMA 2,500 万 Token｜截止 2026-12-31\n  2,500 万 Token · 30 天有效｜官方文档 11-03 更新：2026-02-15 至 12-31 期间领取，一人一次、领后 30 天有效。只抵扣部分自营模型，合作模型与机密模型不支持；限流 3,000 tokens/分钟。入口在 MoMA 控制台模型广场右上角\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://ecloud.10086.cn/op-help-center/doc/article/92837\n\n### 新增免费资源 3 条\n\n- Qoder 匿名模型 Qoduck 限时免费（国际版）〔免费额度〕\n  每日免费额度，调用 Qoduck 不耗 Credits（0.5×→0.0×）\n  来源 https://aitkradar.cn/deals/manual-qoder-qoduck-free/\n  官方 https://docs.qoder.com/zh/events/qoduck-free\n\n- Qoder CN 错峰 4 折〔Agent/编程助手〕\n  22:00-08:00 · 0.04 倍率｜Qwen3.8-Flash 与 Max 错峰 4 折，11-07 起，结束日未公布；只覆盖 Pro Trial 和付费档\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://docs.qoder.cn/product-overview/qwen-3-7-series-model-staggering-discount\n\n- 讯飞 Spark-X2.6-4B 限时免费〔大模型 API〕\n  输入输出全免｜4B 端侧小模型，模型集市里点免费领取；官方只写限时、没给结束日。旗舰 X2.6 是限时 6 折，不免费\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://xinghuo.xfyun.cn/sparkapi\n\n### 免费站状态变化 1 条\n\n- 2026-11-08 13:27｜DoCode 发了公告：Claude特殊渠道受不可抗拒原因，倍率上调\n\n"
 }
