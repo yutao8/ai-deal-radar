@@ -1,10 +1,10 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-09T10:30:02+08:00",
- "count": 271,
+ "generated_at": "2026-11-10T12:32:03+08:00",
+ "count": 270,
  "split": {
-  "deal": 34,
+  "deal": 33,
   "res": 237
  },
  "items": [
@@ -1269,8 +1269,8 @@
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-qoder-qoduck-free/"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -2358,7 +2358,7 @@
    "kind": "res",
    "title": "万家灯火",
    "cat": "免费额度、GPT 订阅、每日签到、Claude Code、Codex、Anthropic 兼容、OpenAI 兼容",
-   "detail": "注册赠 50 站内刀 GPT 订阅（1 个月）· 进群签到 ¥0.1～1/天 · 完成邀请任务双方各得 ¥5｜额度：注册 50／进群绑定账号后，每日签到随机领 ¥0.1～1 通用余额（site-usd）",
+   "detail": "进群绑定 QQ 赠 50 站内刀 GPT 订阅（1 个月）+ ¥2 通用体验额度 · 充值 ¥10 后可每日签到｜额度：注册 50／充值 ¥10 后可签到，每日随机领 ¥0.1～1 通用余额（site-usd）",
    "deadline": "",
    "basis": "https://wjapi.vip",
    "link_source": "https://github.com/panxunying/ai-coding-welfare",
@@ -3958,7 +3958,7 @@
    "kind": "res",
    "title": "字节 TRAE（AI IDE）",
    "cat": "长期免费",
-   "detail": "基础版长期免费（覆盖约 90% 个人开发场景），SOLO 模式 0 元使用；经分享链接注册并登录桌面端，新用户一次性得 3,000 积分（500 注册 + 2,500 新人福利），积分抵扣模型调用，用完仍可用免费基础模型。",
+   "detail": "免费档 ¥0：每月 500 积分、全部功能免费使用、2 个云端任务并发；经分享链接注册并登录桌面端另得 3,000 积分（31 天有效），用完仍可用免费基础模型。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -3994,8 +3994,8 @@
     "tokentab:qoder-new",
     "tokentab:qoder-offpeak"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "Token FBI",
    "days_left": null
   },
@@ -4137,7 +4137,7 @@
    "kind": "res",
    "title": "魔搭社区 ModelScope",
    "cat": "长期免费",
-   "detail": "较优模型每天至少可调用 200 次；属阿里云旗下，站内还有非常多值得研究的东西；注册即享、无需实名。",
+   "detail": "较优文本模型每天至少 200 次调用；阿里云旗下，注册即享、无需实名。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -4389,28 +4389,6 @@
    ],
    "keys": [
     "tokfbi:书生·端砚墨点计划（上海ai实验室）"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
-  },
-  {
-   "key": "tokfbi:华为云码道",
-   "src": "tokfbi",
-   "kind": "deal",
-   "title": "华为云码道",
-   "cat": "华为云·每日赠送",
-   "detail": "每日签到 100 积分（个人体验版，当日有效）；新用户注册 4000 积分（30 天有效）、邀新双方各 1000。原「限时领取福利 Tokens」（每日千万级）已于 2026-10-20 22:00 下线。",
-   "deadline": "2026-12-31",
-   "basis": "",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://edu.huaweicloud.com/signup/00ce9d4a32584039a9741d8488d16711?channelCode=edu&medium=share_kfzlb",
-   "srcs": [
-    "tokfbi"
-   ],
-   "keys": [
-    "tokfbi:华为云码道"
    ],
    "is_new": false,
    "notify": false,
@@ -4834,8 +4812,8 @@
    "keys": [
     "tokfbi:国家超算互联网scnet（双11科研智能体）"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "Token FBI",
    "days_left": null
   },
@@ -5292,7 +5270,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://www.skyproduction.cn/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -5386,8 +5364,8 @@
    "keys": [
     "tokentab:tencent-hy4-tp"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5408,8 +5386,8 @@
    "keys": [
     "tokentab:tencent-auto-11"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5628,8 +5606,8 @@
    "keys": [
     "tokentab:yidong-moma"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5672,8 +5650,8 @@
    "keys": [
     "tokentab:iflytek-4b"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
