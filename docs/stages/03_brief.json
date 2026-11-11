@@ -1,12 +1,17 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-10T12:32:03+08:00",
+ "generated_at": "2026-11-11T10:38:14+08:00",
  "meta": {
-  "chars": 45,
+  "chars": 251,
   "dropped": 0,
-  "items": 0,
+  "items": 3,
+  "blocks": {
+   "新活动": 1,
+   "即将截止": 1,
+   "新增免费资源": 1
+  },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-10 12:32\n\n本次无新增活动，也无新进入提醒窗口的截止条目。"
+ "brief": "【AI 优惠雷达】11-11 10:38\n\n■ 新活动\nWorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ https://www.workbuddy.cn/events/double11/\n\n■ 即将截止\nSkyProduction 双 11 视频模型 0 积分 ｜ 今天截止 ｜ https://www.skyproduction.cn/\n\n■ 新增免费资源\n麦块云 · 每日签到送 1 亿 Token（DeepSeek） ｜ https://minekuai.cn/"
 }

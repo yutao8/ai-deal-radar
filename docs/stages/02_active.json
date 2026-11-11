@@ -1,11 +1,11 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-10T12:32:03+08:00",
- "count": 270,
+ "generated_at": "2026-11-11T10:38:14+08:00",
+ "count": 272,
  "split": {
-  "deal": 33,
-  "res": 237
+  "deal": 34,
+  "res": 238
  },
  "items": [
   {
@@ -49,6 +49,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111）",
+   "cat": "赠送额度",
+   "detail": "开 VIP 首月加送 1111 积分；套餐加送 200/400/600",
+   "deadline": "2026-11-15",
+   "basis": "https://www.workbuddy.cn/events/double11/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
+   "link_vendor": "https://www.workbuddy.cn/events/double11/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -1256,13 +1278,13 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-qoduck-free/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "Qoder 匿名模型 Qoduck 限时免费（国际版）",
+   "title": "Qoder 匿名模型 Qoduck 限时免费",
    "cat": "免费额度",
    "detail": "每日免费额度，调用 Qoduck 不耗 Credits（0.5×→0.0×）",
    "deadline": "",
-   "basis": "https://docs.qoder.com/zh/events/qoduck-free",
+   "basis": "https://docs.qoder.cn/events/qoduck-free",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-qoduck-free/",
-   "link_vendor": "https://docs.qoder.com/zh/events/qoduck-free",
+   "link_vendor": "https://docs.qoder.cn/events/qoduck-free",
    "srcs": [
     "aitkradar"
    ],
@@ -4818,6 +4840,28 @@
    "days_left": null
   },
   {
+   "key": "tokfbi:麦块云·每日签到送1亿token（deepseek）",
+   "src": "tokfbi",
+   "kind": "res",
+   "title": "麦块云 · 每日签到送 1 亿 Token（DeepSeek）",
+   "cat": "四川麦块信息科技有限公司·每日赠送",
+   "detail": "每日签到得 10 鱼币可兑 1 亿 Token（DeepSeek V4.1 Flash 优先通道），当日 24:00 清零；用尽自动转不限量通道。",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://minekuai.cn/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:麦块云·每日签到送1亿token（deepseek）"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
    "key": "tokentab:wb-invite",
    "src": "tokentab",
    "kind": "res",
@@ -5270,7 +5314,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://www.skyproduction.cn/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5278,7 +5322,7 @@
     "tokentab:skyproduction-1111"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "TokenTab 次元塔"
   },
   {
