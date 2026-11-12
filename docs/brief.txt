@@ -1,10 +1,13 @@
-【AI 优惠雷达】11-11 10:38
+【AI 优惠雷达】11-12 11:41
 
 ■ 新活动
-WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ https://www.workbuddy.cn/events/double11/
+阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview
 
 ■ 即将截止
-SkyProduction 双 11 视频模型 0 积分 ｜ 今天截止 ｜ https://www.skyproduction.cn/
+WorkBuddy Hy3 限时免费（延至 11-15） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/pricing/
+WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/events/double11/
+WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/pricing/
+混元 Hy4 客户端内限免 ｜ 剩 3 天 ｜ https://hy.tencent.com/research/hy4
 
 ■ 新增免费资源
-麦块云 · 每日签到送 1 亿 Token（DeepSeek） ｜ https://minekuai.cn/
+LG EXAONE API Platform（K-EXAONE 2.5） ｜ https://docs.exaone.ai/

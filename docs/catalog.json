@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T10:38:14+08:00",
- "total": 272,
+ "generated_at": "2026-11-12T11:41:54+08:00",
+ "total": 274,
  "items": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
@@ -13,6 +13,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
@@ -20,9 +21,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
@@ -35,6 +35,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
@@ -42,9 +43,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
@@ -57,16 +57,16 @@
    "basis": "https://www.workbuddy.cn/events/double11/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
    "link_vendor": "https://www.workbuddy.cn/events/double11/",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/"
    ],
-   "is_new": true,
+   "is_new": false,
    "notify": true,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
@@ -84,6 +84,50 @@
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）",
+   "cat": "限时特价",
+   "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
+   "deadline": "2026-11-25",
+   "basis": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "阿里云百炼Token Plan个人版限时价",
+   "cat": "限时特价",
+   "detail": "四档 39/79/139/312 元；新用户 19.5/39.5 元",
+   "deadline": "2026-11-30",
+   "basis": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/"
    ],
    "is_new": false,
    "notify": false,
@@ -759,22 +803,21 @@
    "days_left": null
   },
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/",
    "src": "aitkradar",
    "kind": "res",
    "title": "阿里云百炼：百炼Token Plan夜间错峰优惠",
    "cat": "限时特价",
-   "detail": "Token Plan个人版限时39元起，Pro档499元（原价600元）",
+   "detail": "夜间22:00至次日08:00，千问3.8享4折、DeepSeek享5折",
    "deadline": "",
    "basis": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
    "srcs": [
     "aitkradar",
     "tokentab"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
     "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/",
     "tokentab:bailian-tp"
    ],
@@ -1262,28 +1305,6 @@
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-qoduck-free/",
-   "src": "aitkradar",
-   "kind": "res",
-   "title": "Qoder 匿名模型 Qoduck 限时免费",
-   "cat": "免费额度",
-   "detail": "每日免费额度，调用 Qoduck 不耗 Credits（0.5×→0.0×）",
-   "deadline": "",
-   "basis": "https://docs.qoder.cn/events/qoduck-free",
-   "link_source": "https://aitkradar.cn/deals/manual-qoder-qoduck-free/",
-   "link_vendor": "https://docs.qoder.cn/events/qoduck-free",
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-qoder-qoduck-free/"
    ],
    "is_new": false,
    "notify": false,
@@ -2369,21 +2390,22 @@
    "days_left": null
   },
   {
-   "key": "welfare:site:wanjiadenghuo",
+   "key": "welfare:site:anyrouter",
    "src": "welfare",
    "kind": "res",
-   "title": "万家灯火",
-   "cat": "免费额度、GPT 订阅、每日签到、Claude Code、Codex、Anthropic 兼容、OpenAI 兼容",
-   "detail": "进群绑定 QQ 赠 50 站内刀 GPT 订阅（1 个月）+ ¥2 通用体验额度 · 充值 ¥10 后可每日签到｜额度：注册 50／充值 ¥10 后可签到，每日随机领 ¥0.1～1 通用余额（site-usd）",
+   "title": "AnyRouter",
+   "cat": "New API、免费额度、签到、Claude Code、按 token 计费、Anthropic 兼容、OpenAI 兼",
+   "detail": "New API 中转站 · 注册送 $75，本页邀请码再加 $50，Anthropic 与 OpenAI 两条原生路由都开着｜额度：注册 75／邀请 50／签到 25",
    "deadline": "",
-   "basis": "https://wjapi.vip",
+   "basis": "https://anyrouter.top",
    "link_source": "https://github.com/panxunying/ai-coding-welfare",
-   "link_vendor": "https://wjapi.vip/",
+   "link_vendor": "https://anyrouter.top/",
    "srcs": [
     "welfare"
    ],
    "keys": [
-    "welfare:site:wanjiadenghuo"
+    "welfare:site:anyrouter",
+    "welfare:site:gorouter"
    ],
    "is_new": false,
    "notify": false,
@@ -2545,29 +2567,6 @@
    "days_left": null
   },
   {
-   "key": "welfare:site:gorouter",
-   "src": "welfare",
-   "kind": "res",
-   "title": "AnyRouter",
-   "cat": "New API、免费额度、Claude Code、Anthropic 兼容、按次计费",
-   "detail": "New API 中转站 · 注册送 $50，本页邀请码再加 $20，按次计费里最便宜的一档｜额度：注册 50／邀请 20",
-   "deadline": "",
-   "basis": "https://gorouter.app",
-   "link_source": "https://github.com/panxunying/ai-coding-welfare",
-   "link_vendor": "https://gorouter.app/",
-   "srcs": [
-    "welfare"
-   ],
-   "keys": [
-    "welfare:site:gorouter",
-    "welfare:site:anyrouter"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "ai-coding-welfare",
-   "days_left": null
-  },
-  {
    "key": "welfare:site:matrix",
    "src": "welfare",
    "kind": "res",
@@ -2627,6 +2626,28 @@
    ],
    "keys": [
     "welfare:site:rawchat"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "ai-coding-welfare",
+   "days_left": null
+  },
+  {
+   "key": "welfare:site:wanjiadenghuo",
+   "src": "welfare",
+   "kind": "res",
+   "title": "万家灯火",
+   "cat": "免费额度、GPT 订阅、每日签到、Claude Code、Codex、Anthropic 兼容、OpenAI 兼容",
+   "detail": "进群绑定 QQ 赠 50 站内刀 GPT 订阅（1 个月）+ ¥2 通用体验额度 · 充值 ¥10 后可每日签到｜额度：注册 50／充值 ¥10 后可签到，每日随机领 ¥0.1～1 通用余额（site-usd）",
+   "deadline": "",
+   "basis": "https://wjapi.vip",
+   "link_source": "https://github.com/panxunying/ai-coding-welfare",
+   "link_vendor": "https://wjapi.vip/",
+   "srcs": [
+    "welfare"
+   ],
+   "keys": [
+    "welfare:site:wanjiadenghuo"
    ],
    "is_new": false,
    "notify": false,
@@ -3956,6 +3977,7 @@
    "basis": "https://www.toutiao.com/a7698041018058342953",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -3965,8 +3987,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:字节trae（aiide）",
@@ -3996,7 +4017,7 @@
    "kind": "res",
    "title": "Qoder CN 错峰 4 折",
    "cat": "每日赠送",
-   "detail": "每日 10:00 客户端领 100 Credits（30 天有效、可累积），新户注册送 300；Qwen3.8-Flash 每日免费用量按 0×，DeepSeek 系列 11-01 起转 0.1×–0.5×。",
+   "detail": "每日 10:00 桌面端领 100 Credits（30 天有效、可累积）；Qwen3.8-Flash 免限 11-06 24:00 已结束，现 0.1×、错峰 0.04×；Qwen4-Max-Preview 11-11 上线，0.5×。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -4488,6 +4509,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -4496,8 +4518,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4850,6 +4871,28 @@
    "keys": [
     "tokfbi:麦块云·每日签到送1亿token（deepseek）"
    ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
+   "key": "tokfbi:lgexaoneapiplatform（kexaone2.5）",
+   "src": "tokfbi",
+   "kind": "res",
+   "title": "LG EXAONE API Platform（K-EXAONE 2.5）",
+   "cat": "LG AI 研究院（LG AI Research）·免费层",
+   "detail": "API 现免费开放，K-EXAONE 2.5（750B/激活 31B、512K 上下文）与 EXAONE Tabular 均可调用；每日 86,400 次、每分钟 60 次上限。",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://docs.exaone.ai/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:lgexaoneapiplatform（kexaone2.5）"
+   ],
    "is_new": true,
    "notify": true,
    "src_name": "Token FBI",
@@ -5176,6 +5219,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W2/",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -5184,8 +5228,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:qoder-1111",
@@ -5242,6 +5285,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://hy.tencent.com/research/hy4",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -5249,9 +5293,8 @@
     "tokentab:hunyuan-hy4"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:zcode-night",
@@ -5308,7 +5351,6 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://www.skyproduction.cn/",
-   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5316,8 +5358,9 @@
     "tokentab:skyproduction-1111"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "TokenTab 次元塔"
+   "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
   },
   {
    "key": "tokentab:agent-free",

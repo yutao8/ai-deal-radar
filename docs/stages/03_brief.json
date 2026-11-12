@@ -1,17 +1,17 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-11T10:38:14+08:00",
+ "generated_at": "2026-11-12T11:41:54+08:00",
  "meta": {
-  "chars": 251,
+  "chars": 541,
   "dropped": 0,
-  "items": 3,
+  "items": 6,
   "blocks": {
    "新活动": 1,
-   "即将截止": 1,
+   "即将截止": 4,
    "新增免费资源": 1
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-11 10:38\n\n■ 新活动\nWorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ https://www.workbuddy.cn/events/double11/\n\n■ 即将截止\nSkyProduction 双 11 视频模型 0 积分 ｜ 今天截止 ｜ https://www.skyproduction.cn/\n\n■ 新增免费资源\n麦块云 · 每日签到送 1 亿 Token（DeepSeek） ｜ https://minekuai.cn/"
+ "brief": "【AI 优惠雷达】11-12 11:41\n\n■ 新活动\n阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n\n■ 即将截止\nWorkBuddy Hy3 限时免费（延至 11-15） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/events/double11/\nWorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/pricing/\n混元 Hy4 客户端内限免 ｜ 剩 3 天 ｜ https://hy.tencent.com/research/hy4\n\n■ 新增免费资源\nLG EXAONE API Platform（K-EXAONE 2.5） ｜ https://docs.exaone.ai/"
 }
