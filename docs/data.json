@@ -1,31 +1,50 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-12T11:41:54+08:00",
- "generated_date": "2026-11-12",
+ "generated_at": "2026-11-13T11:18:49+08:00",
+ "generated_date": "2026-11-13",
  "near_days": 3,
  "has_changes": true,
  "counts": {
   "total": 274,
   "new": 2,
-  "new_deals": 1,
-  "new_resources": 1,
-  "expiring": 7,
-  "expiring_new": 4,
+  "new_deals": 2,
+  "new_resources": 0,
+  "expiring": 9,
+  "expiring_new": 3,
   "failed_sources": 0
  },
  "new_deals": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
-   "title": "阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）",
-   "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
-   "cat": "限时特价",
-   "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
-   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
+   "title": "WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111）",
+   "detail": "开 VIP 首月加送 1111 积分；套餐加送 200/400/600",
+   "cat": "赠送额度",
+   "link": "https://www.workbuddy.cn/events/double11/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
+   "link_vendor": "https://www.workbuddy.cn/events/double11/",
    "src_name": "AI价格雷达",
    "srcs": [
-    "aitkradar"
+    "aitkradar",
+    "tokentab"
+   ],
+   "deadline": "2026-11-15",
+   "kind": "deal",
+   "days_left": 2,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokentab:bailian-qwen4",
+   "title": "百炼 qwen4-max-preview 预览 2 折",
+   "detail": "预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用",
+   "cat": "大模型 API",
+   "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
    ],
    "deadline": "2026-11-25",
    "kind": "deal",
@@ -34,26 +53,7 @@
    "notify": true
   }
  ],
- "new_resources": [
-  {
-   "key": "tokfbi:lgexaoneapiplatform（kexaone2.5）",
-   "title": "LG EXAONE API Platform（K-EXAONE 2.5）",
-   "detail": "API 现免费开放，K-EXAONE 2.5（750B/激活 31B、512K 上下文）与 EXAONE Tabular 均可调用；每日 86,400 次、每分钟 60 次上限。",
-   "cat": "LG AI 研究院（LG AI Research）·免费层",
-   "link": "https://docs.exaone.ai/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://docs.exaone.ai/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  }
- ],
+ "new_resources": [],
  "expiring": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
@@ -69,9 +69,9 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
@@ -83,12 +83,13 @@
    "link_vendor": "https://www.workbuddy.cn/events/double11/",
    "src_name": "AI价格雷达",
    "srcs": [
-    "aitkradar"
+    "aitkradar",
+    "tokentab"
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
+   "days_left": 2,
+   "is_new": true,
    "notify": true
   },
   {
@@ -105,7 +106,7 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
@@ -123,9 +124,9 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokentab:autoclaw-week",
@@ -141,7 +142,7 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
@@ -159,7 +160,7 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
@@ -177,30 +178,48 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
+   "days_left": 2,
+   "is_new": false,
+   "notify": false
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "title": "TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）",
+   "detail": "首月 Lite 34 / Pro 69 元起（原 49/99）",
+   "cat": "限时特价",
+   "link": "https://www.trae.cn/pricing",
+   "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "link_vendor": "https://www.trae.cn/pricing",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-11-16",
+   "kind": "deal",
+   "days_left": 3,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokentab:tencent-tp-off",
+   "title": "腾讯云 Token Plan 空闲时段 4 折",
+   "detail": "¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00",
+   "cat": "大模型 API",
+   "link": "https://cloud.tencent.com/document/product/248/140042",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-16",
+   "kind": "deal",
    "days_left": 3,
    "is_new": false,
    "notify": true
   }
  ],
  "expiring_new": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
-   "title": "WorkBuddy Hy3 限时免费（延至 11-15）",
-   "detail": "Hy3 限时免费，延至 11-15 23:59",
-   "cat": "免费额度",
-   "link": "https://www.workbuddy.cn/pricing/",
-   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
-   "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-15",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
    "title": "WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111）",
@@ -211,45 +230,46 @@
    "link_vendor": "https://www.workbuddy.cn/events/double11/",
    "src_name": "AI价格雷达",
    "srcs": [
-    "aitkradar"
+    "aitkradar",
+    "tokentab"
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
+   "days_left": 2,
+   "is_new": true,
    "notify": true
   },
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
-   "title": "WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入）",
-   "detail": "Hy4 限时免费体验，11-04 至 11-15 23:59",
-   "cat": "免费额度",
-   "link": "https://www.workbuddy.cn/pricing/",
-   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
-   "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "title": "TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）",
+   "detail": "首月 Lite 34 / Pro 69 元起（原 49/99）",
+   "cat": "限时特价",
+   "link": "https://www.trae.cn/pricing",
+   "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
+   "link_vendor": "https://www.trae.cn/pricing",
    "src_name": "AI价格雷达",
    "srcs": [
     "aitkradar"
    ],
-   "deadline": "2026-11-15",
+   "deadline": "2026-11-16",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
    "notify": true
   },
   {
-   "key": "tokentab:hunyuan-hy4",
-   "title": "混元 Hy4 客户端内限免",
-   "detail": "免到 11-15 · 0.00x 不扣积分｜WorkBuddy / CodeBuddy 里选 Hy4，名字旁显示 0.00x 就是免费，不用配 Key（来源：WorkBuddy 官方公众号 11-04 稿）。每天一份额度，用完开始扣积分；生图生视频会切到别的模型、照常扣。Hy3 同步到同一天。产品内额度，不是 API",
-   "cat": "Agent/编程助手",
-   "link": "https://hy.tencent.com/research/hy4",
+   "key": "tokentab:tencent-tp-off",
+   "title": "腾讯云 Token Plan 空闲时段 4 折",
+   "detail": "¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00",
+   "cat": "大模型 API",
+   "link": "https://cloud.tencent.com/document/product/248/140042",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://hy.tencent.com/research/hy4",
+   "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-15",
+   "deadline": "2026-11-16",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
@@ -258,25 +278,30 @@
  ],
  "events": [
   {
-   "at": "2026-11-11T05:53:09.312Z",
-   "type": "announcement",
-   "text": "DoCode 发了公告：双 11，11 点有活动",
-   "severity": "minor"
+   "at": "2026-11-12T19:56:20.652Z",
+   "type": "online",
+   "text": "NOFX 恢复在线",
+   "severity": "major"
+  },
+  {
+   "at": "2026-11-12T07:13:58.863Z",
+   "type": "offline",
+   "text": "NOFX 探测不到了：注册页与公开接口都没响应",
+   "severity": "major"
   }
  ],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-12 11:41\n\n■ 新活动\n阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n\n■ 即将截止\nWorkBuddy Hy3 限时免费（延至 11-15） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/events/double11/\nWorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） ｜ 剩 3 天 ｜ https://www.workbuddy.cn/pricing/\n混元 Hy4 客户端内限免 ｜ 剩 3 天 ｜ https://hy.tencent.com/research/hy4\n\n■ 新增免费资源\nLG EXAONE API Platform（K-EXAONE 2.5） ｜ https://docs.exaone.ai/",
+ "brief": "【AI 优惠雷达】11-13 11:18\n\n■ 新活动\n百炼 qwen4-max-preview 预览 2 折 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\nWorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ 剩 2 天 ｜ https://www.workbuddy.cn/events/double11/\n\n■ 即将截止\nTRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ 剩 3 天 ｜ https://www.trae.cn/pricing\n腾讯云 Token Plan 空闲时段 4 折 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/248/140042",
  "brief_meta": {
-  "chars": 541,
+  "chars": 386,
   "dropped": 0,
-  "items": 6,
+  "items": 4,
   "blocks": {
-   "新活动": 1,
-   "即将截止": 4,
-   "新增免费资源": 1
+   "新活动": 2,
+   "即将截止": 2
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-12（11:41）\n\n### 新活动 1 条\n\n- 阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）｜截止 2026-11-25\n  Credits 低至 2 折；错峰再 4 折（合 0.8 折）\n  来源 https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/\n  官方 https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n\n### 即将截止 4 条\n\n- WorkBuddy Hy3 限时免费（延至 11-15） — 2026-11-15（剩 3 天）\n  Hy3 限时免费，延至 11-15 23:59\n  来源 https://aitkradar.cn/deals/manual-workbuddy-hy3/\n  官方 https://www.workbuddy.cn/pricing/\n- WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） — 2026-11-15（剩 3 天）\n  开 VIP 首月加送 1111 积分；套餐加送 200/400/600\n  来源 https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/\n  官方 https://www.workbuddy.cn/events/double11/\n- WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） — 2026-11-15（剩 3 天）\n  Hy4 限时免费体验，11-04 至 11-15 23:59\n  来源 https://aitkradar.cn/deals/manual-workbuddy-hy4preview/\n  官方 https://www.workbuddy.cn/pricing/\n- 混元 Hy4 客户端内限免 — 2026-11-15（剩 3 天）\n  免到 11-15 · 0.00x 不扣积分｜WorkBuddy / CodeBuddy 里选 Hy4，名字旁显示 0.00x 就是免费，不用配 Key（来源：WorkBuddy 官方公众号 11-04 稿）。每天一份额度\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://hy.tencent.com/research/hy4\n\n### 新增免费资源 1 条\n\n- LG EXAONE API Platform（K-EXAONE 2.5）〔LG AI 研究院（LG AI Research）·免费层〕\n  API 现免费开放，K-EXAONE 2.5（750B/激活 31B、512K 上下文）与 EXAONE Tabular 均可调用；每日 86,400 次、每分钟 60 次上限。\n  来源 https://token-fbi.com/table/\n  官方 https://docs.exaone.ai/\n\n### 免费站状态变化 1 条\n\n- 2026-11-11 05:53｜DoCode 发了公告：双 11，11 点有活动\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-13（11:18）\n\n### 新活动 2 条\n\n- WorkBuddy 双 11 加送积分｜截止 2026-11-15\n  最高加送 1,111 积分｜1,111 只给开通 Buddy One VIP 的（¥700/月起），只升标准、高级、旗舰是 200 / 400 / 600；开通后抽奖 100% 中奖，包年给 3 次。不用会员也能买 ¥11.11 尝鲜包，内含 300 积分、限购 1 份\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.workbuddy.cn/events/double11/\n\n- 百炼 qwen4-max-preview 预览 2 折｜截止 2026-11-25\n  预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n\n### 即将截止 2 条\n\n- TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） — 2026-11-16（剩 3 天）\n  首月 Lite 34 / Pro 69 元起（原 49/99）\n  来源 https://aitkradar.cn/deals/manual-trae-double11-member/\n  官方 https://www.trae.cn/pricing\n- 腾讯云 Token Plan 空闲时段 4 折 — 2026-11-16（剩 3 天）\n  ¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/248/140042\n\n### 免费站状态变化 2 条\n\n- 2026-11-12 19:56｜NOFX 恢复在线\n- 2026-11-12 07:13｜NOFX 探测不到了：注册页与公开接口都没响应\n\n"
 }
