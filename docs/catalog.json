@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-11-13T11:18:49+08:00",
- "total": 274,
+ "generated_at": "2026-11-14T10:57:20+08:00",
+ "total": 275,
  "items": [
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11）",
+   "cat": "限时特价",
+   "detail": "0.01 元/月（原 28 元），含每月 500 积分",
+   "deadline": "2026-11-14",
+   "basis": "https://qianwen.taobao.com/",
+   "link_source": "https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
+   "link_vendor": "https://qianwen.taobao.com/",
+   "days_left": 0,
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "AI价格雷达"
+  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "src": "aitkradar",
@@ -13,7 +35,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "aitkradar"
    ],
@@ -35,7 +57,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "aitkradar"
    ],
@@ -57,7 +79,7 @@
    "basis": "https://www.workbuddy.cn/events/double11/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
    "link_vendor": "https://www.workbuddy.cn/events/double11/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "aitkradar",
     "tokentab"
@@ -66,8 +88,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
     "tokentab:wb-double11"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -81,7 +103,7 @@
    "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
    "link_vendor": "https://www.trae.cn/pricing",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar"
    ],
@@ -89,7 +111,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -1310,6 +1332,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-doubao-work-001x/",
+   "src": "aitkradar",
+   "kind": "res",
+   "title": "豆包工作 接入第三方模型+限时特惠（Lite/DS V4.1）",
+   "cat": "限时特价",
+   "detail": "豆包2.1 Lite / DS V4.1 Flash 限时 0.01x",
+   "deadline": "",
+   "basis": "https://www.doubao.com/work/",
+   "link_source": "https://aitkradar.cn/deals/manual-doubao-work-001x/",
+   "link_vendor": "https://www.doubao.com/work/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-doubao-work-001x/"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -3947,28 +3991,6 @@
    "days_left": null
   },
   {
-   "key": "tokfbi:库库ai",
-   "src": "tokfbi",
-   "kind": "res",
-   "title": "库库 AI",
-   "cat": "百度·每日赠送",
-   "detail": "每日登录 +50 积分、完成一次对话 +50 积分，合计每天可领 100 积分；DeepSeek V4.1 按 0.16 倍率消耗。",
-   "deadline": "",
-   "basis": "https://kuku.baidu.com/landing/tscp_doc/241ee0e211f5585043d18609e5269ca1",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://kuku.baidu.com/",
-   "srcs": [
-    "tokfbi"
-   ],
-   "keys": [
-    "tokfbi:库库ai"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
-  },
-  {
    "key": "tokfbi:workbuddy",
    "src": "tokfbi",
    "kind": "deal",
@@ -3979,7 +4001,7 @@
    "basis": "https://www.toutiao.com/a7698041018058342953",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4462,7 +4484,7 @@
    "kind": "res",
    "title": "豆包工作（30 天订阅）",
    "cat": "免费层",
-   "detail": "登录电脑版领 30 天标准订阅（可续领一次，合计最多 60 天）；简单小额任务免费，两款轻量模型限时 0.01×。",
+   "detail": "登录电脑版领 30 天标准订阅（可续领一次，共最多 60 天）；小额任务免费，用 DeepSeek-V4.1-Flash 限时 0.01×。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -4511,7 +4533,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -5221,7 +5243,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W2/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -5287,7 +5309,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://hy.tencent.com/research/hy4",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -5397,7 +5419,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -5405,7 +5427,7 @@
     "tokentab:tencent-tp-off"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -5419,6 +5441,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -5426,9 +5449,8 @@
     "tokentab:tencent-hy4-tp"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:tencent-auto-11",
@@ -5557,8 +5579,8 @@
    "keys": [
     "tokentab:bailian-qwen4"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
