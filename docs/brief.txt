@@ -1,10 +1,13 @@
-【AI 优惠雷达】11-14 10:57
-
-■ 新活动
-阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11） ｜ 今天截止 ｜ https://qianwen.taobao.com/
+【AI 优惠雷达】11-15 10:29
 
 ■ 即将截止
-腾讯云 Token Plan Hy4 2.5 折 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042
+WorkBuddy Hy3 限时免费（延至 11-15） ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/
+WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ 今天截止 ｜ https://www.workbuddy.cn/events/double11/
+WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/
+混元 Hy4 客户端内限免 ｜ 今天截止 ｜ https://hy.tencent.com/research/hy4
+Antigravity 免费档 ｜ 剩 3 天 ｜ https://antigravity.google/docs/models
 
 ■ 新增免费资源
-豆包工作 接入第三方模型+限时特惠（Lite/DS V4.1） ｜ https://www.doubao.com/work/
+阿里云百炼：百炼 Coding Plan Pro 新客首月 39.9 元 ｜ https://www.aliyun.com/activity/hub/qianwenai1111
+月之暗面 Kimi 开放平台（Kimi K3.1 Pro） ｜ https://platform.moonshot.cn/
+NVIDIA NIM（build.nvidia.com 免费 API 端点） ｜ https://build.nvidia.com/models

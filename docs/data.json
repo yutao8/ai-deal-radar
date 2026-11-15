@@ -1,51 +1,70 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-14T10:57:20+08:00",
- "generated_date": "2026-11-14",
+ "generated_at": "2026-11-15T10:29:00+08:00",
+ "generated_date": "2026-11-15",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 275,
-  "new": 2,
-  "new_deals": 1,
-  "new_resources": 1,
-  "expiring": 11,
-  "expiring_new": 2,
+  "total": 276,
+  "new": 3,
+  "new_deals": 0,
+  "new_resources": 3,
+  "expiring": 10,
+  "expiring_new": 5,
   "failed_sources": 0
  },
- "new_deals": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "title": "阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11）",
-   "detail": "0.01 元/月（原 28 元），含每月 500 积分",
-   "cat": "限时特价",
-   "link": "https://qianwen.taobao.com/",
-   "link_source": "https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "link_vendor": "https://qianwen.taobao.com/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-14",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": true,
-   "notify": true
-  }
- ],
+ "new_deals": [],
  "new_resources": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-doubao-work-001x/",
-   "title": "豆包工作 接入第三方模型+限时特惠（Lite/DS V4.1）",
-   "detail": "豆包2.1 Lite / DS V4.1 Flash 限时 0.01x",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-codingplan-pro-first/",
+   "title": "阿里云百炼：百炼 Coding Plan Pro 新客首月 39.9 元",
+   "detail": "首月 39.90 元（原价 200 元/月）",
    "cat": "限时特价",
-   "link": "https://www.doubao.com/work/",
-   "link_source": "https://aitkradar.cn/deals/manual-doubao-work-001x/",
-   "link_vendor": "https://www.doubao.com/work/",
+   "link": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-codingplan-pro-first/",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "src_name": "AI价格雷达",
    "srcs": [
-    "aitkradar"
+    "aitkradar",
+    "freehub"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "freehub:kimi开放平台(月之暗面)",
+   "title": "月之暗面 Kimi 开放平台（Kimi K3.1 Pro）",
+   "detail": "新用户实名认证即送 15 元代金券，可抵 K3.1 Pro/K3 等 API 调用费；券自发放起 90 天有效（至 2027-02-11 一类），约合百万级输入 tokens。",
+   "cat": "免费额度",
+   "link": "https://platform.moonshot.cn/",
+   "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
+   "link_vendor": "https://platform.moonshot.cn/",
+   "src_name": "FreeLLM-API-KeyHub",
+   "srcs": [
+    "freehub",
+    "tokfbi"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  },
+  {
+   "key": "tokfbi:nvidianim（build.nvidia.com免费api端点）",
+   "title": "NVIDIA NIM（build.nvidia.com 免费 API 端点）",
+   "detail": "注册免绑卡建 Key 即可调 43 个免费端点，含 DeepSeek-V4.1-Flash、GLM-5.3-Flash、MiniMax-M3.1-Flash；无截止日。",
+   "cat": "NVIDIA·免费层",
+   "link": "https://build.nvidia.com/models",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://build.nvidia.com/models",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
    ],
    "deadline": "",
    "kind": "res",
@@ -55,24 +74,6 @@
   }
  ],
  "expiring": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "title": "阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11）",
-   "detail": "0.01 元/月（原 28 元），含每月 500 积分",
-   "cat": "限时特价",
-   "link": "https://qianwen.taobao.com/",
-   "link_source": "https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "link_vendor": "https://qianwen.taobao.com/",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-14",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": true,
-   "notify": true
-  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "title": "WorkBuddy Hy3 限时免费（延至 11-15）",
@@ -87,9 +88,9 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
@@ -106,9 +107,9 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "tokfbi:workbuddy",
@@ -124,7 +125,7 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
    "notify": false
   },
@@ -142,9 +143,9 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "tokentab:autoclaw-week",
@@ -160,25 +161,7 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 1,
-   "is_new": false,
-   "notify": false
-  },
-  {
-   "key": "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）",
-   "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
-   "detail": "11/9–11/15 登录领 5000 万 Token，11-15 23:59 失效；每账号限领一次。",
-   "cat": "限时活动",
-   "link": "https://autoclaw.zhipuai.cn/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-15",
-   "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
    "notify": false
   },
@@ -196,9 +179,9 @@
    ],
    "deadline": "2026-11-15",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
@@ -214,7 +197,7 @@
    ],
    "deadline": "2026-11-16",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -232,7 +215,7 @@
    ],
    "deadline": "2026-11-16",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -250,6 +233,24 @@
    ],
    "deadline": "2026-11-17",
    "kind": "deal",
+   "days_left": 2,
+   "is_new": false,
+   "notify": false
+  },
+  {
+   "key": "tokentab:g-antigravity",
+   "title": "Antigravity 免费档",
+   "detail": "0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Command 不限次。官方写明那三个第三方模型 11-18 移除，之后还剩 Hydrogen 和 3.8 Flash。需海外网络",
+   "cat": "海外",
+   "link": "https://antigravity.google/docs/models",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://antigravity.google/docs/models",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-18",
+   "kind": "deal",
    "days_left": 3,
    "is_new": false,
    "notify": true
@@ -257,56 +258,117 @@
  ],
  "expiring_new": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "title": "阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11）",
-   "detail": "0.01 元/月（原 28 元），含每月 500 积分",
-   "cat": "限时特价",
-   "link": "https://qianwen.taobao.com/",
-   "link_source": "https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "link_vendor": "https://qianwen.taobao.com/",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
+   "title": "WorkBuddy Hy3 限时免费（延至 11-15）",
+   "detail": "Hy3 限时免费，延至 11-15 23:59",
+   "cat": "免费额度",
+   "link": "https://www.workbuddy.cn/pricing/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
+   "link_vendor": "https://www.workbuddy.cn/pricing/",
    "src_name": "AI价格雷达",
    "srcs": [
     "aitkradar"
    ],
-   "deadline": "2026-11-14",
+   "deadline": "2026-11-15",
    "kind": "deal",
    "days_left": 0,
-   "is_new": true,
+   "is_new": false,
    "notify": true
   },
   {
-   "key": "tokentab:tencent-hy4-tp",
-   "title": "腾讯云 Token Plan Hy4 2.5 折",
-   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/1823/140042",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
+   "title": "WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111）",
+   "detail": "开 VIP 首月加送 1111 积分；套餐加送 200/400/600",
+   "cat": "赠送额度",
+   "link": "https://www.workbuddy.cn/events/double11/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
+   "link_vendor": "https://www.workbuddy.cn/events/double11/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar",
+    "tokentab"
+   ],
+   "deadline": "2026-11-15",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
+   "title": "WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入）",
+   "detail": "Hy4 限时免费体验，11-04 至 11-15 23:59",
+   "cat": "免费额度",
+   "link": "https://www.workbuddy.cn/pricing/",
+   "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
+   "link_vendor": "https://www.workbuddy.cn/pricing/",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-11-15",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokentab:hunyuan-hy4",
+   "title": "混元 Hy4 客户端内限免",
+   "detail": "免到 11-15 · 0.00x 不扣积分｜WorkBuddy / CodeBuddy 里选 Hy4，名字旁显示 0.00x 就是免费，不用配 Key（来源：WorkBuddy 官方公众号 11-04 稿）。每天一份额度，用完开始扣积分；生图生视频会切到别的模型、照常扣。Hy3 同步到同一天。产品内额度，不是 API",
+   "cat": "Agent/编程助手",
+   "link": "https://hy.tencent.com/research/hy4",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "link_vendor": "https://hy.tencent.com/research/hy4",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-17",
+   "deadline": "2026-11-15",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokentab:g-antigravity",
+   "title": "Antigravity 免费档",
+   "detail": "0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Command 不限次。官方写明那三个第三方模型 11-18 移除，之后还剩 Hydrogen 和 3.8 Flash。需海外网络",
+   "cat": "海外",
+   "link": "https://antigravity.google/docs/models",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://antigravity.google/docs/models",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-18",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
    "notify": true
   }
  ],
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-14T22:26:56.348Z",
+   "type": "announcement",
+   "text": "DoCode 发了公告：gemini 3 系 4 系，不管是按量还是按次，都大部分时间无法使用，以后能正常使用会通知。",
+   "severity": "minor"
+  }
+ ],
  "failed_sources": [],
- "brief": "【AI 优惠雷达】11-14 10:57\n\n■ 新活动\n阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11） ｜ 今天截止 ｜ https://qianwen.taobao.com/\n\n■ 即将截止\n腾讯云 Token Plan Hy4 2.5 折 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042\n\n■ 新增免费资源\n豆包工作 接入第三方模型+限时特惠（Lite/DS V4.1） ｜ https://www.doubao.com/work/",
+ "brief": "【AI 优惠雷达】11-15 10:29\n\n■ 即将截止\nWorkBuddy Hy3 限时免费（延至 11-15） ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/\nWorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） ｜ 今天截止 ｜ https://www.workbuddy.cn/events/double11/\nWorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） ｜ 今天截止 ｜ https://www.workbuddy.cn/pricing/\n混元 Hy4 客户端内限免 ｜ 今天截止 ｜ https://hy.tencent.com/research/hy4\nAntigravity 免费档 ｜ 剩 3 天 ｜ https://antigravity.google/docs/models\n\n■ 新增免费资源\n阿里云百炼：百炼 Coding Plan Pro 新客首月 39.9 元 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n月之暗面 Kimi 开放平台（Kimi K3.1 Pro） ｜ https://platform.moonshot.cn/\nNVIDIA NIM（build.nvidia.com 免费 API 端点） ｜ https://build.nvidia.com/models",
  "brief_meta": {
-  "chars": 270,
+  "chars": 627,
   "dropped": 0,
-  "items": 3,
+  "items": 8,
   "blocks": {
-   "新活动": 1,
-   "即将截止": 1,
-   "新增免费资源": 1
+   "即将截止": 5,
+   "新增免费资源": 3
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-14（10:57）\n\n### 新活动 1 条\n\n- 阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11）｜截止 2026-11-14\n  0.01 元/月（原 28 元），含每月 500 积分\n  来源 https://aitkradar.cn/deals/manual-qwenwork-taobao-001/\n  官方 https://qianwen.taobao.com/\n\n### 即将截止 1 条\n\n- 腾讯云 Token Plan Hy4 2.5 折 — 2026-11-17（剩 3 天）\n  ¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/1823/140042\n\n### 新增免费资源 1 条\n\n- 豆包工作 接入第三方模型+限时特惠（Lite/DS V4.1）〔限时特价〕\n  豆包2.1 Lite / DS V4.1 Flash 限时 0.01x\n  来源 https://aitkradar.cn/deals/manual-doubao-work-001x/\n  官方 https://www.doubao.com/work/\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-15（10:29）\n\n### 即将截止 5 条\n\n- WorkBuddy Hy3 限时免费（延至 11-15） — 2026-11-15（今天截止）\n  Hy3 限时免费，延至 11-15 23:59\n  来源 https://aitkradar.cn/deals/manual-workbuddy-hy3/\n  官方 https://www.workbuddy.cn/pricing/\n- WorkBuddy 双11：开通会员/套餐首月加送积分（VIP +1111） — 2026-11-15（今天截止）\n  最高加送 1,111 积分｜1,111 只给开通 Buddy One VIP 的（¥700/月起），只升标准、高级、旗舰是 200 / 400 / 600；开通后抽奖 100% 中奖，包年给 3 次。不用会员也能买 ¥1\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.workbuddy.cn/events/double11/\n- WorkBuddy 混元 Hy4 限时免费体验（国内/国际版首发接入） — 2026-11-15（今天截止）\n  Hy4 限时免费体验，11-04 至 11-15 23:59\n  来源 https://aitkradar.cn/deals/manual-workbuddy-hy4preview/\n  官方 https://www.workbuddy.cn/pricing/\n- 混元 Hy4 客户端内限免 — 2026-11-15（今天截止）\n  免到 11-15 · 0.00x 不扣积分｜WorkBuddy / CodeBuddy 里选 Hy4，名字旁显示 0.00x 就是免费，不用配 Key（来源：WorkBuddy 官方公众号 11-04 稿）。每天一份额度\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://hy.tencent.com/research/hy4\n- Antigravity 免费档 — 2026-11-18（剩 3 天）\n  0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Comman\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://antigravity.google/docs/models\n\n### 新增免费资源 3 条\n\n- 阿里云百炼：百炼 Coding Plan Pro 新客首月 39.9 元〔限时特价〕\n  首月 39.90 元（原价 200 元/月）\n  来源 https://aitkradar.cn/deals/manual-aliyun-codingplan-pro-first/\n  官方 https://www.aliyun.com/activity/hub/qianwenai1111\n\n- NVIDIA NIM（build.nvidia.com 免费 API 端点）〔NVIDIA·免费层〕\n  注册免绑卡建 Key 即可调 43 个免费端点，含 DeepSeek-V4.1-Flash、GLM-5.3-Flash、MiniMax-M3.1-Flash；无截止日。\n  来源 https://token-fbi.com/table/\n  官方 https://build.nvidia.com/models\n\n- 月之暗面 Kimi 开放平台（Kimi K3.1 Pro）〔月之暗面 Moonshot AI·注册赠送〕\n  新用户实名认证即送 15 元代金券，可抵 K3.1 Pro/K3 等 API 调用费；券自发放起 90 天有效（至 2027-02-11 一类），约合百万级输入 tokens。\n  来源 https://token-fbi.com/table/\n  官方 https://platform.moonshot.cn/\n\n### 免费站状态变化 1 条\n\n- 2026-11-14 22:26｜DoCode 发了公告：gemini 3 系 4 系，不管是按量还是按次，都大部分时间无法使用，以后能正常使用会通知。\n\n"
 }

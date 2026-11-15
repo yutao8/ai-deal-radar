@@ -1,35 +1,13 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-14T10:57:20+08:00",
- "count": 275,
+ "generated_at": "2026-11-15T10:29:00+08:00",
+ "count": 276,
  "split": {
-  "deal": 37,
-  "res": 238
+  "deal": 35,
+  "res": 241
  },
  "items": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "阿里·千问办公：千问办公 基础版月卡 0.01 元/月（淘宝双11）",
-   "cat": "限时特价",
-   "detail": "0.01 元/月（原 28 元），含每月 500 积分",
-   "deadline": "2026-11-14",
-   "basis": "https://qianwen.taobao.com/",
-   "link_source": "https://aitkradar.cn/deals/manual-qwenwork-taobao-001/",
-   "link_vendor": "https://qianwen.taobao.com/",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-taobao-001/"
-   ],
-   "is_new": true,
-   "notify": true,
-   "src_name": "AI价格雷达"
-  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "src": "aitkradar",
@@ -41,7 +19,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy3/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -49,7 +27,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy3/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -63,7 +41,7 @@
    "basis": "https://www.workbuddy.cn/pricing/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-hy4preview/",
    "link_vendor": "https://www.workbuddy.cn/pricing/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -71,7 +49,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-hy4preview/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -85,7 +63,7 @@
    "basis": "https://www.workbuddy.cn/events/double11/",
    "link_source": "https://aitkradar.cn/deals/manual-workbuddy-double11-bonus/",
    "link_vendor": "https://www.workbuddy.cn/events/double11/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar",
     "tokentab"
@@ -95,7 +73,7 @@
     "tokentab:wb-double11"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -109,7 +87,7 @@
    "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
    "link_vendor": "https://www.trae.cn/pricing",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "aitkradar"
    ],
@@ -128,9 +106,9 @@
    "cat": "限时特价",
    "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
    "deadline": "2026-11-25",
-   "basis": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
-   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar"
    ],
@@ -150,9 +128,9 @@
    "cat": "限时特价",
    "detail": "四档 39/79/139/312 元；新用户 19.5/39.5 元",
    "deadline": "2026-11-30",
-   "basis": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
-   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar",
     "tokentab"
@@ -174,9 +152,9 @@
    "cat": "限时特价",
    "detail": "指定模型闲时（22:00-次日8:00）调用低至 2 折",
    "deadline": "2026-11-30",
-   "basis": "https://cloud.baidu.com/doc/qianfan/s/ymq8wwch2",
+   "basis": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "link_source": "https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
-   "link_vendor": "https://cloud.baidu.com/doc/qianfan/s/ymq8wwch2",
+   "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "srcs": [
     "aitkradar"
    ],
@@ -218,9 +196,9 @@
    "cat": "限时特价",
    "detail": "企业版内置模型套餐内用量享 5 折，自动折后扣减",
    "deadline": "2026-12-31",
-   "basis": "https://docs.trae.cn/enterprise_half-price-campaign-for-trae-built-in-models",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-enterprise-half-price/",
-   "link_vendor": "https://docs.trae.cn/enterprise_half-price-campaign-for-trae-built-in-models",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -308,9 +286,9 @@
    "cat": "限时特价",
    "detail": "Plus：现价 490 元，目录价 588 元",
    "deadline": "",
-   "basis": "https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&biz_line=2&resource_package_type=7",
+   "basis": "https://platform.minimax.cn/",
    "link_source": "https://aitkradar.cn/deals/api-minimax-combo-66e0ac6b/",
-   "link_vendor": "https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&biz_line=2&resource_package_type=7",
+   "link_vendor": "https://platform.minimax.cn/",
    "srcs": [
     "aitkradar"
    ],
@@ -330,9 +308,9 @@
    "cat": "限时特价",
    "detail": "Max：现价 1190 元，目录价 1490 元",
    "deadline": "",
-   "basis": "https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&biz_line=2&resource_package_type=7",
+   "basis": "https://platform.minimax.cn/",
    "link_source": "https://aitkradar.cn/deals/api-minimax-combo-5232d897/",
-   "link_vendor": "https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&biz_line=2&resource_package_type=7",
+   "link_vendor": "https://platform.minimax.cn/",
    "srcs": [
     "aitkradar"
    ],
@@ -352,9 +330,9 @@
    "cat": "限时特价",
    "detail": "Ultra：现价 4690 元，目录价 5628 元",
    "deadline": "",
-   "basis": "https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&biz_line=2&resource_package_type=7",
+   "basis": "https://platform.minimax.cn/",
    "link_source": "https://aitkradar.cn/deals/api-minimax-combo-974c551a/",
-   "link_vendor": "https://www.minimax.cn/public/api/openplatform/charge/combo/products?cycle_type=3&biz_line=2&resource_package_type=7",
+   "link_vendor": "https://platform.minimax.cn/",
    "srcs": [
     "aitkradar"
    ],
@@ -462,9 +440,9 @@
    "cat": "限时特价",
    "detail": "Kimi Allegro（全能档）699 元/月，连续包年价格更低。",
    "deadline": "",
-   "basis": "https://www.kimi.com/help/membership/membership-pricing",
+   "basis": "https://www.kimi.com/membership",
    "link_source": "https://aitkradar.cn/deals/kimi-membership-b4964d61/",
-   "link_vendor": "https://www.kimi.com/help/membership/membership-pricing",
+   "link_vendor": "https://www.kimi.com/membership",
    "srcs": [
     "aitkradar"
    ],
@@ -484,9 +462,9 @@
    "cat": "组合权益",
    "detail": "千问办公个人版：标准版连续包月 78 元、年付 823 元；高级版 158 元、",
    "deadline": "",
-   "basis": "https://help.aliyun.com/zh/qwenwork/qw-personal-benefits",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/qwenwork-benefits-1dad82ce/",
-   "link_vendor": "https://help.aliyun.com/zh/qwenwork/qw-personal-benefits",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar"
    ],
@@ -550,9 +528,9 @@
    "cat": "试用",
    "detail": "标准套餐 30 天免费体验（可领）",
    "deadline": "",
-   "basis": "https://www.doubao.com/work/docs/zh-cn/articles/805094220666-faqs",
+   "basis": "https://www.doubao.com/work/",
    "link_source": "https://aitkradar.cn/deals/manual-doubao-30day-sub/",
-   "link_vendor": "https://www.doubao.com/work/docs/zh-cn/articles/805094220666-faqs",
+   "link_vendor": "https://www.doubao.com/work/",
    "srcs": [
     "aitkradar"
    ],
@@ -620,9 +598,9 @@
    "cat": "赠送额度",
    "detail": "每日签到 400 积分，周累计 4000",
    "deadline": "",
-   "basis": "https://agent.minimax.io/docs/code/account/usage",
+   "basis": "https://platform.minimax.cn/",
    "link_source": "https://aitkradar.cn/deals/manual-minimax-code-checkin/",
-   "link_vendor": "https://agent.minimax.io/docs/code/account/usage",
+   "link_vendor": "https://platform.minimax.cn/",
    "srcs": [
     "aitkradar"
    ],
@@ -642,9 +620,9 @@
    "cat": "限时特价",
    "detail": "89 元 限时首月优惠：首月 69 元，第 2 个月恢复 89 元",
    "deadline": "",
-   "basis": "https://docs.trae.cn/ide_plans-and-billing",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/trae-plans-a1cdec18/",
-   "link_vendor": "https://docs.trae.cn/ide_plans-and-billing",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -664,9 +642,9 @@
    "cat": "组合权益",
    "detail": "个人高级版连续包月8折158元/月，年付7折1663元/年",
    "deadline": "",
-   "basis": "https://help.aliyun.com/zh/qwenwork/qw-personal-benefits",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/qwenwork-benefits-8728580f/",
-   "link_vendor": "https://help.aliyun.com/zh/qwenwork/qw-personal-benefits",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar"
    ],
@@ -730,9 +708,9 @@
    "cat": "限时特价",
    "detail": "Agent Plan Medium首月49.9元（原价200元，限时2.5折）",
    "deadline": "",
-   "basis": "https://ai.volcengine.com/activity/ai618",
+   "basis": "https://www.volcengine.com/activity/ark",
    "link_source": "https://aitkradar.cn/deals/manual-volc-ark-agent-medium/",
-   "link_vendor": "https://ai.volcengine.com/activity/ai618",
+   "link_vendor": "https://www.volcengine.com/activity/ark",
    "srcs": [
     "aitkradar"
    ],
@@ -752,9 +730,9 @@
    "cat": "免费额度",
    "detail": "开通方舟服务，单个模型免费领50万Tokens，累计超2500万",
    "deadline": "",
-   "basis": "https://ai.volcengine.com/activity/ai618",
+   "basis": "https://www.volcengine.com/activity/ark",
    "link_source": "https://aitkradar.cn/deals/manual-volc-ark-free-25m/",
-   "link_vendor": "https://ai.volcengine.com/activity/ai618",
+   "link_vendor": "https://www.volcengine.com/activity/ark",
    "srcs": [
     "aitkradar"
    ],
@@ -797,9 +775,9 @@
    "cat": "赠送额度",
    "detail": "新用户首次进入个人版，限时赠2000积分，有效期3个月",
    "deadline": "",
-   "basis": "https://help.aliyun.com/zh/qwenwork/personal-benefits",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwenwork-newuser/",
-   "link_vendor": "https://help.aliyun.com/zh/qwenwork/personal-benefits",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar"
    ],
@@ -820,9 +798,9 @@
    "cat": "免费额度",
    "detail": "首次开通百炼，每个模型免费额度通常100万Token，有效期90天",
    "deadline": "",
-   "basis": "https://docs.bailian.console.aliyun.com/zh/model-studio/new-free-quota",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-bailian-newuser-quota/",
-   "link_vendor": "https://docs.bailian.console.aliyun.com/zh/model-studio/new-free-quota",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar"
    ],
@@ -842,9 +820,9 @@
    "cat": "限时特价",
    "detail": "夜间22:00至次日08:00，千问3.8享4折、DeepSeek享5折",
    "deadline": "",
-   "basis": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-night/",
-   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "srcs": [
     "aitkradar"
    ],
@@ -864,9 +842,9 @@
    "cat": "试用",
    "detail": "新用户注册领 300 Credits + 免费试用专业版两周",
    "deadline": "",
-   "basis": "https://qoder.cn",
+   "basis": "https://qoder.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-newuser-trial/",
-   "link_vendor": "https://qoder.cn/",
+   "link_vendor": "https://qoder.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -886,9 +864,9 @@
    "cat": "赠送额度",
    "detail": "每月登录赠送 500 积分，当月有效",
    "deadline": "",
-   "basis": "https://docs.trae.cn/ide_plans-and-billing",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-monthly-login/",
-   "link_vendor": "https://docs.trae.cn/ide_plans-and-billing",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -908,9 +886,9 @@
    "cat": "赠送额度",
    "detail": "新用户注册一次性赠送 4000 积分，31 个自然日有效",
    "deadline": "",
-   "basis": "https://docs.trae.cn/ide_plans-and-billing",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-newuser-4000/",
-   "link_vendor": "https://docs.trae.cn/ide_plans-and-billing",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -930,9 +908,9 @@
    "cat": "赠送额度",
    "detail": "升级至新计费模式一次性赠送 4000 积分，31 个自然日有效",
    "deadline": "",
-   "basis": "https://docs.trae.cn/ide_plans-and-billing",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-upgrade-4000/",
-   "link_vendor": "https://docs.trae.cn/ide_plans-and-billing",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -952,9 +930,9 @@
    "cat": "赠送额度",
    "detail": "每日签到送 100 积分，可累计用于模型调用",
    "deadline": "",
-   "basis": "https://docs.trae.cn/ide_plans-and-billing",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-daily-checkin/",
-   "link_vendor": "https://docs.trae.cn/ide_plans-and-billing",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -997,9 +975,9 @@
    "cat": "赠送额度",
    "detail": "购企业版套餐每月额外赠积分，最高 +25,000/月",
    "deadline": "",
-   "basis": "https://cloud.baidu.com/doc/qianfan/s/ymq8wwch2",
+   "basis": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "link_source": "https://aitkradar.cn/deals/manual-qianfan-ent-bonus-credits/",
-   "link_vendor": "https://cloud.baidu.com/doc/qianfan/s/ymq8wwch2",
+   "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "srcs": [
     "aitkradar"
    ],
@@ -1173,9 +1151,9 @@
    "cat": "限时特价",
    "detail": "首月 Lite 39 / Pro 69 元，次月恢复 45 / 89 元",
    "deadline": "",
-   "basis": "https://docs.trae.cn/ide_plans-and-billing",
+   "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-pro-first-month/",
-   "link_vendor": "https://docs.trae.cn/ide_plans-and-billing",
+   "link_vendor": "https://www.trae.cn/pricing",
    "srcs": [
     "aitkradar"
    ],
@@ -1195,9 +1173,9 @@
    "cat": "赠送额度",
    "detail": "每日签到领 200 额度，周一翻倍，30 天累计 8800",
    "deadline": "",
-   "basis": "https://www.doubao.com/pc/agent-explore",
+   "basis": "https://www.doubao.com/work/",
    "link_source": "https://aitkradar.cn/deals/manual-doubao-daily-checkin/",
-   "link_vendor": "https://www.doubao.com/pc/agent-explore",
+   "link_vendor": "https://www.doubao.com/work/",
    "srcs": [
     "aitkradar"
    ],
@@ -1357,6 +1335,30 @@
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-doubao-work-001x/"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-codingplan-pro-first/",
+   "src": "aitkradar",
+   "kind": "res",
+   "title": "阿里云百炼：百炼 Coding Plan Pro 新客首月 39.9 元",
+   "cat": "限时特价",
+   "detail": "首月 39.90 元（原价 200 元/月）",
+   "deadline": "",
+   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-codingplan-pro-first/",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "srcs": [
+    "aitkradar",
+    "freehub"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-codingplan-pro-first/",
+    "freehub:阿里云百炼codingplan"
    ],
    "is_new": true,
    "notify": true,
@@ -1742,21 +1744,47 @@
    "days_left": null
   },
   {
-   "key": "devtk:googleaipro（学生）",
+   "key": "devtk:anthropicapi",
    "src": "devtk",
-   "kind": "deal",
-   "title": "Google AI Pro（学生）",
-   "cat": "学生优惠",
-   "detail": "美国大学生 12 个月免费 Google AI Pro；其他多数地区学生 12 个月免费 Google AI Plus",
-   "deadline": "2026-12-31",
-   "basis": "https://support.google.com/googleone/answer/17422238?hl=en",
+   "kind": "res",
+   "title": "Anthropic API",
+   "cat": "免费试用",
+   "detail": "新用户可获得免费测试额度（官方未公布金额）",
+   "deadline": "",
+   "basis": "https://platform.claude.com/docs/en/about-claude/pricing",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://gemini.google/us/students/",
+   "link_vendor": "https://platform.claude.com/docs/en/about-claude/pricing",
    "srcs": [
-    "devtk"
+    "devtk",
+    "freehub"
    ],
    "keys": [
-    "devtk:googleaipro（学生）"
+    "devtk:anthropicapi",
+    "freehub:anthropic"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:cursor",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Cursor 免费档",
+   "cat": "免费版",
+   "detail": "免费计划，含有限的 Agent 和 Chat 请求",
+   "deadline": "",
+   "basis": "https://cursor.com/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://cursor.com/pricing",
+   "srcs": [
+    "devtk",
+    "tokentab"
+   ],
+   "keys": [
+    "devtk:cursor",
+    "tokentab:g-cursor"
    ],
    "is_new": false,
    "notify": false,
@@ -1773,12 +1801,103 @@
    "deadline": "",
    "basis": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://platform.deepseek.com/",
+   "link_vendor": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:deepseekapi"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:githubcopilot",
+   "src": "devtk",
+   "kind": "res",
+   "title": "GitHub Copilot（学生）",
+   "cat": "免费版",
+   "detail": "免费计划：每月 2,000 次补全，聊天和 Agent 用量有限",
+   "deadline": "",
+   "basis": "https://github.com/features/copilot/plans",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "",
+   "srcs": [
+    "devtk",
+    "tokentab"
+   ],
+   "keys": [
+    "devtk:githubcopilot",
+    "devtk:githubcopilot（学生）",
+    "tokentab:g-copilot"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:googleaipro（学生）",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Google AI Pro（学生）",
+   "cat": "学生优惠",
+   "detail": "美国合格在读学生可免费用 12 个月 Google AI Pro",
+   "deadline": "",
+   "basis": "https://support.google.com/googleone/answer/17422238?hl=en",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://support.google.com/googleone/answer/17422238?hl=en",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:googleaipro（学生）"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:ollama",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Ollama",
+   "cat": "免费版",
+   "detail": "本地运行模型免费；云端模型按 token 计费",
+   "deadline": "",
+   "basis": "https://ollama.com/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://ollama.com/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:ollama"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:openaiapi",
+   "src": "devtk",
+   "kind": "res",
+   "title": "OpenAI API",
+   "cat": "免费试用",
+   "detail": "按量计费；新账号为预付费，不保证有免费额度",
+   "deadline": "",
+   "basis": "https://help.openai.com/en/articles/8264644-how-to-purchase-api-credits",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://help.openai.com/en/articles/8264644-how-to-purchase-api-credits",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:openaiapi"
    ],
    "is_new": false,
    "notify": false,
@@ -1795,12 +1914,78 @@
    "deadline": "2026-12-31",
    "basis": "https://post.smzdm.com/p/ad7dpkwk/",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://cloud.siliconflow.cn/",
+   "link_vendor": "https://post.smzdm.com/p/ad7dpkwk/",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:硅基流动siliconflow"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:bolt.new",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Bolt.new",
+   "cat": "免费版",
+   "detail": "免费计划：每天 30 万 token，每月 100 万 token",
+   "deadline": "",
+   "basis": "https://bolt.new/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://bolt.new/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:bolt.new"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:dify",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Dify",
+   "cat": "免费版",
+   "detail": "自托管社区版免费 · 云端 Sandbox 免费，含 200 条消息额度",
+   "deadline": "",
+   "basis": "https://dify.ai/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://dify.ai/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:dify"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:fllowai",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Fllow AI",
+   "cat": "折扣",
+   "detail": "额度包 $10 起；月度计划 $15 起",
+   "deadline": "",
+   "basis": "https://fllow.ai/",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://fllow.ai/",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:fllowai"
    ],
    "is_new": false,
    "notify": false,
@@ -1817,7 +2002,7 @@
    "deadline": "",
    "basis": "https://ai.google.dev/gemini-api/docs/pricing",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://aistudio.google.com/",
+   "link_vendor": "https://ai.google.dev/gemini-api/docs/pricing",
    "srcs": [
     "devtk"
    ],
@@ -1830,24 +2015,65 @@
    "days_left": null
   },
   {
-   "key": "devtk:githubcopilot（学生）",
+   "key": "devtk:groqcloud",
    "src": "devtk",
    "kind": "res",
-   "title": "GitHub Copilot（学生）",
-   "cat": "学生优惠",
-   "detail": "通过 GitHub 学生开发者包认证后免费使用 Copilot Pro",
+   "title": "Groq Cloud",
+   "cat": "免费版",
+   "detail": "可获取免费 API key；付费用量按 Token 计费",
    "deadline": "",
-   "basis": "https://education.github.com/pack",
+   "basis": "https://console.groq.com/docs/rate-limits",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "",
+   "link_vendor": "https://console.groq.com/docs/rate-limits",
    "srcs": [
-    "devtk",
-    "tokentab"
+    "devtk"
    ],
    "keys": [
-    "devtk:githubcopilot（学生）",
-    "devtk:githubcopilot",
-    "tokentab:g-copilot"
+    "devtk:groqcloud"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:langfuse",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Langfuse",
+   "cat": "免费版",
+   "detail": "云端 Hobby 免费（每月 5 万 units）· 支持自托管",
+   "deadline": "",
+   "basis": "https://langfuse.com/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://langfuse.com/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:langfuse"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:lmstudio",
+   "src": "devtk",
+   "kind": "res",
+   "title": "LM Studio",
+   "cat": "免费版",
+   "detail": "免费计划，可运行本地模型",
+   "deadline": "",
+   "basis": "https://lmstudio.ai/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://lmstudio.ai/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:lmstudio"
    ],
    "is_new": false,
    "notify": false,
@@ -1864,12 +2090,40 @@
    "deadline": "",
    "basis": "https://github.com/wmpeng/codingplan",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://opencode.ai/",
+   "link_vendor": "",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:opencodego"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:openrouter",
+   "src": "devtk",
+   "kind": "res",
+   "title": "OpenRouter 免费模型",
+   "cat": "免费版",
+   "detail": "免费计划：25+ 个免费模型，每天 50 次请求",
+   "deadline": "",
+   "basis": "https://openrouter.ai/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://openrouter.ai/pricing",
+   "srcs": [
+    "devtk",
+    "freehub",
+    "tokentab",
+    "tokfbi"
+   ],
+   "keys": [
+    "devtk:openrouter",
+    "freehub:openrouter",
+    "tokfbi:openrouter",
+    "tokentab:g-openrouter"
    ],
    "is_new": false,
    "notify": false,
@@ -1886,12 +2140,102 @@
    "deadline": "",
    "basis": "https://krater.ai/blog/ai-student-discounts-2026",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://www.perplexity.ai/",
+   "link_vendor": "https://krater.ai/blog/ai-student-discounts-2026",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:perplexitypro（教育）"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:polloai",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Pollo AI",
+   "cat": "免费版",
+   "detail": "免费计划：每月 20 积分（带水印）",
+   "deadline": "",
+   "basis": "https://pollo.ai/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://pollo.ai/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:polloai"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:ppt.ai",
+   "src": "devtk",
+   "kind": "res",
+   "title": "PPT.AI",
+   "cat": "免费版",
+   "detail": "免费计划每月可生成 3 个演示文稿",
+   "deadline": "",
+   "basis": "https://ppt.ai/",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://ppt.ai/",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:ppt.ai"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:v0byvercel",
+   "src": "devtk",
+   "kind": "res",
+   "title": "v0 by Vercel",
+   "cat": "免费版",
+   "detail": "免费计划，每天 7 条消息",
+   "deadline": "",
+   "basis": "https://v0.app/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://v0.app/pricing",
+   "srcs": [
+    "devtk"
+   ],
+   "keys": [
+    "devtk:v0byvercel"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "DevTk.AI",
+   "days_left": null
+  },
+  {
+   "key": "devtk:windsurf",
+   "src": "devtk",
+   "kind": "res",
+   "title": "Windsurf 免费档",
+   "cat": "免费版",
+   "detail": "免费计划：少量 Agent 额度，Tab 补全和行内编辑不限量",
+   "deadline": "",
+   "basis": "https://devin.ai/pricing",
+   "link_source": "https://devtk.ai/zh/deals/",
+   "link_vendor": "https://devin.ai/pricing",
+   "srcs": [
+    "devtk",
+    "tokentab"
+   ],
+   "keys": [
+    "devtk:windsurf",
+    "tokentab:g-windsurf"
    ],
    "is_new": false,
    "notify": false,
@@ -1908,7 +2252,7 @@
    "deadline": "",
    "basis": "https://igetoken.com/models/zhipu/",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://open.bigmodel.cn/",
+   "link_vendor": "https://igetoken.com/models/zhipu/",
    "srcs": [
     "devtk"
    ],
@@ -1930,7 +2274,7 @@
    "deadline": "",
    "basis": "https://www.volcengine.com/article/2605938",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://www.volcengine.com/product/ark",
+   "link_vendor": "https://www.volcengine.com/article/2605938",
    "srcs": [
     "devtk"
    ],
@@ -1952,7 +2296,7 @@
    "deadline": "",
    "basis": "https://post.smzdm.com/p/ad7dpkwk/",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://cloud.baidu.com/product/wenxinworkshop",
+   "link_vendor": "https://post.smzdm.com/p/ad7dpkwk/",
    "srcs": [
     "devtk"
    ],
@@ -1974,7 +2318,7 @@
    "deadline": "",
    "basis": "https://post.smzdm.com/p/ad7dpkwk/",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://xinghuo.xfyun.cn/sparkapi",
+   "link_vendor": "https://post.smzdm.com/p/ad7dpkwk/",
    "srcs": [
     "devtk"
    ],
@@ -1992,108 +2336,16 @@
    "kind": "res",
    "title": "阿里云百炼",
    "cat": "赠送额度",
-   "detail": "新用户 7000 万 Tokens 免费额度，90 天有效",
+   "detail": "新用户每个模型约 100 万 tokens 免费额度，90 天有效（仅华北2北京地域，需实名认证）",
    "deadline": "",
-   "basis": "https://developer.aliyun.com/article/1764328",
+   "basis": "https://help.aliyun.com/zh/model-studio/new-free-quota",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://bailian.console.aliyun.com/",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/new-free-quota",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:阿里云百炼"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:anthropicapi",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Anthropic API",
-   "cat": "免费试用",
-   "detail": "API 按用量计费；可能需要预充值额度",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://console.anthropic.com/",
-   "srcs": [
-    "devtk",
-    "freehub"
-   ],
-   "keys": [
-    "devtk:anthropicapi",
-    "freehub:anthropic"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:cursor",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Cursor 免费档",
-   "cat": "免费版",
-   "detail": "免费 Hobby 计划，含有限 Agent 和 Tab 用量",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://cursor.com/",
-   "srcs": [
-    "devtk",
-    "tokentab"
-   ],
-   "keys": [
-    "devtk:cursor",
-    "tokentab:g-cursor"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:ollama",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Ollama",
-   "cat": "免费版",
-   "detail": "100% 免费开源",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://ollama.com/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:ollama"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:openaiapi",
-   "src": "devtk",
-   "kind": "res",
-   "title": "OpenAI API",
-   "cat": "免费试用",
-   "detail": "API 按用量计费；免费层资格请以账号页面为准",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://platform.openai.com/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:openaiapi"
    ],
    "is_new": false,
    "notify": false,
@@ -2110,216 +2362,12 @@
    "deadline": "",
    "basis": "",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://www.aliyun.com/minisite/goods?userCode=thxll2lu",
+   "link_vendor": "",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:alibabacloud"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:bolt.new",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Bolt.new",
-   "cat": "免费版",
-   "detail": "免费计划含每日和每月 Token 限额",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://bolt.new/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:bolt.new"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:dify",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Dify",
-   "cat": "免费版",
-   "detail": "自托管免费 · 云端 Professional $59/月起",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://dify.ai/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:dify"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:fllowai",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Fllow AI",
-   "cat": "折扣",
-   "detail": "额度包 $10 起；月度计划 $15 起",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://fllow.ai/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:fllowai"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:groqcloud",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Groq Cloud",
-   "cat": "免费版",
-   "detail": "可获取免费 API key；付费用量按 Token 计费",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://groq.com/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:groqcloud"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:langfuse",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Langfuse",
-   "cat": "免费版",
-   "detail": "云端 Hobby 免费 · 自托管核心功能免费",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://langfuse.com/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:langfuse"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:lmstudio",
-   "src": "devtk",
-   "kind": "res",
-   "title": "LM Studio",
-   "cat": "免费版",
-   "detail": "家庭和工作场景均可免费使用",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://lmstudio.ai/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:lmstudio"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:openrouter",
-   "src": "devtk",
-   "kind": "res",
-   "title": "OpenRouter 免费模型",
-   "cat": "免费版",
-   "detail": "有免费模型可用（Llama、Gemma 等）",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://openrouter.ai/",
-   "srcs": [
-    "devtk",
-    "freehub",
-    "tokentab",
-    "tokfbi"
-   ],
-   "keys": [
-    "devtk:openrouter",
-    "freehub:openrouter",
-    "tokfbi:openrouter",
-    "tokentab:g-openrouter"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:polloai",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Pollo AI",
-   "cat": "免费版",
-   "detail": "赠送免费额度开始创作",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://pollo.ai/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:polloai"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:ppt.ai",
-   "src": "devtk",
-   "kind": "res",
-   "title": "PPT.AI",
-   "cat": "免费版",
-   "detail": "免费计划每月可生成 3 个演示文稿",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://ppt.ai/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:ppt.ai"
    ],
    "is_new": false,
    "notify": false,
@@ -2336,58 +2384,12 @@
    "deadline": "",
    "basis": "",
    "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://studio.tripo3d.ai/",
+   "link_vendor": "",
    "srcs": [
     "devtk"
    ],
    "keys": [
     "devtk:tripo"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:v0byvercel",
-   "src": "devtk",
-   "kind": "res",
-   "title": "v0 by Vercel",
-   "cat": "免费版",
-   "detail": "免费计划含每月 $5 额度和每日 7 条消息",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://v0.dev/",
-   "srcs": [
-    "devtk"
-   ],
-   "keys": [
-    "devtk:v0byvercel"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "DevTk.AI",
-   "days_left": null
-  },
-  {
-   "key": "devtk:windsurf",
-   "src": "devtk",
-   "kind": "res",
-   "title": "Windsurf 免费档",
-   "cat": "免费版",
-   "detail": "有免费计划；付费计划采用基于用量的额度",
-   "deadline": "",
-   "basis": "",
-   "link_source": "https://devtk.ai/zh/deals/",
-   "link_vendor": "https://windsurf.com/",
-   "srcs": [
-    "devtk",
-    "tokentab"
-   ],
-   "keys": [
-    "devtk:windsurf",
-    "tokentab:g-windsurf"
    ],
    "is_new": false,
    "notify": false,
@@ -3001,21 +3003,23 @@
    "key": "freehub:kimi开放平台(月之暗面)",
    "src": "freehub",
    "kind": "res",
-   "title": "Kimi 开放平台 (月之暗面)",
+   "title": "月之暗面 Kimi 开放平台（Kimi K3.1 Pro）",
    "cat": "免费额度",
-   "detail": "",
+   "detail": "新用户实名认证即送 15 元代金券，可抵 K3.1 Pro/K3 等 API 调用费；券自发放起 90 天有效（至 2027-02-11 一类），约合百万级输入 tokens。",
    "deadline": "",
-   "basis": "",
+   "basis": "https://platform.moonshot.cn/",
    "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
    "link_vendor": "https://platform.moonshot.cn/",
    "srcs": [
-    "freehub"
+    "freehub",
+    "tokfbi"
    ],
    "keys": [
-    "freehub:kimi开放平台(月之暗面)"
+    "freehub:kimi开放平台(月之暗面)",
+    "tokfbi:月之暗面kimi开放平台（kimik3.1pro）"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "FreeLLM-API-KeyHub",
    "days_left": null
   },
@@ -3842,21 +3846,20 @@
    "days_left": null
   },
   {
-   "key": "freehub:阿里云百炼codingplan",
+   "key": "freehub:火山方舟codingplan",
    "src": "freehub",
    "kind": "res",
-   "title": "阿里云百炼 Coding Plan",
+   "title": "火山方舟 Coding Plan",
    "cat": "免费额度",
    "detail": "",
    "deadline": "",
    "basis": "",
    "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
-   "link_vendor": "https://bailian.console.aliyun.com/",
+   "link_vendor": "https://volcengine.com/L/R-Ks0h6gPig",
    "srcs": [
     "freehub"
    ],
    "keys": [
-    "freehub:阿里云百炼codingplan",
     "freehub:火山方舟codingplan"
    ],
    "is_new": false,
@@ -4007,7 +4010,7 @@
    "basis": "https://www.toutiao.com/a7698041018058342953",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokfbi"
    ],
@@ -4534,12 +4537,11 @@
    "kind": "deal",
    "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
    "cat": "限时活动",
-   "detail": "11/9–11/15 登录领 5000 万 Token，11-15 23:59 失效；每账号限领一次。",
-   "deadline": "2026-11-15",
+   "detail": "11/9–11/15 领 5000 万；11/16–11/22 起领 1 亿（1 万积分）；均当期周日 23:59 失效，每账号限领一次。",
+   "deadline": "2026-11-22",
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4548,7 +4550,8 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI"
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4929,6 +4932,28 @@
    "days_left": null
   },
   {
+   "key": "tokfbi:nvidianim（build.nvidia.com免费api端点）",
+   "src": "tokfbi",
+   "kind": "res",
+   "title": "NVIDIA NIM（build.nvidia.com 免费 API 端点）",
+   "cat": "NVIDIA·免费层",
+   "detail": "注册免绑卡建 Key 即可调 43 个免费端点，含 DeepSeek-V4.1-Flash、GLM-5.3-Flash、MiniMax-M3.1-Flash；无截止日。",
+   "deadline": "",
+   "basis": "https://build.nvidia.com/models",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://build.nvidia.com/models",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:nvidianim（build.nvidia.com免费api端点）"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
    "key": "tokentab:wb-invite",
    "src": "tokentab",
    "kind": "res",
@@ -5249,7 +5274,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W2/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5315,7 +5340,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://hy.tencent.com/research/hy4",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5323,7 +5348,7 @@
     "tokentab:hunyuan-hy4"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -5425,7 +5450,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -5447,7 +5472,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -5455,7 +5480,7 @@
     "tokentab:tencent-hy4-tp"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -5887,6 +5912,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://antigravity.google/docs/models",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -5894,9 +5920,8 @@
     "tokentab:g-antigravity"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:g-copilot-student",
