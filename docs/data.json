@@ -1,77 +1,41 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-16T10:38:52+08:00",
- "generated_date": "2026-11-16",
+ "generated_at": "2026-11-17T12:59:44+08:00",
+ "generated_date": "2026-11-17",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 251,
+  "total": 248,
   "new": 1,
-  "new_deals": 0,
-  "new_resources": 1,
-  "expiring": 5,
-  "expiring_new": 3,
+  "new_deals": 1,
+  "new_resources": 0,
+  "expiring": 3,
+  "expiring_new": 1,
   "failed_sources": 1
  },
- "new_deals": [],
- "new_resources": [
+ "new_deals": [
   {
-   "key": "welfare:site:xingchi",
-   "title": "星驰管家",
-   "detail": "通过邀请链接注册可获得 $1000 额度 · 倍率 0.25，可用 GPT6a，额度充足｜额度：注册 1000（usd）",
-   "cat": "免费额度、邀请注册 $1000、倍率 0.25、GPT6a、Telegram",
-   "link": "https://t.me/xingchi66bot",
-   "link_source": "https://github.com/panxunying/ai-coding-welfare",
-   "link_vendor": "https://t.me/xingchi66bot",
-   "src_name": "ai-coding-welfare",
+   "key": "tokentab:tencent-hy4-half",
+   "title": "腾讯云 Hy4 系列按量五折",
+   "detail": "¥0.25 / ¥1 每百万起｜TokenHub 直接调用按目录价五折结算：Hy4 flash 到 11-30 12:00（原价 ¥0.5 / ¥2），标准版 Hy4 到 12-31 23:59（原价 ¥6 / ¥18），缓存也一起五折。是按量价，与 Token Plan 的积分价是两套账",
+   "cat": "大模型 API",
+   "link": "https://cloud.tencent.com/document/buy-guide/1823/130055",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://cloud.tencent.com/document/buy-guide/1823/130055",
+   "src_name": "TokenTab 次元塔",
    "srcs": [
-    "welfare"
+    "tokentab"
    ],
-   "deadline": "",
-   "kind": "res",
+   "deadline": "2026-11-30",
+   "kind": "deal",
    "days_left": null,
    "is_new": true,
    "notify": true
   }
  ],
+ "new_resources": [],
  "expiring": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
-   "title": "TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）",
-   "detail": "首月 Lite 34 / Pro 69 元起（原 49/99）",
-   "cat": "限时特价",
-   "link": "https://www.trae.cn/pricing",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
-   "link_vendor": "https://www.trae.cn/pricing",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-16",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:tencent-tp-off",
-   "title": "腾讯云 Token Plan 空闲时段 4 折",
-   "detail": "¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/248/140042",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-16",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
   {
    "key": "tokentab:tencent-hy4-tp",
    "title": "腾讯云 Token Plan Hy4 2.5 折",
@@ -86,14 +50,14 @@
    ],
    "deadline": "2026-11-17",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "tokentab:g-antigravity",
    "title": "Antigravity 免费档",
-   "detail": "0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Command 不限次。官方写明那三个第三方模型 11-18 移除，之后还剩 Hydrogen 和 3.8 Flash。需海外网络",
+   "detail": "0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Command 不限次。官方写明那三个第三方模型 11-18 移除，之后只剩 Gemini 自家模型。需海外网络",
    "cat": "海外",
    "link": "https://antigravity.google/docs/models",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -104,7 +68,7 @@
    ],
    "deadline": "2026-11-18",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -122,84 +86,42 @@
    ],
    "deadline": "2026-11-19",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   }
  ],
  "expiring_new": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-double11-member/",
-   "title": "TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元）",
-   "detail": "首月 Lite 34 / Pro 69 元起（原 49/99）",
-   "cat": "限时特价",
-   "link": "https://www.trae.cn/pricing",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-double11-member/",
-   "link_vendor": "https://www.trae.cn/pricing",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-16",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:tencent-tp-off",
-   "title": "腾讯云 Token Plan 空闲时段 4 折",
-   "detail": "¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00",
+   "key": "tokentab:tencent-hy4-tp",
+   "title": "腾讯云 Token Plan Hy4 2.5 折",
+   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事",
    "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/248/140042",
+   "link": "https://cloud.tencent.com/document/product/1823/140042",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/248/140042",
+   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-16",
+   "deadline": "2026-11-17",
    "kind": "deal",
    "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
-   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
-   "detail": "上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。",
-   "cat": "蚂蚁集团（百灵大模型）·限时活动",
-   "link": "https://developer.ant-ling.com/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://developer.ant-ling.com/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-19",
-   "kind": "deal",
-   "days_left": 3,
    "is_new": false,
    "notify": true
   }
  ],
  "events": [
   {
-   "at": "2026-11-15T09:42:17.167Z",
-   "type": "site_removed",
-   "text": "移入历史区 KKtoken AI：按维护者要求下架，移入历史区，不再推荐注册",
-   "severity": "major"
-  },
-  {
-   "at": "2026-11-15T09:42:17.167Z",
-   "type": "site_removed",
-   "text": "移入历史区 NOFX：按维护者要求下架，移入历史区，不再推荐注册",
-   "severity": "major"
-  },
-  {
-   "at": "2026-11-15T03:44:32.469Z",
+   "at": "2026-11-16T10:01:54.783Z",
    "type": "site_added",
    "text": "新收录 星驰管家：注册送 $1000",
+   "severity": "major"
+  },
+  {
+   "at": "2026-11-16T06:30:20.321Z",
+   "type": "site_removed",
+   "text": "移入历史区 星驰管家：按维护者要求下架，移入历史区，不再推荐注册",
    "severity": "major"
   }
  ],
@@ -210,17 +132,17 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-16 10:38\n\n■ 即将截止\nTRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ 今天截止 ｜ https://www.trae.cn/pricing\n腾讯云 Token Plan 空闲时段 4 折 ｜ 今天截止 ｜ https://cloud.tencent.com/document/product/248/140042\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ 剩 3 天 ｜ https://developer.ant-ling.com/\n\n■ 新增免费资源\n星驰管家 ｜ https://t.me/xingchi66bot\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
+ "brief": "【AI 优惠雷达】11-17 12:59\n\n■ 新活动\n腾讯云 Hy4 系列按量五折 ｜ https://cloud.tencent.com/document/buy-guide/1823/130055\n\n■ 即将截止\n腾讯云 Token Plan Hy4 2.5 折 ｜ 今天截止 ｜ https://cloud.tencent.com/document/product/1823/140042\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
  "brief_meta": {
-  "chars": 325,
+  "chars": 225,
   "dropped": 0,
-  "items": 4,
+  "items": 2,
   "blocks": {
-   "即将截止": 3,
-   "新增免费资源": 1
+   "新活动": 1,
+   "即将截止": 1
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-16（10:38）\n\n### 即将截止 3 条\n\n- TRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） — 2026-11-16（今天截止）\n  首月 Lite 34 / Pro 69 元起（原 49/99）\n  来源 https://aitkradar.cn/deals/manual-trae-double11-member/\n  官方 https://www.trae.cn/pricing\n- 腾讯云 Token Plan 空闲时段 4 折 — 2026-11-16（今天截止）\n  ¥0.4 / ¥1.6 每百万｜DeepSeek-V4.1-Flash-1017 空闲时段 4 折；V4-Pro-0813 空闲 7 折（¥3.15 / ¥9.45）。官方文档写明截止 11-16 12:00\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/248/140042\n- 蚂蚁百灵 Ling-3.2-flash（首发限免） — 2026-11-19（剩 3 天）\n  上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。\n  来源 https://token-fbi.com/table/\n  官方 https://developer.ant-ling.com/\n\n### 新增免费资源 1 条\n\n- 星驰管家〔免费额度、邀请注册 $1000、倍率 0.25、GPT6a、Telegram〕\n  通过邀请链接注册可获得 $1000 额度 · 倍率 0.25，可用 GPT6a，额度充足｜额度：注册 1000（usd）\n  来源 https://github.com/panxunying/ai-coding-welfare\n  官方 https://t.me/xingchi66bot\n\n### 免费站状态变化 3 条\n\n- 2026-11-15 09:42｜移入历史区 KKtoken AI：按维护者要求下架，移入历史区，不再推荐注册\n- 2026-11-15 09:42｜移入历史区 NOFX：按维护者要求下架，移入历史区，不再推荐注册\n- 2026-11-15 03:44｜新收录 星驰管家：注册送 $1000\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-17（12:59）\n\n### 新活动 1 条\n\n- 腾讯云 Hy4 系列按量五折｜截止 2026-11-30\n  ¥0.25 / ¥1 每百万起｜TokenHub 直接调用按目录价五折结算：Hy4 flash 到 11-30 12:00（原价 ¥0.5 / ¥2），标准版 Hy4 到 12-31 23:59（原价 ¥6 / ¥18），缓存也一起五折。是按量价，与 Token Plan 的积分价是两套账\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/buy-guide/1823/130055\n\n### 即将截止 1 条\n\n- 腾讯云 Token Plan Hy4 2.5 折 — 2026-11-17（今天截止）\n  ¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/1823/140042\n\n### 免费站状态变化 2 条\n\n- 2026-11-16 10:01｜新收录 星驰管家：注册送 $1000\n- 2026-11-16 06:30｜移入历史区 星驰管家：按维护者要求下架，移入历史区，不再推荐注册\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
 }

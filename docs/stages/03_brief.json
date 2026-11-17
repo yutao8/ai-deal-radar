@@ -1,16 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-16T10:38:52+08:00",
+ "generated_at": "2026-11-17T12:59:44+08:00",
  "meta": {
-  "chars": 325,
+  "chars": 225,
   "dropped": 0,
-  "items": 4,
+  "items": 2,
   "blocks": {
-   "即将截止": 3,
-   "新增免费资源": 1
+   "新活动": 1,
+   "即将截止": 1
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-16 10:38\n\n■ 即将截止\nTRAE 双11 会员特惠：各档首月低至 7 折（Pro 69 元） ｜ 今天截止 ｜ https://www.trae.cn/pricing\n腾讯云 Token Plan 空闲时段 4 折 ｜ 今天截止 ｜ https://cloud.tencent.com/document/product/248/140042\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ 剩 3 天 ｜ https://developer.ant-ling.com/\n\n■ 新增免费资源\n星驰管家 ｜ https://t.me/xingchi66bot\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
+ "brief": "【AI 优惠雷达】11-17 12:59\n\n■ 新活动\n腾讯云 Hy4 系列按量五折 ｜ https://cloud.tencent.com/document/buy-guide/1823/130055\n\n■ 即将截止\n腾讯云 Token Plan Hy4 2.5 折 ｜ 今天截止 ｜ https://cloud.tencent.com/document/product/1823/140042\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
 }
