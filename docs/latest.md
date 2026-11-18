@@ -1,23 +1,15 @@
-# AI 优惠雷达 · 2026-11-17（12:59）
+# AI 优惠雷达 · 2026-11-18（12:05）
 
-### 新活动 1 条
+### 即将截止 2 条
 
-- 腾讯云 Hy4 系列按量五折｜截止 2026-11-30
-  ¥0.25 / ¥1 每百万起｜TokenHub 直接调用按目录价五折结算：Hy4 flash 到 11-30 12:00（原价 ¥0.5 / ¥2），标准版 Hy4 到 12-31 23:59（原价 ¥6 / ¥18），缓存也一起五折。是按量价，与 Token Plan 的积分价是两套账
+- Antigravity 免费档 — 2026-11-18（今天截止）
+  0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Comman
   来源 https://www.tokentab.cn/deals.html
-  官方 https://cloud.tencent.com/document/buy-guide/1823/130055
-
-### 即将截止 1 条
-
-- 腾讯云 Token Plan Hy4 2.5 折 — 2026-11-17（今天截止）
-  ¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事
-  来源 https://www.tokentab.cn/deals.html
-  官方 https://cloud.tencent.com/document/product/1823/140042
-
-### 免费站状态变化 2 条
-
-- 2026-11-16 10:01｜新收录 星驰管家：注册送 $1000
-- 2026-11-16 06:30｜移入历史区 星驰管家：按维护者要求下架，移入历史区，不再推荐注册
+  官方 https://antigravity.google/docs/models
+- OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） — 2026-11-21（剩 3 天）
+  官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 
+  来源 https://apiprice.app/zh/deals/#codex-gpt56sol-promo
+  官方 https://developers.openai.com/codex/pricing
 
 ### 来源异常
 

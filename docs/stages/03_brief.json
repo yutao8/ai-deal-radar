@@ -1,16 +1,15 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-17T12:59:44+08:00",
+ "generated_at": "2026-11-18T12:05:09+08:00",
  "meta": {
-  "chars": 225,
+  "chars": 213,
   "dropped": 0,
   "items": 2,
   "blocks": {
-   "新活动": 1,
-   "即将截止": 1
+   "即将截止": 2
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-17 12:59\n\n■ 新活动\n腾讯云 Hy4 系列按量五折 ｜ https://cloud.tencent.com/document/buy-guide/1823/130055\n\n■ 即将截止\n腾讯云 Token Plan Hy4 2.5 折 ｜ 今天截止 ｜ https://cloud.tencent.com/document/product/1823/140042\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
+ "brief": "【AI 优惠雷达】11-18 12:05\n\n■ 即将截止\nAntigravity 免费档 ｜ 今天截止 ｜ https://antigravity.google/docs/models\nOpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） ｜ 剩 3 天 ｜ https://developers.openai.com/codex/pricing\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
 }

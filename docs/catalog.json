@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:59:44+08:00",
+ "generated_at": "2026-11-18T12:05:09+08:00",
  "total": 248,
  "items": [
   {
@@ -1636,6 +1636,7 @@
    "basis": "https://developers.openai.com/codex/pricing",
    "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "link_vendor": "https://developers.openai.com/codex/pricing",
+   "days_left": 3,
    "srcs": [
     "apiprice"
    ],
@@ -1643,9 +1644,8 @@
     "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "apiprice",
-   "days_left": null
+   "notify": true,
+   "src_name": "apiprice"
   },
   {
    "key": "welfare:site:docode",
@@ -3322,19 +3322,18 @@
    "key": "tokfbi:workbuddy",
    "src": "tokfbi",
    "kind": "deal",
-   "title": "WorkBuddy 国际版",
+   "title": "WorkBuddy",
    "cat": "限时活动",
    "detail": "Hy4 flash 限时免费 0.00×（至 11-30），Hy4 0.29×；新户注册送 2000 积分（至 11-30）；免费档每月 500 积分、签到每日补 100。",
    "deadline": "2026-11-30",
-   "basis": "https://www.toutiao.com/a7698041018058342953",
+   "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
    "srcs": [
     "tokfbi"
    ],
    "keys": [
-    "tokfbi:workbuddy",
-    "tokfbi:workbuddy国际版"
+    "tokfbi:workbuddy"
    ],
    "is_new": false,
    "notify": false,
@@ -3347,7 +3346,7 @@
    "kind": "res",
    "title": "字节 TRAE（AI IDE）",
    "cat": "长期免费",
-   "detail": "免费档 ¥0：每月 500 积分、全部功能免费使用、2 个云端任务并发；经分享链接注册并登录桌面端另得 3,000 积分（31 天有效），用完仍可用免费基础模型。",
+   "detail": "免费档 ¥0：每月 500 积分、全部功能免费使用、2 个云端任务并发；经分享链接注册并登录桌面端另得 2,500 积分（邀请 500 + 新人 2,000，31 天有效）。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -3369,7 +3368,7 @@
    "kind": "res",
    "title": "Qoder CN 错峰 4 折",
    "cat": "每日赠送",
-   "detail": "每日 10:00 桌面端领 100 Credits（30 天有效、可累积）；倍率 Qwen4-Max 0.4×、Qwen3.8-Flash 0.1×、DeepSeek-Flash 0.1×、GLM-5.3 0.8×；22:00–08:00 错峰 Qwen3.8-Max/Flash 再 4 折。",
+   "detail": "新户注册送 300 Credits（含 2 周专业版试用，每人一次）；每日 10:00 桌面端领 100 Credits（30 天有效、可累积）；倍率 Qwen4-Max 0.4×、Qwen3.8-Flash 0.1×、DeepSeek-Flash 0.1×、GLM-5.3 0.8×；22:00–08:00 错峰再 4 折。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -3658,7 +3657,7 @@
    "kind": "res",
    "title": "AMD 免费 API 与开发者计划",
    "cat": "长期免费",
-   "detail": "AMD AI 开发者计划最高 $100 云额度 + $50 Fireworks 托管推理额度；无截止时间。",
+   "detail": "免费加入开发者计划：Instinct 云额度最高 $100 + Fireworks $50 + Token Lab 免费 API（10 款开源模型、积分制、20 次/分）。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -4032,7 +4031,7 @@
    "kind": "res",
    "title": "云知声 U2-Flash（Unisound MaaS）",
    "cat": "云知声（Unisound）·免费层",
-   "detail": "U Plan Free 档：每周 2500 积分、5 小时窗口 500 积分，另赠 U2-ASR 8 小时 / U2-TTS 4 万字；U2-Flash 上线平台另赠 1 亿 Token。",
+   "detail": "U Plan Free 永久免费：每周 2500 积分、5 小时窗口 500 积分，另赠 5 款模型包（ASR 8 小时 / TTS 4 万字 / OCR 与影像）；新客另赠 1 亿 Token。",
    "deadline": "",
    "basis": "https://maas.unisound.com/models/u2-flash",
    "link_source": "https://token-fbi.com/table/",
@@ -4151,7 +4150,7 @@
    "basis": "https://developer.ant-ling.com/en/docs/models/price/",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://developer.ant-ling.com/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4747,7 +4746,6 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -4755,8 +4753,9 @@
     "tokentab:tencent-hy4-tp"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "TokenTab 次元塔"
+   "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
   },
   {
    "key": "tokentab:tencent-hy4-half",
@@ -4775,8 +4774,8 @@
    "keys": [
     "tokentab:tencent-hy4-half"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5275,7 +5274,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://antigravity.google/docs/models",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5283,7 +5282,7 @@
     "tokentab:g-antigravity"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "TokenTab 次元塔"
   },
   {
