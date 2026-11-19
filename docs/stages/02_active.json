@@ -1,11 +1,11 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-18T12:05:09+08:00",
- "count": 248,
+ "generated_at": "2026-11-19T12:01:52+08:00",
+ "count": 250,
  "split": {
-  "deal": 29,
-  "res": 219
+  "deal": 28,
+  "res": 222
  },
  "items": [
   {
@@ -1642,7 +1642,7 @@
    "basis": "https://developers.openai.com/codex/pricing",
    "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "link_vendor": "https://developers.openai.com/codex/pricing",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "apiprice"
    ],
@@ -1650,7 +1650,7 @@
     "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "apiprice"
   },
   {
@@ -2094,6 +2094,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "ai-coding-welfare",
+   "days_left": null
+  },
+  {
+   "key": "welfare:site:claudeagent",
+   "src": "welfare",
+   "kind": "res",
+   "title": "Claude Agent",
+   "cat": "限时福利组、Claude 官转、Claude Code",
+   "detail": "限时福利组可体验 DeepSeek、GLM 和 MiniMax。另有 Claude 官转，有用户反馈回答质量好。",
+   "deadline": "",
+   "basis": "https://claudeagent.com.cn",
+   "link_source": "https://github.com/panxunying/ai-coding-welfare",
+   "link_vendor": "https://claudeagent.com.cn/",
+   "srcs": [
+    "welfare"
+   ],
+   "keys": [
+    "welfare:site:claudeagent"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "ai-coding-welfare",
    "days_left": null
   },
@@ -3330,7 +3352,7 @@
    "kind": "deal",
    "title": "WorkBuddy",
    "cat": "限时活动",
-   "detail": "Hy4 flash 限时免费 0.00×（至 11-30），Hy4 0.29×；新户注册送 2000 积分（至 11-30）；免费档每月 500 积分、签到每日补 100。",
+   "detail": "Hy4 flash 限时免费 0.00×（至 11-30，每日发放固定额度、用尽转积分），Hy4 0.29×；新户注册送 2000 积分（至 11-30）；免费档每月 500 积分、签到每日补 100。",
    "deadline": "2026-11-30",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -3866,6 +3888,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -3874,8 +3897,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4151,12 +4173,12 @@
    "kind": "deal",
    "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
    "cat": "蚂蚁集团（百灵大模型）·限时活动",
-   "detail": "上线首两周 API 全免费（输入输出均不计费），11-19 起恢复按量：输入约 ¥2、输出约 ¥6 / 百万 tokens。",
+   "detail": "上线首两周 API 全免费（11-05 至 11-19，输入输出不计费）；到期后按量计费，官方定价表 11-19 起已不单列该模型价位，实际价格以控制台为准。",
    "deadline": "2026-11-19",
    "basis": "https://developer.ant-ling.com/en/docs/models/price/",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://developer.ant-ling.com/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokfbi"
    ],
@@ -4164,7 +4186,7 @@
     "tokfbi:蚂蚁百灵ling3.2flash（首发限免）"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "Token FBI"
   },
   {
@@ -4598,6 +4620,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W3/",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -4606,8 +4629,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:qoder-1111",
@@ -4698,6 +4720,28 @@
    "days_left": null
   },
   {
+   "key": "tokentab:sky-replay",
+   "src": "tokentab",
+   "kind": "res",
+   "title": "天工双十一返场 视频 0 积分",
+   "cat": "Agent/编程助手",
+   "detail": "0 积分 · 最高畅用 60 天｜Seedance 2.5、Wan 3.0、可灵 4.0、H3 四款模型 0 积分；「畅用 60 天」是年包会员才有，官方没写结束日、按模型限量，以站内活动页为准",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://skyproduction.cn/",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:sky-replay"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
    "key": "tokentab:agent-free",
    "src": "tokentab",
    "kind": "res",
@@ -4747,8 +4791,8 @@
    "kind": "deal",
    "title": "腾讯云 Token Plan Hy4 2.5 折",
    "cat": "大模型 API",
-   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-17 12:00，Hy4 打 2.5 折。属 API 折扣，与客户端内 0 积分免费是两件事",
-   "deadline": "2026-11-17",
+   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-30 12:00，Hy4 打 2.5 折（官方 11-16 更新，原写 11-17 已延后）；这是 Token Plan 积分价，和按量五折是两回事，别混一起算",
+   "deadline": "2026-11-30",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
@@ -4857,8 +4901,8 @@
    "kind": "deal",
    "title": "火山方舟 Agent Plan 抵扣折扣",
    "cat": "大模型 API",
-   "detail": "deepseek-flash 五折再七折｜kimi-k3.1-pro 与 Auto 模式已经结束；还在的：flash 到 12-30、economy 到 12-30、k2.8 到 12-14",
-   "deadline": "2026-12-30",
+   "detail": "deepseek-flash 系数 0.875｜文档 11-17 更新：flash 与 kimi-k3.1-pro 都延到 2027-01-31，Auto 模式到 2027-03-31；economy、k2.8 与 glm-5.3-flash 改成长期政策，不再设截止日",
+   "deadline": "2027-01-31",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://ark.volcengine.com/docs/agent-plan-personal-model-discount",
@@ -5231,7 +5275,7 @@
    "kind": "res",
    "title": "Windsurf 免费档",
    "cat": "海外",
-   "detail": "免费 · 补全不限次｜Tab 补全和行内编辑不限次；Agent 额度官方只写 light quota，没给数字。需海外网络",
+   "detail": "免费 · 补全不限次｜需海外网络。windsurf.com/pricing 现在打开的是 Devin 的定价页，Tab 补全与行内编辑不限次，Agent 只写 light quota 没给数字",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5272,15 +5316,14 @@
   {
    "key": "tokentab:g-antigravity",
    "src": "tokentab",
-   "kind": "deal",
+   "kind": "res",
    "title": "Antigravity 免费档",
    "cat": "海外",
-   "detail": "0 元 · 含 Claude Opus 4.6｜免费档能用 Gemini 4 Hydrogen、3.8 Flash、Claude Sonnet / Opus 4.6、GPT-OSS-120b，Tab 补全与 Command 不限次。官方写明那三个第三方模型 11-18 移除，之后只剩 Gemini 自家模型。需海外网络",
-   "deadline": "2026-11-18",
+   "detail": "0 元 · Gemini 3.8 Flash 免费｜免费档只剩 Gemini 3.8 Flash 稳当，按周给基础配额，Tab 补全与 Command 不限次。官方两处都写 Claude 与 GPT-OSS 那三款「11-18 移除」，但 11-19 页面仍列着、没改成已撤，还能不能用以客户端为准。需海外网络",
+   "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://antigravity.google/docs/models",
-   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -5288,8 +5331,9 @@
     "tokentab:g-antigravity"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "TokenTab 次元塔"
+   "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
   },
   {
    "key": "tokentab:g-copilot-student",
@@ -5495,7 +5539,7 @@
    "kind": "res",
    "title": "Claude 代码执行免费额度",
    "cat": "海外",
-   "detail": "每天 50 小时执行时长｜指沙箱里跑代码的时长，不是模型调用免费，超出按每容器每小时 0.05 美元计。另外买 Claude Max 套餐（100 美元/月起）会送每月 100-200 美元 API 额度。需海外网络",
+   "detail": "每天 50 小时执行时长｜需海外网络。指沙箱里跑代码的时长，不是模型调用免费，超出按每容器每小时 0.05 美元计。另外 Max 每月送 100 美元 API 额度、Ultra 200、Team 池化最高 500 美元额度",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
