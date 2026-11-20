@@ -1,10 +1,10 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-19T12:01:52+08:00",
- "count": 250,
+ "generated_at": "2026-11-20T11:54:23+08:00",
+ "count": 249,
  "split": {
-  "deal": 28,
+  "deal": 27,
   "res": 222
  },
  "items": [
@@ -1642,7 +1642,7 @@
    "basis": "https://developers.openai.com/codex/pricing",
    "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "link_vendor": "https://developers.openai.com/codex/pricing",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "apiprice"
    ],
@@ -2114,8 +2114,8 @@
    "keys": [
     "welfare:site:claudeagent"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "ai-coding-welfare",
    "days_left": null
   },
@@ -3888,7 +3888,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -4166,28 +4166,6 @@
    "notify": false,
    "src_name": "Token FBI",
    "days_left": null
-  },
-  {
-   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
-   "src": "tokfbi",
-   "kind": "deal",
-   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
-   "cat": "蚂蚁集团（百灵大模型）·限时活动",
-   "detail": "上线首两周 API 全免费（11-05 至 11-19，输入输出不计费）；到期后按量计费，官方定价表 11-19 起已不单列该模型价位，实际价格以控制台为准。",
-   "deadline": "2026-11-19",
-   "basis": "https://developer.ant-ling.com/en/docs/models/price/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://developer.ant-ling.com/",
-   "days_left": 0,
-   "srcs": [
-    "tokfbi"
-   ],
-   "keys": [
-    "tokfbi:蚂蚁百灵ling3.2flash（首发限免）"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:腾讯edgeonemakers（ai网关）",
@@ -4620,7 +4598,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W3/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -4736,8 +4714,8 @@
    "keys": [
     "tokentab:sky-replay"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },

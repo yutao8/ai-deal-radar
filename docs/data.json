@@ -1,77 +1,22 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-19T12:01:52+08:00",
- "generated_date": "2026-11-19",
+ "generated_at": "2026-11-20T11:54:23+08:00",
+ "generated_date": "2026-11-20",
  "near_days": 3,
- "has_changes": true,
+ "has_changes": false,
  "counts": {
-  "total": 250,
-  "new": 2,
+  "total": 249,
+  "new": 0,
   "new_deals": 0,
-  "new_resources": 2,
-  "expiring": 4,
-  "expiring_new": 1,
+  "new_resources": 0,
+  "expiring": 3,
+  "expiring_new": 0,
   "failed_sources": 1
  },
  "new_deals": [],
- "new_resources": [
-  {
-   "key": "welfare:site:claudeagent",
-   "title": "Claude Agent",
-   "detail": "限时福利组可体验 DeepSeek、GLM 和 MiniMax。另有 Claude 官转，有用户反馈回答质量好。",
-   "cat": "限时福利组、Claude 官转、Claude Code",
-   "link": "https://claudeagent.com.cn/",
-   "link_source": "https://github.com/panxunying/ai-coding-welfare",
-   "link_vendor": "https://claudeagent.com.cn/",
-   "src_name": "ai-coding-welfare",
-   "srcs": [
-    "welfare"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:sky-replay",
-   "title": "天工双十一返场 视频 0 积分",
-   "detail": "0 积分 · 最高畅用 60 天｜Seedance 2.5、Wan 3.0、可灵 4.0、H3 四款模型 0 积分；「畅用 60 天」是年包会员才有，官方没写结束日、按模型限量，以站内活动页为准",
-   "cat": "Agent/编程助手",
-   "link": "https://skyproduction.cn/",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://skyproduction.cn/",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  }
- ],
+ "new_resources": [],
  "expiring": [
-  {
-   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
-   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
-   "detail": "上线首两周 API 全免费（11-05 至 11-19，输入输出不计费）；到期后按量计费，官方定价表 11-19 起已不单列该模型价位，实际价格以控制台为准。",
-   "cat": "蚂蚁集团（百灵大模型）·限时活动",
-   "link": "https://developer.ant-ling.com/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://developer.ant-ling.com/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-19",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
   {
    "key": "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "title": "OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21）",
@@ -86,7 +31,7 @@
    ],
    "deadline": "2026-11-21",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -104,7 +49,7 @@
    ],
    "deadline": "2026-11-22",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
@@ -122,45 +67,13 @@
    ],
    "deadline": "2026-11-22",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   }
  ],
- "expiring_new": [
-  {
-   "key": "tokfbi:蚂蚁百灵ling3.2flash（首发限免）",
-   "title": "蚂蚁百灵 Ling-3.2-flash（首发限免）",
-   "detail": "上线首两周 API 全免费（11-05 至 11-19，输入输出不计费）；到期后按量计费，官方定价表 11-19 起已不单列该模型价位，实际价格以控制台为准。",
-   "cat": "蚂蚁集团（百灵大模型）·限时活动",
-   "link": "https://developer.ant-ling.com/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://developer.ant-ling.com/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-19",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  }
- ],
- "events": [
-  {
-   "at": "2026-11-18T20:33:55.599Z",
-   "type": "announcement",
-   "text": "Claude Agent 发了公告：## 🛠️ 今晚 23:00 系统维护通知（约 15 分钟） 本站将于 **今晚 23:00 – 23:15（北京时间）** 进行约 **15 分钟**例行升级维护。 - **影响说明**：维护期间网站控制台与 API 连接将暂时中断，请提前保存当前会话进度 - **自动恢复*",
-   "severity": "minor"
-  },
-  {
-   "at": "2026-11-18T09:24:37.835Z",
-   "type": "site_added",
-   "text": "新收录 Claude Agent：限时福利组开放指定 Flash 模型，活动期限和可用额度以站内公告为准。",
-   "severity": "major"
-  }
- ],
+ "expiring_new": [],
+ "events": [],
  "failed_sources": [
   {
    "source": "devtk",
@@ -168,17 +81,13 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-19 12:01\n\n■ 即将截止\n蚂蚁百灵 Ling-3.2-flash（首发限免） ｜ 今天截止 ｜ https://developer.ant-ling.com/\n\n■ 新增免费资源\nClaude Agent ｜ https://claudeagent.com.cn/\n天工双十一返场 视频 0 积分 ｜ https://skyproduction.cn/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
+ "brief": "【AI 优惠雷达】11-20 11:54\n\n本次无新增活动，也无新进入提醒窗口的截止条目。",
  "brief_meta": {
-  "chars": 219,
+  "chars": 45,
   "dropped": 0,
-  "items": 3,
-  "blocks": {
-   "即将截止": 1,
-   "新增免费资源": 2
-  },
+  "items": 0,
   "limit": 1500
  },
- "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-19（12:01）\n\n### 即将截止 1 条\n\n- 蚂蚁百灵 Ling-3.2-flash（首发限免） — 2026-11-19（今天截止）\n  上线首两周 API 全免费（11-05 至 11-19，输入输出不计费）；到期后按量计费，官方定价表 11-19 起已不单列该模型价位，实际价格以控制台为准。\n  来源 https://token-fbi.com/table/\n  官方 https://developer.ant-ling.com/\n\n### 新增免费资源 2 条\n\n- Claude Agent〔限时福利组、Claude 官转、Claude Code〕\n  限时福利组可体验 DeepSeek、GLM 和 MiniMax。另有 Claude 官转，有用户反馈回答质量好。\n  来源 https://github.com/panxunying/ai-coding-welfare\n  官方 https://claudeagent.com.cn/\n\n- 天工双十一返场 视频 0 积分〔Agent/编程助手〕\n  0 积分 · 最高畅用 60 天｜Seedance 2.5、Wan 3.0、可灵 4.0、H3 四款模型 0 积分；「畅用 60 天」是年包会员才有，官方没写结束日、按模型限量，以站内活动页为准\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://skyproduction.cn/\n\n### 免费站状态变化 2 条\n\n- 2026-11-18 20:33｜Claude Agent 发了公告：## 🛠️ 今晚 23:00 系统维护通知（约 15 分钟） 本站将于 **今晚 23:00 – 23:15（北京时间）** 进行约 **15 分钟**例行升级维护。 - **影响说明**：维护期间网站控制台与 API 连接将暂时中断，请提前保\n- 2026-11-18 09:24｜新收录 Claude Agent：限时福利组开放指定 Flash 模型，活动期限和可用额度以站内公告为准。\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
+ "should_push": false,
+ "report_md": "NO_CHANGE\n\n2026-11-20 11:54 检查完成：在架 249 条，无新增、无新进入 3 天窗口的活动。\n"
 }
