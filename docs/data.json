@@ -1,21 +1,40 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-20T11:54:23+08:00",
- "generated_date": "2026-11-20",
+ "generated_at": "2026-11-21T11:51:37+08:00",
+ "generated_date": "2026-11-21",
  "near_days": 3,
- "has_changes": false,
+ "has_changes": true,
  "counts": {
-  "total": 249,
-  "new": 0,
+  "total": 250,
+  "new": 1,
   "new_deals": 0,
-  "new_resources": 0,
+  "new_resources": 1,
   "expiring": 3,
-  "expiring_new": 0,
+  "expiring_new": 1,
   "failed_sources": 1
  },
  "new_deals": [],
- "new_resources": [],
+ "new_resources": [
+  {
+   "key": "welfare:site:omniai",
+   "title": "OmniAI",
+   "detail": "GPT-6 系列 API 不限额度使用 · 免费公益站 · 进 Telegram 群领取邀请码",
+   "cat": "GPT-6、免费使用、不限调用额度、邀请码注册、Sub2API",
+   "link": "https://sub.omniai.cc/",
+   "link_source": "https://github.com/panxunying/ai-coding-welfare",
+   "link_vendor": "https://sub.omniai.cc/",
+   "src_name": "ai-coding-welfare",
+   "srcs": [
+    "welfare"
+   ],
+   "deadline": "",
+   "kind": "res",
+   "days_left": null,
+   "is_new": true,
+   "notify": true
+  }
+ ],
  "expiring": [
   {
    "key": "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
@@ -31,9 +50,9 @@
    ],
    "deadline": "2026-11-21",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "tokentab:autoclaw-week",
@@ -49,7 +68,7 @@
    ],
    "deadline": "2026-11-22",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -67,13 +86,39 @@
    ],
    "deadline": "2026-11-22",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   }
  ],
- "expiring_new": [],
- "events": [],
+ "expiring_new": [
+  {
+   "key": "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
+   "title": "OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21）",
+   "detail": "官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 10、输出 500 credits（每百万 token）。该页没写原价，所以折扣幅度未写明。",
+   "cat": "限时降价",
+   "link": "https://developers.openai.com/codex/pricing",
+   "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
+   "link_vendor": "https://developers.openai.com/codex/pricing",
+   "src_name": "apiprice",
+   "srcs": [
+    "apiprice"
+   ],
+   "deadline": "2026-11-21",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  }
+ ],
+ "events": [
+  {
+   "at": "2026-11-20T15:48:49.491Z",
+   "type": "site_added",
+   "text": "新收录 OmniAI：免费使用 GPT-6 系列 API，不限调用额度与次数。",
+   "severity": "major"
+  }
+ ],
  "failed_sources": [
   {
    "source": "devtk",
@@ -81,13 +126,17 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-20 11:54\n\n本次无新增活动，也无新进入提醒窗口的截止条目。",
+ "brief": "【AI 优惠雷达】11-21 11:51\n\n■ 即将截止\nOpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） ｜ 今天截止 ｜ https://developers.openai.com/codex/pricing\n\n■ 新增免费资源\nOmniAI ｜ https://sub.omniai.cc/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
  "brief_meta": {
-  "chars": 45,
+  "chars": 190,
   "dropped": 0,
-  "items": 0,
+  "items": 2,
+  "blocks": {
+   "即将截止": 1,
+   "新增免费资源": 1
+  },
   "limit": 1500
  },
- "should_push": false,
- "report_md": "NO_CHANGE\n\n2026-11-20 11:54 检查完成：在架 249 条，无新增、无新进入 3 天窗口的活动。\n"
+ "should_push": true,
+ "report_md": "# AI 优惠雷达 · 2026-11-21（11:51）\n\n### 即将截止 1 条\n\n- OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） — 2026-11-21（今天截止）\n  官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 \n  来源 https://apiprice.app/zh/deals/#codex-gpt56sol-promo\n  官方 https://developers.openai.com/codex/pricing\n\n### 新增免费资源 1 条\n\n- OmniAI〔GPT-6、免费使用、不限调用额度、邀请码注册、Sub2API〕\n  GPT-6 系列 API 不限额度使用 · 免费公益站 · 进 Telegram 群领取邀请码\n  来源 https://github.com/panxunying/ai-coding-welfare\n  官方 https://sub.omniai.cc/\n\n### 免费站状态变化 1 条\n\n- 2026-11-20 15:48｜新收录 OmniAI：免费使用 GPT-6 系列 API，不限调用额度与次数。\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
 }

@@ -1,11 +1,11 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-20T11:54:23+08:00",
- "count": 249,
+ "generated_at": "2026-11-21T11:51:37+08:00",
+ "count": 250,
  "split": {
   "deal": 27,
-  "res": 222
+  "res": 223
  },
  "items": [
   {
@@ -1642,7 +1642,7 @@
    "basis": "https://developers.openai.com/codex/pricing",
    "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "link_vendor": "https://developers.openai.com/codex/pricing",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "apiprice"
    ],
@@ -1650,7 +1650,7 @@
     "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "apiprice"
   },
   {
@@ -1742,6 +1742,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "ai-coding-welfare",
+   "days_left": null
+  },
+  {
+   "key": "welfare:site:omniai",
+   "src": "welfare",
+   "kind": "res",
+   "title": "OmniAI",
+   "cat": "GPT-6、免费使用、不限调用额度、邀请码注册、Sub2API",
+   "detail": "GPT-6 系列 API 不限额度使用 · 免费公益站 · 进 Telegram 群领取邀请码",
+   "deadline": "",
+   "basis": "https://sub.omniai.cc",
+   "link_source": "https://github.com/panxunying/ai-coding-welfare",
+   "link_vendor": "https://sub.omniai.cc/",
+   "srcs": [
+    "welfare"
+   ],
+   "keys": [
+    "welfare:site:omniai"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "ai-coding-welfare",
    "days_left": null
   },
@@ -3395,8 +3417,8 @@
    "src": "tokfbi",
    "kind": "res",
    "title": "Qoder CN 错峰 4 折",
-   "cat": "每日赠送",
-   "detail": "新户注册送 300 Credits（含 2 周专业版试用，每人一次）；每日 10:00 桌面端领 100 Credits（30 天有效、可累积）；倍率 Qwen4-Max 0.4×、Qwen3.8-Flash 0.1×、DeepSeek-Flash 0.1×、GLM-5.3 0.8×；22:00–08:00 错峰再 4 折。",
+   "cat": "注册赠送",
+   "detail": "体验版注册送 300 Credits + 2 周 Pro 试用（每人一次）；每日 100 Credits 自 11-19 起仅向试用期与付费订阅用户开放，免费用户已停发；首购专业版月付 19.9 元（原价 59）含 2,000 Credits；DeepSeek-Flash、Qwen3.8-Flash、GLM-5.3-Flash 均 0.1× 倍率。",
    "deadline": "",
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
@@ -3888,7 +3910,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4598,7 +4620,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W3/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],

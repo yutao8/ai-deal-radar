@@ -1,12 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-20T11:54:23+08:00",
+ "generated_at": "2026-11-21T11:51:37+08:00",
  "meta": {
-  "chars": 45,
+  "chars": 190,
   "dropped": 0,
-  "items": 0,
+  "items": 2,
+  "blocks": {
+   "即将截止": 1,
+   "新增免费资源": 1
+  },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-20 11:54\n\n本次无新增活动，也无新进入提醒窗口的截止条目。"
+ "brief": "【AI 优惠雷达】11-21 11:51\n\n■ 即将截止\nOpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） ｜ 今天截止 ｜ https://developers.openai.com/codex/pricing\n\n■ 新增免费资源\nOmniAI ｜ https://sub.omniai.cc/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
 }

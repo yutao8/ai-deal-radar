@@ -338,7 +338,8 @@
   "welfare:site:xingchi": "2026-11-16",
   "tokentab:tencent-hy4-half": "2026-11-17",
   "welfare:site:claudeagent": "2026-11-19",
-  "tokentab:sky-replay": "2026-11-19"
+  "tokentab:sky-replay": "2026-11-19",
+  "welfare:site:omniai": "2026-11-21"
  },
  "expiring_notified": {
   "tokfbi:workbuddy": 0,
@@ -349,8 +350,8 @@
   "tokentab:ark-plan-cut": 3,
   "tokentab:tencent-hy4-tp": 0,
   "tokentab:g-antigravity": 0,
-  "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo": 3
+  "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo": 0
  },
- "last_run": "2026-11-20T11:54:23+08:00",
+ "last_run": "2026-11-21T11:51:37+08:00",
  "first_run": "2026-10-30T14:13:34+08:00"
 }
