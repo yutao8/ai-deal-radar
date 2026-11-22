@@ -1,32 +1,32 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-21T11:51:37+08:00",
- "generated_date": "2026-11-21",
+ "generated_at": "2026-11-22T10:54:52+08:00",
+ "generated_date": "2026-11-22",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 250,
+  "total": 251,
   "new": 1,
   "new_deals": 0,
   "new_resources": 1,
-  "expiring": 3,
-  "expiring_new": 1,
+  "expiring": 4,
+  "expiring_new": 3,
   "failed_sources": 1
  },
  "new_deals": [],
  "new_resources": [
   {
-   "key": "welfare:site:omniai",
-   "title": "OmniAI",
-   "detail": "GPT-6 系列 API 不限额度使用 · 免费公益站 · 进 Telegram 群领取邀请码",
-   "cat": "GPT-6、免费使用、不限调用额度、邀请码注册、Sub2API",
-   "link": "https://sub.omniai.cc/",
-   "link_source": "https://github.com/panxunying/ai-coding-welfare",
-   "link_vendor": "https://sub.omniai.cc/",
-   "src_name": "ai-coding-welfare",
+   "key": "tokfbi:书生·浦语internlm开放api",
+   "title": "书生·浦语 InternLM 开放 API",
+   "detail": "每月 100 万输入 + 300 万输出 Tokens 免费，限速 10 RPM / 5000 TPM，月初刷新。",
+   "cat": "上海人工智能实验室·长期免费",
+   "link": "https://chat.intern-ai.org.cn/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://chat.intern-ai.org.cn/",
+   "src_name": "Token FBI",
    "srcs": [
-    "welfare"
+    "tokfbi"
    ],
    "deadline": "",
    "kind": "res",
@@ -36,24 +36,6 @@
   }
  ],
  "expiring": [
-  {
-   "key": "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
-   "title": "OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21）",
-   "detail": "官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 10、输出 500 credits（每百万 token）。该页没写原价，所以折扣幅度未写明。",
-   "cat": "限时降价",
-   "link": "https://developers.openai.com/codex/pricing",
-   "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
-   "link_vendor": "https://developers.openai.com/codex/pricing",
-   "src_name": "apiprice",
-   "srcs": [
-    "apiprice"
-   ],
-   "deadline": "2026-11-21",
-   "kind": "deal",
-   "days_left": 0,
-   "is_new": false,
-   "notify": true
-  },
   {
    "key": "tokentab:autoclaw-week",
    "title": "智谱 AutoClaw 每周额度",
@@ -68,7 +50,7 @@
    ],
    "deadline": "2026-11-22",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
    "notify": false
   },
@@ -86,39 +68,104 @@
    ],
    "deadline": "2026-11-22",
    "kind": "deal",
-   "days_left": 1,
-   "is_new": false,
-   "notify": false
-  }
- ],
- "expiring_new": [
-  {
-   "key": "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
-   "title": "OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21）",
-   "detail": "官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 10、输出 500 credits（每百万 token）。该页没写原价，所以折扣幅度未写明。",
-   "cat": "限时降价",
-   "link": "https://developers.openai.com/codex/pricing",
-   "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
-   "link_vendor": "https://developers.openai.com/codex/pricing",
-   "src_name": "apiprice",
-   "srcs": [
-    "apiprice"
-   ],
-   "deadline": "2026-11-21",
-   "kind": "deal",
    "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokentab:bailian-qwen4",
+   "title": "百炼 qwen4-max-preview 预览 2 折",
+   "detail": "预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用",
+   "cat": "大模型 API",
+   "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-25",
+   "kind": "deal",
+   "days_left": 3,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "title": "阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）",
+   "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
+   "cat": "限时特价",
+   "link": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-11-25",
+   "kind": "deal",
+   "days_left": 3,
    "is_new": false,
    "notify": true
   }
  ],
- "events": [
+ "expiring_new": [
   {
-   "at": "2026-11-20T15:48:49.491Z",
-   "type": "site_added",
-   "text": "新收录 OmniAI：免费使用 GPT-6 系列 API，不限调用额度与次数。",
-   "severity": "major"
+   "key": "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）",
+   "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
+   "detail": "11/16–11/22 登录即领 1 亿 Tokens（1 万积分），11-22 23:59 失效，每账号限领一次；上周 5000 万已结束。",
+   "cat": "限时活动",
+   "link": "https://autoclaw.zhipuai.cn/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://autoclaw.zhipuai.cn/",
+   "src_name": "Token FBI",
+   "srcs": [
+    "tokfbi"
+   ],
+   "deadline": "2026-11-22",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokentab:bailian-qwen4",
+   "title": "百炼 qwen4-max-preview 预览 2 折",
+   "detail": "预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用",
+   "cat": "大模型 API",
+   "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-25",
+   "kind": "deal",
+   "days_left": 3,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "title": "阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）",
+   "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
+   "cat": "限时特价",
+   "link": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-11-25",
+   "kind": "deal",
+   "days_left": 3,
+   "is_new": false,
+   "notify": true
   }
  ],
+ "events": [],
  "failed_sources": [
   {
    "source": "devtk",
@@ -126,17 +173,17 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-21 11:51\n\n■ 即将截止\nOpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） ｜ 今天截止 ｜ https://developers.openai.com/codex/pricing\n\n■ 新增免费资源\nOmniAI ｜ https://sub.omniai.cc/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
+ "brief": "【AI 优惠雷达】11-22 10:54\n\n■ 即将截止\n智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash） ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/\n百炼 qwen4-max-preview 预览 2 折 ｜ 剩 3 天 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ 剩 3 天 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n\n■ 新增免费资源\n书生·浦语 InternLM 开放 API ｜ https://chat.intern-ai.org.cn/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
  "brief_meta": {
-  "chars": 190,
+  "chars": 423,
   "dropped": 0,
-  "items": 2,
+  "items": 4,
   "blocks": {
-   "即将截止": 1,
+   "即将截止": 3,
    "新增免费资源": 1
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-21（11:51）\n\n### 即将截止 1 条\n\n- OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） — 2026-11-21（今天截止）\n  官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 \n  来源 https://apiprice.app/zh/deals/#codex-gpt56sol-promo\n  官方 https://developers.openai.com/codex/pricing\n\n### 新增免费资源 1 条\n\n- OmniAI〔GPT-6、免费使用、不限调用额度、邀请码注册、Sub2API〕\n  GPT-6 系列 API 不限额度使用 · 免费公益站 · 进 Telegram 群领取邀请码\n  来源 https://github.com/panxunying/ai-coding-welfare\n  官方 https://sub.omniai.cc/\n\n### 免费站状态变化 1 条\n\n- 2026-11-20 15:48｜新收录 OmniAI：免费使用 GPT-6 系列 API，不限调用额度与次数。\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-22（10:54）\n\n### 即将截止 3 条\n\n- 智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash） — 2026-11-22（今天截止）\n  11/16–11/22 登录即领 1 亿 Tokens（1 万积分），11-22 23:59 失效，每账号限领一次；上周 5000 万已结束。\n  来源 https://token-fbi.com/table/\n  官方 https://autoclaw.zhipuai.cn/\n- 百炼 qwen4-max-preview 预览 2 折 — 2026-11-25（剩 3 天）\n  预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n- 阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） — 2026-11-25（剩 3 天）\n  Credits 低至 2 折；错峰再 4 折（合 0.8 折）\n  来源 https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/\n  官方 https://www.aliyun.com/activity/hub/qianwenai1111\n\n### 新增免费资源 1 条\n\n- 书生·浦语 InternLM 开放 API〔上海人工智能实验室·长期免费〕\n  每月 100 万输入 + 300 万输出 Tokens 免费，限速 10 RPM / 5000 TPM，月初刷新。\n  来源 https://token-fbi.com/table/\n  官方 https://chat.intern-ai.org.cn/\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
 }

@@ -1,11 +1,11 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-21T11:51:37+08:00",
- "count": 250,
+ "generated_at": "2026-11-22T10:54:52+08:00",
+ "count": 251,
  "split": {
   "deal": 27,
-  "res": 223
+  "res": 224
  },
  "items": [
   {
@@ -19,6 +19,7 @@
    "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
    "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
@@ -26,9 +27,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
@@ -1638,11 +1638,10 @@
    "title": "OpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21）",
    "cat": "限时降价",
    "detail": "官方写“GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026”。Codex 积分费率：输入 100、缓存输入 10、输出 500 credits（每百万 token）。该页没写原价，所以折扣幅度未写明。",
-   "deadline": "2026-11-21",
+   "deadline": "2027-11-21",
    "basis": "https://developers.openai.com/codex/pricing",
    "link_source": "https://apiprice.app/zh/deals/#codex-gpt56sol-promo",
    "link_vendor": "https://developers.openai.com/codex/pricing",
-   "days_left": 0,
    "srcs": [
     "apiprice"
    ],
@@ -1650,8 +1649,9 @@
     "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "apiprice"
+   "notify": false,
+   "src_name": "apiprice",
+   "days_left": null
   },
   {
    "key": "welfare:site:docode",
@@ -1762,8 +1762,8 @@
    "keys": [
     "welfare:site:omniai"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "ai-coding-welfare",
    "days_left": null
   },
@@ -3910,7 +3910,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokfbi"
    ],
@@ -3918,7 +3918,7 @@
     "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "Token FBI"
   },
   {
@@ -4300,6 +4300,28 @@
    "days_left": null
   },
   {
+   "key": "tokfbi:书生·浦语internlm开放api",
+   "src": "tokfbi",
+   "kind": "res",
+   "title": "书生·浦语 InternLM 开放 API",
+   "cat": "上海人工智能实验室·长期免费",
+   "detail": "每月 100 万输入 + 300 万输出 Tokens 免费，限速 10 RPM / 5000 TPM，月初刷新。",
+   "deadline": "",
+   "basis": "https://chat.intern-ai.org.cn/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://chat.intern-ai.org.cn/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:书生·浦语internlm开放api"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
    "key": "tokentab:wb-invite",
    "src": "tokentab",
    "kind": "res",
@@ -4620,7 +4642,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W3/",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -4950,6 +4972,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -4957,9 +4980,8 @@
     "tokentab:bailian-qwen4"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:zhipu-new",

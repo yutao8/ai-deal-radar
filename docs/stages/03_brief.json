@@ -1,16 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-21T11:51:37+08:00",
+ "generated_at": "2026-11-22T10:54:52+08:00",
  "meta": {
-  "chars": 190,
+  "chars": 423,
   "dropped": 0,
-  "items": 2,
+  "items": 4,
   "blocks": {
-   "即将截止": 1,
+   "即将截止": 3,
    "新增免费资源": 1
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-21 11:51\n\n■ 即将截止\nOpenAI Codex：GPT-5.6 Sol 促销价（至少到 11-21） ｜ 今天截止 ｜ https://developers.openai.com/codex/pricing\n\n■ 新增免费资源\nOmniAI ｜ https://sub.omniai.cc/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
+ "brief": "【AI 优惠雷达】11-22 10:54\n\n■ 即将截止\n智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash） ｜ 今天截止 ｜ https://autoclaw.zhipuai.cn/\n百炼 qwen4-max-preview 预览 2 折 ｜ 剩 3 天 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ 剩 3 天 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n\n■ 新增免费资源\n书生·浦语 InternLM 开放 API ｜ https://chat.intern-ai.org.cn/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
 }
