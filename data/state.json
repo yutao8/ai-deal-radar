@@ -340,7 +340,8 @@
   "welfare:site:claudeagent": "2026-11-19",
   "tokentab:sky-replay": "2026-11-19",
   "welfare:site:omniai": "2026-11-21",
-  "tokfbi:书生·浦语internlm开放api": "2026-11-22"
+  "tokfbi:书生·浦语internlm开放api": "2026-11-22",
+  "aitkradar:https://aitkradar.cn/deals/manual-volc-ds41-monthpack/": "2026-11-23"
  },
  "expiring_notified": {
   "tokfbi:workbuddy": 0,
@@ -355,6 +356,6 @@
   "tokentab:bailian-qwen4": 3,
   "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/": 3
  },
- "last_run": "2026-11-22T10:54:52+08:00",
+ "last_run": "2026-11-23T11:36:58+08:00",
  "first_run": "2026-10-30T14:13:34+08:00"
 }

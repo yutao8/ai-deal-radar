@@ -1,11 +1,11 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-22T10:54:52+08:00",
- "count": 251,
+ "generated_at": "2026-11-23T11:36:58+08:00",
+ "count": 249,
  "split": {
-  "deal": 27,
-  "res": 224
+  "deal": 26,
+  "res": 223
  },
  "items": [
   {
@@ -19,7 +19,7 @@
    "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
    "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar"
    ],
@@ -27,7 +27,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -92,28 +92,6 @@
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-tencent-tokenhub-welcome/"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-enterprise-half-price/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "TRAE 企业版内置模型套餐内用量限时半价",
-   "cat": "限时特价",
-   "detail": "企业版内置模型套餐内用量享 5 折，自动折后扣减",
-   "deadline": "2026-12-31",
-   "basis": "https://www.trae.cn/pricing",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-enterprise-half-price/",
-   "link_vendor": "https://www.trae.cn/pricing",
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-trae-enterprise-half-price/"
    ],
    "is_new": false,
    "notify": false,
@@ -194,7 +172,7 @@
    "kind": "res",
    "title": "MiniMax：Go 年付 490 元（原价 588 元）",
    "cat": "限时特价",
-   "detail": "Plus：现价 490 元，目录价 588 元",
+   "detail": "Go：现价 490 元，目录价 588 元",
    "deadline": "",
    "basis": "https://platform.minimax.cn/",
    "link_source": "https://aitkradar.cn/deals/api-minimax-combo-66e0ac6b/",
@@ -258,9 +236,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-14c00d03/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "火山引擎：Seedream 图像创作模型 5.0（含 Lite/Pro）新客资源特惠。",
+   "title": "火山引擎：火山方舟 图像5.5 新客5折（最高440张）",
    "cat": "组合权益",
-   "detail": "Seedream 图像创作模型 5.0（含 Lite/Pro）新客资源特惠。",
+   "detail": "新客5折，最高约440张图片，限购1次",
    "deadline": "",
    "basis": "https://www.volcengine.com/activity/ark",
    "link_source": "https://aitkradar.cn/deals/deal-volc-ark-14c00d03/",
@@ -280,9 +258,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "火山引擎：DeepSeek-V4-Flash 新客资源特惠，每账号限享一次。",
+   "title": "火山引擎（字节）：火山方舟 DeepSeek-V4.1-Flash 月包 5 折抵扣",
    "cat": "组合权益",
-   "detail": "DeepSeek-V4-Flash 新客资源特惠，每账号限享一次。",
+   "detail": "新客5折，约6000万Tokens，限购1次",
    "deadline": "",
    "basis": "https://www.volcengine.com/activity/ark",
    "link_source": "https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/",
@@ -291,10 +269,11 @@
     "aitkradar"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/"
+    "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/",
+    "aitkradar:https://aitkradar.cn/deals/manual-volc-ds41-monthpack/"
    ],
-   "is_new": false,
-   "notify": false,
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -302,9 +281,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-b0267145/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "火山引擎：豆包大模型 2.0 新客资源特惠，每账号限享一次，支持多模态，递减包有效期 1 个月。",
+   "title": "火山引擎：火山方舟 豆包2.1 新客5折（约880万Tokens）",
    "cat": "组合权益",
-   "detail": "豆包大模型 2.0 新客资源特惠，每账号限享一次，支持多模态，",
+   "detail": "新客5折，约880万Tokens，限购1次",
    "deadline": "",
    "basis": "https://www.volcengine.com/activity/ark",
    "link_source": "https://aitkradar.cn/deals/deal-volc-ark-b0267145/",
@@ -324,9 +303,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-b42bbd07/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "火山引擎：节省计划月度钱包：新老用户同享，每账号限 3 次。",
+   "title": "火山引擎：火山方舟 节省计划月度钱包（新老同享）",
    "cat": "限时特价",
-   "detail": "节省计划月度钱包：新老用户同享，每账号限 3 次。",
+   "detail": "新老同享限购3次，无内置优惠系数",
    "deadline": "",
    "basis": "https://www.volcengine.com/activity/ark",
    "link_source": "https://aitkradar.cn/deals/deal-volc-ark-b42bbd07/",
@@ -346,9 +325,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/kimi-membership-b4964d61/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "Kimi Max（全能档）699 元/月，连续包年价格更低。",
+   "title": "Kimi 会员全能档 699 元/月（连续包年更低）",
    "cat": "限时特价",
-   "detail": "Kimi Allegro（全能档）699 元/月，连续包年价格更低。",
+   "detail": "全能档 699 元/月，连续包年价格更低",
    "deadline": "",
    "basis": "https://www.kimi.com/membership",
    "link_source": "https://aitkradar.cn/deals/kimi-membership-b4964d61/",
@@ -526,9 +505,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/trae-plans-a1cdec18/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "Trae（字节）：89 元 限时首月优惠：首月 69 元，第 2 个月恢复 89 元",
+   "title": "Trae Pro 连续包月首月 69 元（次月 89 元）",
    "cat": "限时特价",
-   "detail": "89 元 限时首月优惠：首月 69 元，第 2 个月恢复 89 元",
+   "detail": "首月 69 元，次月恢复 89 元；仅限付费新用户",
    "deadline": "",
    "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/trae-plans-a1cdec18/",
@@ -636,7 +615,7 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-volc-ark-free-25m/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "火山引擎 AI 普惠季：新客首单礼 + 2500 万 Tokens 免费领",
+   "title": "火山引擎：火山方舟2500万Tokens免费领",
    "cat": "免费额度",
    "detail": "开通方舟服务，单个模型免费领50万Tokens，累计超2500万",
    "deadline": "",
@@ -647,30 +626,7 @@
     "aitkradar"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-volc-ark-free-25m/",
-    "aitkradar:https://aitkradar.cn/deals/manual-volc-ai618-puhuangji/"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-volc-doubao21-flashsale/",
-   "src": "aitkradar",
-   "kind": "res",
-   "title": "火山引擎：火山豆包大模型2.1秒杀",
-   "cat": "限时特价",
-   "detail": "豆包大模型2.1递减包约880万Tokens，秒杀40元（原价80元）",
-   "deadline": "",
-   "basis": "https://www.volcengine.com/activity/ark",
-   "link_source": "https://aitkradar.cn/deals/manual-volc-doubao21-flashsale/",
-   "link_vendor": "https://www.volcengine.com/activity/ark",
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-volc-doubao21-flashsale/"
+    "aitkradar:https://aitkradar.cn/deals/manual-volc-ark-free-25m/"
    ],
    "is_new": false,
    "notify": false,
@@ -692,8 +648,7 @@
     "aitkradar"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwenwork-newuser/",
-    "aitkradar:https://aitkradar.cn/deals/manual-qwenwork-newuser-2000-credits/"
+    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwenwork-newuser/"
    ],
    "is_new": false,
    "notify": false,
@@ -792,9 +747,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-newuser-4000/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "Trae 新用户注册赠 4000 积分",
+   "title": "Trae 新用户注册赠 2000 积分",
    "cat": "赠送额度",
-   "detail": "新用户注册一次性赠送 4000 积分，31 个自然日有效",
+   "detail": "新用户注册一次性赠送 2000 积分，31 个自然日有效",
    "deadline": "",
    "basis": "https://www.trae.cn/pricing",
    "link_source": "https://aitkradar.cn/deals/manual-trae-newuser-4000/",
@@ -804,28 +759,6 @@
    ],
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-trae-newuser-4000/"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-trae-upgrade-4000/",
-   "src": "aitkradar",
-   "kind": "res",
-   "title": "Trae 老用户升级赠 4000 积分",
-   "cat": "赠送额度",
-   "detail": "升级至新计费模式一次性赠送 4000 积分，31 个自然日有效",
-   "deadline": "",
-   "basis": "https://www.trae.cn/pricing",
-   "link_source": "https://aitkradar.cn/deals/manual-trae-upgrade-4000/",
-   "link_vendor": "https://www.trae.cn/pricing",
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-trae-upgrade-4000/"
    ],
    "is_new": false,
    "notify": false,
@@ -858,9 +791,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "智谱：ZCode 邀请好友得夜间蹬蹬卡（1 亿 GLM-5.3-Flash tokens）",
+   "title": "智谱：ZCode 邀好友得资源包（最高 2 亿 GLM-5.3-Flash）",
    "cat": "赠送额度",
-   "detail": "邀 1 位新用户得夜间蹬蹬卡：1 亿 GLM-5.3-Flash tokens",
+   "detail": "邀好友注册认证，最高得 2 亿 GLM-5.3-Flash tokens 资源包",
    "deadline": "",
    "basis": "https://zcode.z.ai/invite/NQNN5NBH",
    "link_source": "https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/",
@@ -869,8 +802,7 @@
     "aitkradar"
    ],
    "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/",
-    "aitkradar:https://aitkradar.cn/deals/manual-zcode-daily-300m/"
+    "aitkradar:https://aitkradar.cn/deals/manual-zcode-invite-dengdeng/"
    ],
    "is_new": false,
    "notify": false,
@@ -1186,6 +1118,28 @@
    "days_left": null
   },
   {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-zcode-daily-300m/",
+   "src": "aitkradar",
+   "kind": "res",
+   "title": "智谱：ZCode 每天免费领 3 亿 GLM-5.3-Flash Tokens",
+   "cat": "赠送额度",
+   "detail": "每天领 3 亿 Tokens（19 点领，23 点起 10 小时可用）",
+   "deadline": "",
+   "basis": "https://zcode.z.ai/cn/",
+   "link_source": "https://aitkradar.cn/deals/manual-zcode-daily-300m/",
+   "link_vendor": "https://zcode.z.ai/cn/",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-zcode-daily-300m/"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-workbuddy-buddyone-100/",
    "src": "aitkradar",
    "kind": "res",
@@ -1211,9 +1165,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "Qoder CN 双十一特惠：专业版月付首购 19.9 元（原 59 元）",
+   "title": "Qoder CN 专业版首购 19.9 元（名额有限）",
    "cat": "限时特价",
-   "detail": "专业版首月 19.9 元（原 59 元/月，含 2000 Credits）",
+   "detail": "专业版首月 19.9 元（原价 59 元/月）",
    "deadline": "",
    "basis": "https://docs.qoder.cn/events/purchase-offer",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-cn-double11-19.9/",
@@ -3905,12 +3859,11 @@
    "kind": "deal",
    "title": "智谱 AutoClaw 登录送 Token 福利（GLM-5.3-Flash）",
    "cat": "限时活动",
-   "detail": "11/16–11/22 登录即领 1 亿 Tokens（1 万积分），11-22 23:59 失效，每账号限领一次；上周 5000 万已结束。",
-   "deadline": "2026-11-22",
+   "detail": "11/23–11/29 登录即领 1 亿 Tokens（1 万积分），11-29 23:59 失效，每账号限领一次；上周同期福利已于 11-22 23:59 结束。",
+   "deadline": "2026-11-29",
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 0,
    "srcs": [
     "tokfbi"
    ],
@@ -3918,8 +3871,9 @@
     "tokfbi:智谱autoclaw登录送token福利（glm5.3flash）"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "Token FBI"
+   "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4316,8 +4270,8 @@
    "keys": [
     "tokfbi:书生·浦语internlm开放api"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "Token FBI",
    "days_left": null
   },
@@ -4642,7 +4596,6 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W3/",
-   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -4651,7 +4604,8 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "TokenTab 次元塔"
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
   },
   {
    "key": "tokentab:qoder-1111",
@@ -4972,7 +4926,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -4980,7 +4934,7 @@
     "tokentab:bailian-qwen4"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
