@@ -1,15 +1,15 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-23T11:36:58+08:00",
+ "generated_at": "2026-11-24T14:51:40+08:00",
  "meta": {
-  "chars": 142,
+  "chars": 108,
   "dropped": 0,
   "items": 1,
   "blocks": {
-   "新增免费资源": 1
+   "新活动": 1
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-23 11:36\n\n■ 新增免费资源\n火山引擎（字节）：火山方舟 DeepSeek-V4.1-Flash 月包 5 折抵扣 ｜ https://www.volcengine.com/activity/ark\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
+ "brief": "【AI 优惠雷达】11-24 14:51\n\n■ 新活动\nQoder HungerG 匿名模型限免（CN 个人用户） ｜ https://qoder.com.cn/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
 }

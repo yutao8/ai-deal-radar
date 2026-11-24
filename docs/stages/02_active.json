@@ -1,10 +1,10 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-23T11:36:58+08:00",
- "count": 249,
+ "generated_at": "2026-11-24T14:51:40+08:00",
+ "count": 250,
  "split": {
-  "deal": 26,
+  "deal": 27,
   "res": 223
  },
  "items": [
@@ -19,7 +19,7 @@
    "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
    "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "aitkradar"
    ],
@@ -272,8 +272,8 @@
     "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/",
     "aitkradar:https://aitkradar.cn/deals/manual-volc-ds41-monthpack/"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -3793,7 +3793,7 @@
    "kind": "res",
    "title": "Google Antigravity（反重力）",
    "cat": "Google·免费层",
-   "detail": "每周提供免费使用额度，支持 Gemini、Claude 等模型。",
+   "detail": "免费档（Free / AI Plus）额度每周刷新并设周上限，按 Agent 实际工作量扣减；可用 Gemini 4 Hydrogen 与 Gemini 3.8 Flash（后者 2026-11-30 下架），具体额度官方不公布。",
    "deadline": "",
    "basis": "https://antigravity.google/pricing",
    "link_source": "https://token-fbi.com/table/",
@@ -4272,6 +4272,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
+   "key": "tokfbi:qoderhungerg匿名模型限免（cn个人用户）",
+   "src": "tokfbi",
+   "kind": "deal",
+   "title": "Qoder HungerG 匿名模型限免（CN 个人用户）",
+   "cat": "限时活动",
+   "detail": "11/23 24:00–11/30 24:00 选择 HungerG 不消耗 Credits、不限次数、无需领取，余额 0 也能用。",
+   "deadline": "2026-11-30",
+   "basis": "https://mp.weixin.qq.com/s/VhcglOceH15bysZcAwsBtw",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://qoder.com.cn/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:qoderhungerg匿名模型限免（cn个人用户）"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "Token FBI",
    "days_left": null
   },
@@ -4926,7 +4948,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],

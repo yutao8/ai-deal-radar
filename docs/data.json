@@ -1,40 +1,40 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-23T11:36:58+08:00",
- "generated_date": "2026-11-23",
+ "generated_at": "2026-11-24T14:51:40+08:00",
+ "generated_date": "2026-11-24",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 249,
+  "total": 250,
   "new": 1,
-  "new_deals": 0,
-  "new_resources": 1,
+  "new_deals": 1,
+  "new_resources": 0,
   "expiring": 2,
   "expiring_new": 0,
   "failed_sources": 1
  },
- "new_deals": [],
- "new_resources": [
+ "new_deals": [
   {
-   "key": "aitkradar:https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/",
-   "title": "火山引擎（字节）：火山方舟 DeepSeek-V4.1-Flash 月包 5 折抵扣",
-   "detail": "新客5折，约6000万Tokens，限购1次",
-   "cat": "组合权益",
-   "link": "https://www.volcengine.com/activity/ark",
-   "link_source": "https://aitkradar.cn/deals/deal-volc-ark-97b5c1e5/",
-   "link_vendor": "https://www.volcengine.com/activity/ark",
-   "src_name": "AI价格雷达",
+   "key": "tokfbi:qoderhungerg匿名模型限免（cn个人用户）",
+   "title": "Qoder HungerG 匿名模型限免（CN 个人用户）",
+   "detail": "11/23 24:00–11/30 24:00 选择 HungerG 不消耗 Credits、不限次数、无需领取，余额 0 也能用。",
+   "cat": "限时活动",
+   "link": "https://qoder.com.cn/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://qoder.com.cn/",
+   "src_name": "Token FBI",
    "srcs": [
-    "aitkradar"
+    "tokfbi"
    ],
-   "deadline": "",
-   "kind": "res",
+   "deadline": "2026-11-30",
+   "kind": "deal",
    "days_left": null,
    "is_new": true,
    "notify": true
   }
  ],
+ "new_resources": [],
  "expiring": [
   {
    "key": "tokentab:bailian-qwen4",
@@ -50,7 +50,7 @@
    ],
    "deadline": "2026-11-25",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -68,20 +68,13 @@
    ],
    "deadline": "2026-11-25",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   }
  ],
  "expiring_new": [],
- "events": [
-  {
-   "at": "2026-11-22T19:43:01.345Z",
-   "type": "announcement",
-   "text": "DoCode 发了公告：新上架GPT【ultrafast】分组，8 倍速度极致体验。",
-   "severity": "minor"
-  }
- ],
+ "events": [],
  "failed_sources": [
   {
    "source": "devtk",
@@ -89,16 +82,16 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-23 11:36\n\n■ 新增免费资源\n火山引擎（字节）：火山方舟 DeepSeek-V4.1-Flash 月包 5 折抵扣 ｜ https://www.volcengine.com/activity/ark\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
+ "brief": "【AI 优惠雷达】11-24 14:51\n\n■ 新活动\nQoder HungerG 匿名模型限免（CN 个人用户） ｜ https://qoder.com.cn/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
  "brief_meta": {
-  "chars": 142,
+  "chars": 108,
   "dropped": 0,
   "items": 1,
   "blocks": {
-   "新增免费资源": 1
+   "新活动": 1
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-23（11:36）\n\n### 新增免费资源 1 条\n\n- 火山引擎（字节）：火山方舟 DeepSeek-V4.1-Flash 月包 5 折抵扣〔限时特价〕\n  充值后该模型按量 5 折抵扣，限购1次\n  来源 https://aitkradar.cn/deals/manual-volc-ds41-monthpack/\n  官方 https://www.volcengine.com/activity/ark\n\n### 免费站状态变化 1 条\n\n- 2026-11-22 19:43｜DoCode 发了公告：新上架GPT【ultrafast】分组，8 倍速度极致体验。\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-24（14:51）\n\n### 新活动 1 条\n\n- Qoder HungerG 匿名模型限免（CN 个人用户）｜截止 2026-11-30\n  11/23 24:00–11/30 24:00 选择 HungerG 不消耗 Credits、不限次数、无需领取，余额 0 也能用。\n  来源 https://token-fbi.com/table/\n  官方 https://qoder.com.cn/\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
 }
