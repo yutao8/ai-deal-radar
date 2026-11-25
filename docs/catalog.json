@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T14:51:40+08:00",
- "total": 250,
+ "generated_at": "2026-11-25T13:17:58+08:00",
+ "total": 251,
  "items": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
@@ -13,7 +13,7 @@
    "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
    "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "aitkradar"
    ],
@@ -21,7 +21,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "AI价格雷达"
   },
   {
@@ -67,6 +67,28 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "AI价格雷达",
+   "days_left": null
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
+   "src": "aitkradar",
+   "kind": "deal",
+   "title": "Qoder 匿名模型 HungerG 免费体验（11-23~11-30）",
+   "cat": "免费额度",
+   "detail": "不消耗 Credits，不设每日次数上限",
+   "deadline": "2026-11-30",
+   "basis": "https://docs.qoder.cn/events/hungerg-free",
+   "link_source": "https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
+   "link_vendor": "https://docs.qoder.cn/events/hungerg-free",
+   "srcs": [
+    "aitkradar"
+   ],
+   "keys": [
+    "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -4275,7 +4297,7 @@
    "kind": "deal",
    "title": "Qoder HungerG 匿名模型限免（CN 个人用户）",
    "cat": "限时活动",
-   "detail": "11/23 24:00–11/30 24:00 选择 HungerG 不消耗 Credits、不限次数、无需领取，余额 0 也能用。",
+   "detail": "11/23–11/30 调用 HungerG 不消耗 Credits、无需领取；单账号设每日合理上限（付费用户更高），高峰可能排队。",
    "deadline": "2026-11-30",
    "basis": "https://mp.weixin.qq.com/s/VhcglOceH15bysZcAwsBtw",
    "link_source": "https://token-fbi.com/table/",
@@ -4286,8 +4308,8 @@
    "keys": [
     "tokfbi:qoderhungerg匿名模型限免（cn个人用户）"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "Token FBI",
    "days_left": null
   },
@@ -4942,7 +4964,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "days_left": 1,
+   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -4950,7 +4972,7 @@
     "tokentab:bailian-qwen4"
    ],
    "is_new": false,
-   "notify": false,
+   "notify": true,
    "src_name": "TokenTab 次元塔"
   },
   {

@@ -1,6 +1,10 @@
-【AI 优惠雷达】11-24 14:51
+【AI 优惠雷达】11-25 13:17
 
 ■ 新活动
-Qoder HungerG 匿名模型限免（CN 个人用户） ｜ https://qoder.com.cn/
+Qoder 匿名模型 HungerG 免费体验（11-23~11-30） ｜ https://docs.qoder.cn/events/hungerg-free
+
+■ 即将截止
+百炼 qwen4-max-preview 预览 2 折 ｜ 今天截止 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview
+阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ 今天截止 ｜ https://www.aliyun.com/activity/hub/qianwenai1111
 
 ⚠ 来源异常：DevTk.AI，本次结果可能不完整

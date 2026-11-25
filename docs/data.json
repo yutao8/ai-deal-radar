@@ -1,31 +1,31 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-24T14:51:40+08:00",
- "generated_date": "2026-11-24",
+ "generated_at": "2026-11-25T13:17:58+08:00",
+ "generated_date": "2026-11-25",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 250,
+  "total": 251,
   "new": 1,
   "new_deals": 1,
   "new_resources": 0,
   "expiring": 2,
-  "expiring_new": 0,
+  "expiring_new": 2,
   "failed_sources": 1
  },
  "new_deals": [
   {
-   "key": "tokfbi:qoderhungerg匿名模型限免（cn个人用户）",
-   "title": "Qoder HungerG 匿名模型限免（CN 个人用户）",
-   "detail": "11/23 24:00–11/30 24:00 选择 HungerG 不消耗 Credits、不限次数、无需领取，余额 0 也能用。",
-   "cat": "限时活动",
-   "link": "https://qoder.com.cn/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://qoder.com.cn/",
-   "src_name": "Token FBI",
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
+   "title": "Qoder 匿名模型 HungerG 免费体验（11-23~11-30）",
+   "detail": "不消耗 Credits，不设每日次数上限",
+   "cat": "免费额度",
+   "link": "https://docs.qoder.cn/events/hungerg-free",
+   "link_source": "https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
+   "link_vendor": "https://docs.qoder.cn/events/hungerg-free",
+   "src_name": "AI价格雷达",
    "srcs": [
-    "tokfbi"
+    "aitkradar"
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
@@ -50,9 +50,9 @@
    ],
    "deadline": "2026-11-25",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
@@ -68,12 +68,49 @@
    ],
    "deadline": "2026-11-25",
    "kind": "deal",
-   "days_left": 1,
+   "days_left": 0,
    "is_new": false,
-   "notify": false
+   "notify": true
   }
  ],
- "expiring_new": [],
+ "expiring_new": [
+  {
+   "key": "tokentab:bailian-qwen4",
+   "title": "百炼 qwen4-max-preview 预览 2 折",
+   "detail": "预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用",
+   "cat": "大模型 API",
+   "link": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-11-25",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "title": "阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）",
+   "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
+   "cat": "限时特价",
+   "link": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
+   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "src_name": "AI价格雷达",
+   "srcs": [
+    "aitkradar"
+   ],
+   "deadline": "2026-11-25",
+   "kind": "deal",
+   "days_left": 0,
+   "is_new": false,
+   "notify": true
+  }
+ ],
  "events": [],
  "failed_sources": [
   {
@@ -82,16 +119,17 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-24 14:51\n\n■ 新活动\nQoder HungerG 匿名模型限免（CN 个人用户） ｜ https://qoder.com.cn/\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
+ "brief": "【AI 优惠雷达】11-25 13:17\n\n■ 新活动\nQoder 匿名模型 HungerG 免费体验（11-23~11-30） ｜ https://docs.qoder.cn/events/hungerg-free\n\n■ 即将截止\n百炼 qwen4-max-preview 预览 2 折 ｜ 今天截止 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ 今天截止 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
  "brief_meta": {
-  "chars": 108,
+  "chars": 366,
   "dropped": 0,
-  "items": 1,
+  "items": 3,
   "blocks": {
-   "新活动": 1
+   "新活动": 1,
+   "即将截止": 2
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-24（14:51）\n\n### 新活动 1 条\n\n- Qoder HungerG 匿名模型限免（CN 个人用户）｜截止 2026-11-30\n  11/23 24:00–11/30 24:00 选择 HungerG 不消耗 Credits、不限次数、无需领取，余额 0 也能用。\n  来源 https://token-fbi.com/table/\n  官方 https://qoder.com.cn/\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-25（13:17）\n\n### 新活动 1 条\n\n- Qoder 匿名模型 HungerG 免费体验（11-23~11-30）｜截止 2026-11-30\n  不消耗 Credits，不设每日次数上限\n  来源 https://aitkradar.cn/deals/manual-qoder-hungerg-free/\n  官方 https://docs.qoder.cn/events/hungerg-free\n\n### 即将截止 2 条\n\n- 百炼 qwen4-max-preview 预览 2 折 — 2026-11-25（今天截止）\n  预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n- 阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） — 2026-11-25（今天截止）\n  Credits 低至 2 折；错峰再 4 折（合 0.8 折）\n  来源 https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/\n  官方 https://www.aliyun.com/activity/hub/qianwenai1111\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
 }
