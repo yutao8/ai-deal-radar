@@ -1,35 +1,13 @@
 {
  "stage": 2,
  "title": "筛选去重：剔除非当前有效条目，跨站同活动合并为一条",
- "generated_at": "2026-11-25T13:17:58+08:00",
- "count": 251,
+ "generated_at": "2026-11-26T12:48:00+08:00",
+ "count": 250,
  "split": {
-  "deal": 28,
+  "deal": 27,
   "res": 223
  },
  "items": [
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
-   "src": "aitkradar",
-   "kind": "deal",
-   "title": "阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25）",
-   "cat": "限时特价",
-   "detail": "Credits 低至 2 折；错峰再 4 折（合 0.8 折）",
-   "deadline": "2026-11-25",
-   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/",
-   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "days_left": 0,
-   "srcs": [
-    "aitkradar"
-   ],
-   "keys": [
-    "aitkradar:https://aitkradar.cn/deals/manual-aliyun-qwen4-max-preview/"
-   ],
-   "is_new": false,
-   "notify": true,
-   "src_name": "AI价格雷达"
-  },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
    "src": "aitkradar",
@@ -93,8 +71,8 @@
    "keys": [
     "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "AI价格雷达",
    "days_left": null
   },
@@ -3886,6 +3864,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -3894,8 +3873,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:联通云codingplan（免费体验）",
@@ -4970,7 +4948,6 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "days_left": 0,
    "srcs": [
     "tokentab"
    ],
@@ -4978,8 +4955,9 @@
     "tokentab:bailian-qwen4"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "TokenTab 次元塔"
+   "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
   },
   {
    "key": "tokentab:zhipu-new",

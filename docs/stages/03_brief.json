@@ -1,16 +1,12 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-25T13:17:58+08:00",
+ "generated_at": "2026-11-26T12:48:00+08:00",
  "meta": {
-  "chars": 366,
+  "chars": 45,
   "dropped": 0,
-  "items": 3,
-  "blocks": {
-   "新活动": 1,
-   "即将截止": 2
-  },
+  "items": 0,
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-25 13:17\n\n■ 新活动\nQoder 匿名模型 HungerG 免费体验（11-23~11-30） ｜ https://docs.qoder.cn/events/hungerg-free\n\n■ 即将截止\n百炼 qwen4-max-preview 预览 2 折 ｜ 今天截止 ｜ https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n阿里云百炼：千问 qwen4-max-preview 预览：Credits 低至 2 折（11-11~11-25） ｜ 今天截止 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
+ "brief": "【AI 优惠雷达】11-26 12:48\n\n本次无新增活动，也无新进入提醒窗口的截止条目。"
 }
