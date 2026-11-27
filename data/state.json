@@ -343,7 +343,12 @@
   "tokfbi:书生·浦语internlm开放api": "2026-11-22",
   "aitkradar:https://aitkradar.cn/deals/manual-volc-ds41-monthpack/": "2026-11-23",
   "tokfbi:qoderhungerg匿名模型限免（cn个人用户）": "2026-11-24",
-  "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/": "2026-11-25"
+  "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/": "2026-11-25",
+  "tokentab:tencent-tp-offpeak": "2026-11-27",
+  "tokentab:g-elevenlabs-bf": "2026-11-27",
+  "tokentab:g-google-student": "2026-11-27",
+  "tokentab:g-stt-credits": "2026-11-27",
+  "tokentab:g-grok-free": "2026-11-27"
  },
  "expiring_notified": {
   "tokfbi:workbuddy": 0,
@@ -355,8 +360,20 @@
   "tokentab:tencent-hy4-tp": 0,
   "tokentab:g-antigravity": 0,
   "apiprice:https://apiprice.app/zh/deals/#codex-gpt56sol-promo": 0,
-  "tokentab:bailian-qwen4": 0
+  "apiprice:https://apiprice.app/zh/deals/#gemini-4-argon-promo": 3,
+  "tokentab:g-gemini-argon": 3,
+  "tokfbi:qoderhungerg匿名模型限免（cn个人用户）": 3,
+  "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/": 3,
+  "tokfbi:七牛云conatusfree（1024免费模型季）": 3,
+  "tokentab:qiniu-1024": 3,
+  "tokfbi:国家超算互联网scnet（双11科研智能体）": 3,
+  "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/": 3,
+  "tokentab:tencent-hy4-half": 3,
+  "tokentab:tencent-auto-11": 3,
+  "tokentab:tencent-tp-offpeak": 3,
+  "tokentab:bailian-tp": 3,
+  "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/": 3
  },
- "last_run": "2026-11-26T12:48:00+08:00",
+ "last_run": "2026-11-27T12:52:24+08:00",
  "first_run": "2026-10-30T14:13:34+08:00"
 }

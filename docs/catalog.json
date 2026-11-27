@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T12:48:00+08:00",
- "total": 250,
+ "generated_at": "2026-11-27T12:52:24+08:00",
+ "total": 254,
  "items": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
@@ -13,6 +13,7 @@
    "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
    "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "days_left": 3,
    "srcs": [
     "aitkradar",
     "tokentab"
@@ -22,9 +23,8 @@
     "tokentab:bailian-tp"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
@@ -37,6 +37,7 @@
    "basis": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "link_source": "https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
    "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
@@ -44,9 +45,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
@@ -59,6 +59,7 @@
    "basis": "https://docs.qoder.cn/events/hungerg-free",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
    "link_vendor": "https://docs.qoder.cn/events/hungerg-free",
+   "days_left": 3,
    "srcs": [
     "aitkradar"
    ],
@@ -66,9 +67,8 @@
     "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "AI价格雷达",
-   "days_left": null
+   "notify": true,
+   "src_name": "AI价格雷达"
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-tencent-tokenhub-welcome/",
@@ -345,9 +345,9 @@
    "cat": "组合权益",
    "detail": "千问办公个人版：标准版连续包月 78 元、年付 823 元；高级版 158 元、",
    "deadline": "",
-   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "basis": "https://qianwen.aliyun.com/",
    "link_source": "https://aitkradar.cn/deals/qwenwork-benefits-1dad82ce/",
-   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_vendor": "https://qianwen.aliyun.com/",
    "srcs": [
     "aitkradar"
    ],
@@ -525,9 +525,9 @@
    "cat": "组合权益",
    "detail": "个人高级版连续包月8折158元/月，年付7折1663元/年",
    "deadline": "",
-   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "basis": "https://qianwen.aliyun.com/",
    "link_source": "https://aitkradar.cn/deals/qwenwork-benefits-8728580f/",
-   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_vendor": "https://qianwen.aliyun.com/",
    "srcs": [
     "aitkradar"
    ],
@@ -635,9 +635,9 @@
    "cat": "赠送额度",
    "detail": "新用户首次进入个人版，限时赠2000积分，有效期3个月",
    "deadline": "",
-   "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "basis": "https://qianwen.aliyun.com/",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-qwenwork-newuser/",
-   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
+   "link_vendor": "https://qianwen.aliyun.com/",
    "srcs": [
     "aitkradar"
    ],
@@ -1181,9 +1181,9 @@
    "key": "aitkradar:https://aitkradar.cn/deals/manual-doubao-work-001x/",
    "src": "aitkradar",
    "kind": "res",
-   "title": "豆包工作 接入第三方模型+限时特惠（Lite/DS V4.1）",
+   "title": "豆包工作 模型倍率更新（GLM5.4/Qwen4Max 新上线）",
    "cat": "限时特价",
-   "detail": "豆包2.1 Lite / DS V4.1 Flash 限时 0.01x",
+   "detail": "Lite/DS V4.1 Flash 0.01x；GLM5.4 0.80x",
    "deadline": "",
    "basis": "https://www.doubao.com/work/",
    "link_source": "https://aitkradar.cn/deals/manual-doubao-work-001x/",
@@ -1234,6 +1234,7 @@
    "basis": "https://ai.google.dev/gemini-api/docs/pricing",
    "link_source": "https://apiprice.app/zh/deals/#gemini-4-argon-promo",
    "link_vendor": "https://ai.google.dev/gemini-api/docs/pricing",
+   "days_left": 3,
    "srcs": [
     "apiprice",
     "tokentab"
@@ -1243,9 +1244,8 @@
     "tokentab:g-gemini-argon"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "apiprice",
-   "days_left": null
+   "notify": true,
+   "src_name": "apiprice"
   },
   {
    "key": "apiprice:https://apiprice.app/zh/deals/#gemini-3-8-flash-promo",
@@ -2848,7 +2848,7 @@
    "kind": "res",
    "title": "Cohere 试用 Key",
    "cat": "免费额度",
-   "detail": "调用完全免费｜官方明确写了：限速，且不允许用于生产或商业用途。想上线必须换付费 Key，别拿去跑正经业务。需海外网络",
+   "detail": "调用完全免费｜限速，不允许生产或商用；上线要换付费 Key",
    "deadline": "",
    "basis": "",
    "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
@@ -2916,7 +2916,7 @@
    "kind": "res",
    "title": "Cerebras 试用额度",
    "cat": "免费额度",
-   "detail": "绑卡送 5 美元 · 30 天过期｜网传「每天免费 100 万 token」不准确：官方 FAQ 明说没有永久免费层，新号要绑支付方式才拿到 5 美元试用金，30 天后过期；100 万 token 只是试用期内的每日速率上限。想长期白用别指望它",
+   "detail": "绑卡送 5 美元 · 30 天过期｜没有永久免费层；要绑支付方式，$5 试用金 30 天过期",
    "deadline": "",
    "basis": "",
    "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
@@ -2940,7 +2940,7 @@
    "kind": "res",
    "title": "Groq 免费层",
    "cat": "免费额度",
-   "detail": "每天 1,000 次调用｜算的是调用次数，不是字数：gpt-oss-120b、qwen-3.8-27b 都是每分钟 30 次、每天 1,000 次。网传的每天 14,400 次属于 prompt-guard 这类内容审核小模型，不是对话模型。限速按组织算，多开 Key 不叠加。需海外网络",
+   "detail": "每天 1,000 次调用｜按调用次数算；gpt-oss-120b、qwen-3.8-27b 每分钟 30 次",
    "deadline": "",
    "basis": "",
    "link_source": "https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub",
@@ -3327,6 +3327,7 @@
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -3335,8 +3336,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:字节trae（aiide）",
@@ -3858,7 +3858,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -4078,6 +4078,7 @@
    "basis": "https://www.qiniu.com/ai/free-models/conatus-2026",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.qiniu.com/ai/free-models/conatus-2026",
+   "days_left": 3,
    "srcs": [
     "tokentab",
     "tokfbi"
@@ -4087,9 +4088,8 @@
     "tokentab:qiniu-1024"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "notify": true,
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:商汤小浣熊（办公agent）",
@@ -4170,6 +4170,7 @@
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.scnet.cn/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -4177,9 +4178,8 @@
     "tokfbi:国家超算互联网scnet（双11科研智能体）"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "notify": true,
+   "src_name": "Token FBI"
   },
   {
    "key": "tokfbi:麦块云·每日签到送1亿token（deepseek）",
@@ -4280,6 +4280,7 @@
    "basis": "https://mp.weixin.qq.com/s/VhcglOceH15bysZcAwsBtw",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://qoder.com.cn/",
+   "days_left": 3,
    "srcs": [
     "tokfbi"
    ],
@@ -4287,9 +4288,8 @@
     "tokfbi:qoderhungerg匿名模型限免（cn个人用户）"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "Token FBI",
-   "days_left": null
+   "notify": true,
+   "src_name": "Token FBI"
   },
   {
    "key": "tokentab:wb-invite",
@@ -4297,7 +4297,7 @@
    "kind": "res",
    "title": "WorkBuddy 邀请好友",
    "cat": "Agent/编程助手",
-   "detail": "付费升级双方各得 500｜好友 30 天内付费升级，双方各得 500",
+   "detail": "付费升级双方各得 500｜好友 30 天内付费升级才算",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4321,7 +4321,7 @@
    "kind": "res",
    "title": "WorkBuddy 每月 500 积分",
    "cat": "Agent/编程助手",
-   "detail": "每月 1 日自动到账｜免费版基础额度，当月有效、不累积",
+   "detail": "每月 1 日自动到账｜免费版基础额度，当月有效不累积",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4365,7 +4365,7 @@
    "kind": "deal",
    "title": "QClaw 老用户迁移补贴",
    "cat": "Agent/编程助手",
-   "detail": "约 1,000 积分｜QClaw 将于 12-24 停止运营，老用户去官网顶部迁移到 WorkBuddy 可领（1 个月有效）",
+   "detail": "约 1,000 积分｜QClaw 12-24 停运，官网顶部迁移，1 个月内可领",
    "deadline": "2026-12-24",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4409,7 +4409,7 @@
    "kind": "res",
    "title": "GLM Coding 7 天体验卡",
    "cat": "Agent/编程助手",
-   "detail": "2,000 积分 · 7 天｜没订阅过的账号限领一次，2,000 积分 7 天后作废",
+   "detail": "2,000 积分 · 7 天｜没订阅过的账号限领一次，7 天作废",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4431,7 +4431,7 @@
    "kind": "deal",
    "title": "智谱 × 杭州 Coding 计划",
    "cat": "Agent/编程助手",
-   "detail": "Token 减免最高 55%｜在杭个人季卡减 44%、年卡减 51%，上城企业年卡减 55%；个人需杭州社保参保或在校证明，额满即止",
+   "detail": "个人季卡 44% · 年卡 51%｜55% 只给上城区企业；个人需杭州社保或在校证明，一人一次",
    "deadline": "2026-12-09",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4475,7 +4475,7 @@
    "kind": "res",
    "title": "秒悟 Meoo 免费版",
    "cat": "Agent/编程助手",
-   "detail": "¥0 月费 · 每天 2,000 积分｜免费版首月送 5,000 积分，每日登录再送 2,000",
+   "detail": "¥0 月费 · 每天 2,000 积分｜首月送 5,000，每日登录再送 2,000",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4497,7 +4497,7 @@
    "kind": "res",
    "title": "Trae 免费档",
    "cat": "Agent/编程助手",
-   "detail": "¥0 · 500 积分/月｜有免费档，付费 ¥49 起，内置豆包、Kimi",
+   "detail": "¥0 · 500 积分/月｜内置豆包、Kimi，付费 ¥49 起",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4519,7 +4519,7 @@
    "kind": "deal",
    "title": "文心快码 Auto-Free 通道",
    "cat": "Agent/编程助手",
-   "detail": "Pro 150k / Max 500k tokens/h｜限时到 12-31 的是 Max 档：没模型额度时自动切 Auto-Free、500k tokens/h 不限量；Pro 档 150k 是常设。免费版注册送 5,000 积分",
+   "detail": "Pro 150k / Max 500k tokens/h｜Max 档 500k tokens/h 限时到 12-31，Pro 档 150k 常设",
    "deadline": "2026-12-31",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4607,11 +4607,12 @@
    "kind": "deal",
    "title": "智谱 AutoClaw 每周额度",
    "cat": "Agent/编程助手",
-   "detail": "1 亿 Token · 登录即领｜本期 11-16 至 11-22，一人一次，仅客户端内可用；折 10,000 积分，11-22 23:59 作废",
-   "deadline": "2026-11-22",
+   "detail": "1 亿 Token · 登录即领｜一人一次，仅客户端内可用；11-29 23:59 作废",
+   "deadline": "2026-11-29",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W3/",
+   "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W4/",
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -4620,20 +4621,19 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:qoder-1111",
    "src": "tokentab",
-   "kind": "deal",
+   "kind": "res",
    "title": "Qoder CN 双 11 首月 19.9 元",
    "cat": "Agent/编程助手",
-   "detail": "首月 ¥19.9 · 新客首购｜另含 300 Credits + 2 周试用",
-   "deadline": "2026-11-30",
+   "detail": "首月 ¥19.9｜官方没给截止日；续费另送 1,000 Qwen Credits",
+   "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://qoder.cn/",
+   "link_vendor": "https://qoder.cn/pricing",
    "srcs": [
     "tokentab"
    ],
@@ -4651,7 +4651,7 @@
    "kind": "deal",
    "title": "小浣熊 SenseNova 6.8 限免",
    "cat": "Agent/编程助手",
-   "detail": "限免至 12-01｜三端同账号，对话与文件互通；免费版每天 300 积分，当日清零不累计",
+   "detail": "限免至 12-01｜免费版每天 300 积分，当日清零",
    "deadline": "2026-12-01",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4673,7 +4673,7 @@
    "kind": "res",
    "title": "ZCode 每晚 3 亿 Token",
    "cat": "Agent/编程助手",
-   "detail": "每天 3 亿 Token · 19:00 开领｜19:00 领、23:00 到次日 09:00 才能用；只能选 GLM-5.3-Flash，只在客户端内有效，额度当天清零不累计。官方没公布结束日期，别当永久福利",
+   "detail": "每天 3 亿 Token · 19:00 开领｜19:00 领，23:00-09:00 可用；只限 GLM-5.3-Flash，仅客户端",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4695,7 +4695,7 @@
    "kind": "res",
    "title": "AutoClaw 新人礼 2 亿 Token",
    "cat": "Agent/编程助手",
-   "detail": "新号 2 亿 Token · 官网标 ¥120｜官网首页写「2 亿 tokens · 价值 120 元」，限新号一次性；10 月底另一版写「1 亿 / ¥60」，以客户端实际到账为准。产品内额度，也不能拿去当 API Key 调别的软件",
+   "detail": "新号 2 亿 Token · 官网标 ¥120｜限新号一次性；产品内额度，不能当 API Key 用",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4717,7 +4717,7 @@
    "kind": "res",
    "title": "天工双十一返场 视频 0 积分",
    "cat": "Agent/编程助手",
-   "detail": "0 积分 · 最高畅用 60 天｜Seedance 2.5、Wan 3.0、可灵 4.0、H3 四款模型 0 积分；「畅用 60 天」是年包会员才有，官方没写结束日、按模型限量，以站内活动页为准",
+   "detail": "0 积分 · 最高畅用 60 天｜四款模型 0 积分；畅用 60 天仅年包会员，按模型限量",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4739,7 +4739,7 @@
    "kind": "res",
    "title": "编程助手免费档",
    "cat": "永久免费·Agent/编程助手",
-   "detail": "完全免费｜Qoder CN 社区版（阿里，原通义灵码）、CodeBuddy 个人版（腾讯）、CodeGeeX（智谱）都不要钱，日常补全够用",
+   "detail": "完全免费｜CodeBuddy 个人版、CodeGeeX、Qoder CN 社区版",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4783,11 +4783,12 @@
    "kind": "deal",
    "title": "腾讯云 Token Plan Hy4 2.5 折",
    "cat": "大模型 API",
-   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-30 12:00，Hy4 打 2.5 折（官方 11-16 更新，原写 11-17 已延后）；这是 Token Plan 积分价，和按量五折是两回事，别混一起算",
+   "detail": "¥1.5 / ¥4.5 每百万｜11-04 至 11-30 12:00；是 Token Plan 积分价，不是按量价",
    "deadline": "2026-11-30",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -4796,8 +4797,29 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
+  },
+  {
+   "key": "tokentab:tencent-tp-offpeak",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "腾讯云 Token Plan 空闲时段低价",
+   "cat": "大模型 API",
+   "detail": "flash 4 折 / v4-pro 7 折｜Flash 空闲 4 折 ¥0.4/¥1.6；工作日 9-12、14-18 点外算空闲",
+   "deadline": "2026-11-30",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "days_left": 3,
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:tencent-tp-offpeak"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:tencent-hy4-half",
@@ -4805,11 +4827,12 @@
    "kind": "deal",
    "title": "腾讯云 Hy4 系列按量五折",
    "cat": "大模型 API",
-   "detail": "¥0.25 / ¥1 每百万起｜TokenHub 直接调用按目录价五折结算：Hy4 flash 到 11-30 12:00（原价 ¥0.5 / ¥2），标准版 Hy4 到 12-31 23:59（原价 ¥6 / ¥18），缓存也一起五折。是按量价，与 Token Plan 的积分价是两套账",
+   "detail": "¥0.25 / ¥1 每百万起｜按量价五折，缓存同折；Hy4 flash 到 11-30，标准版到 12-31",
    "deadline": "2026-11-30",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/buy-guide/1823/130055",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -4817,9 +4840,8 @@
     "tokentab:tencent-hy4-half"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:tencent-auto-11",
@@ -4827,11 +4849,12 @@
    "kind": "deal",
    "title": "腾讯云 Token Plan Auto 统一 11 积分",
    "cat": "大模型 API",
-   "detail": "¥0.55 每百万 · 一口价｜Auto 档不分输入输出都按 11 积分扣；同期 Kimi K3 7.5 折、GLM-5.3 5.5 折。官方文档写到 11-30 12:00",
+   "detail": "¥0.55 每百万 · 一口价｜不分输入输出按 11 积分扣；同期 Kimi K3 7.5 折、GLM-5.3 5.5 折",
    "deadline": "2026-11-30",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -4839,9 +4862,8 @@
     "tokentab:tencent-auto-11"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:yuanqi",
@@ -4849,7 +4871,7 @@
    "kind": "res",
    "title": "腾讯元器 每月 100 万 Token",
    "cat": "大模型 API",
-   "detail": "每月 100 万 · 长期｜官方每月 100 万 token，公众号和企业微信不限量",
+   "detail": "每月 100 万 · 长期｜公众号和企业微信不限量",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4893,7 +4915,7 @@
    "kind": "deal",
    "title": "火山方舟 Agent Plan 抵扣折扣",
    "cat": "大模型 API",
-   "detail": "deepseek-flash 系数 0.875｜文档 11-17 更新：flash 与 kimi-k3.1-pro 都延到 2027-01-31，Auto 模式到 2027-03-31；economy、k2.8 与 glm-5.3-flash 改成长期政策，不再设截止日",
+   "detail": "flash 系数 0.75｜flash 系数 0.75 到 2027-01-31；glm-5.4 到 12-07",
    "deadline": "2027-01-31",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -4925,28 +4947,6 @@
    ],
    "keys": [
     "tokentab:bailian-new"
-   ],
-   "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
-  },
-  {
-   "key": "tokentab:bailian-qwen4",
-   "src": "tokentab",
-   "kind": "deal",
-   "title": "百炼 qwen4-max-preview 预览 2 折",
-   "cat": "大模型 API",
-   "detail": "预览期 2 折 · 夜间 0.8 折｜11-11 10:00 至 11-25 24:00 预览，用完就下线；22:00-08:00 再打 4 折。这个模型只能挂在 Token Plan 里用",
-   "deadline": "2026-11-25",
-   "basis": "",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-   "srcs": [
-    "tokentab"
-   ],
-   "keys": [
-    "tokentab:bailian-qwen4"
    ],
    "is_new": false,
    "notify": false,
@@ -5003,7 +5003,7 @@
    "kind": "res",
    "title": "硅基流动新人赠金",
    "cat": "大模型 API",
-   "detail": "约 ¥16 无门槛代金券｜「9B 以下永久免费」已取消，只剩语音",
+   "detail": "约 ¥16 无门槛代金券｜仅语音模型免费，9B 以下已取消",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5025,7 +5025,7 @@
    "kind": "res",
    "title": "Kimi 新人代金券",
    "cat": "大模型 API",
-   "detail": "约 ¥15 · 永久有效｜开放平台注册即送，形式以页面为准",
+   "detail": "约 ¥15 · 永久有效｜注册即送，形式以页面为准",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5069,7 +5069,7 @@
    "kind": "deal",
    "title": "移动云 MoMA 2,500 万 Token",
    "cat": "大模型 API",
-   "detail": "2,500 万 Token · 30 天有效｜官方文档 11-03 更新：2026-02-15 至 12-31 期间领取，一人一次、领后 30 天有效。只抵扣部分自营模型，合作模型与机密模型不支持；限流 3,000 tokens/分钟。入口在 MoMA 控制台模型广场右上角",
+   "detail": "2,500 万 Token · 30 天有效｜一人一次，领后 30 天有效；只抵自营模型，限流 3,000 tokens/分钟",
    "deadline": "2026-12-31",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5113,7 +5113,7 @@
    "kind": "res",
    "title": "讯飞 Spark-X2.6-4B 限时免费",
    "cat": "大模型 API",
-   "detail": "输入输出全免｜4B 端侧小模型，模型集市里点免费领取；官方只写限时、没给结束日。旗舰 X2.6 是限时 6 折，不免费",
+   "detail": "输入输出全免｜模型集市免费领取；旗舰 X2.6 是 6 折，不免费",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5157,7 +5157,7 @@
    "kind": "res",
    "title": "DeepSeek 新人 500 万 Token",
    "cat": "大模型 API",
-   "detail": "注册即送｜V4-Pro / V4-Flash，写代码便宜；有效期以控制台为准",
+   "detail": "注册即送｜V4-Pro / V4-Flash，有效期以控制台为准",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5201,7 +5201,7 @@
    "kind": "res",
    "title": "永久免费模型",
    "cat": "永久免费·大模型 API",
-   "detail": "输入输出全免｜Hunyuan-Lite（腾讯）、GLM-4.7-Flash（智谱）、ERNIE-Speed-8K（百度）、Spark Lite（讯飞）——轻量任务长期零成本",
+   "detail": "输入输出全免｜混元 Lite、GLM-4.7-Flash、ERNIE-Speed-8K、Spark Lite",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5223,7 +5223,7 @@
    "kind": "res",
    "title": "GitHub Copilot 免费档",
    "cat": "海外",
-   "detail": "每月 2,000 次补全｜官方原文就是每月 2,000 次。对话额度已改成 GitHub AI Credits 配额，不再写死次数；另有学生档同样免费。需海外网络",
+   "detail": "每月 2,000 次补全｜补全 2,000 次/月；对话走 AI Credits 配额",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5245,7 +5245,7 @@
    "kind": "res",
    "title": "Cursor 免费档",
    "cat": "海外",
-   "detail": "免费 · 额度未公布｜官方对照表全写 Limited，一个具体次数都不给，以客户端内显示为准。网上教程传的「50 次慢速 + 2000 次补全」在官网上已经找不到出处。国内能直接打开",
+   "detail": "免费 · 额度未公布｜官方只写 Limited，次数以客户端为准；国内可直连",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5267,7 +5267,7 @@
    "kind": "res",
    "title": "Windsurf 免费档",
    "cat": "海外",
-   "detail": "免费 · 补全不限次｜需海外网络。windsurf.com/pricing 现在打开的是 Devin 的定价页，Tab 补全与行内编辑不限次，Agent 只写 light quota 没给数字",
+   "detail": "免费 · 补全不限次｜补全与行内编辑不限次，Agent 只写 light quota",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5289,7 +5289,7 @@
    "kind": "res",
    "title": "Kiro 首次升级 Pro 免当月",
    "cat": "海外",
-   "detail": "当月全免 + 500 点试用｜要绑信用卡，次月 1 号起按 20 美元扣费；500 点只给首次升级，12 个月后过期。免费档每月 50 点，够试水。大陆能用哪些模型，以页面显示为准",
+   "detail": "当月全免 + 500 点试用｜要绑信用卡，次月 1 号按 $20 扣费；500 点只给首升，12 个月有效",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5308,14 +5308,15 @@
   {
    "key": "tokentab:g-antigravity",
    "src": "tokentab",
-   "kind": "res",
+   "kind": "deal",
    "title": "Antigravity 免费档",
    "cat": "海外",
-   "detail": "0 元 · Gemini 3.8 Flash 免费｜免费档只剩 Gemini 3.8 Flash 稳当，按周给基础配额，Tab 补全与 Command 不限次。官方两处都写 Claude 与 GPT-OSS 那三款「11-18 移除」，但 11-19 页面仍列着、没改成已撤，还能不能用以客户端为准。需海外网络",
-   "deadline": "",
+   "detail": "0 元 · Gemini 4 Hydrogen 可用｜按周给配额，补全与 Command 不限次；11-30 后只剩 Hydrogen",
+   "deadline": "2026-11-30",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://antigravity.google/docs/models",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -5324,8 +5325,7 @@
    ],
    "is_new": false,
    "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:g-copilot-student",
@@ -5333,7 +5333,7 @@
    "kind": "res",
    "title": "Copilot 学生免费档",
    "cat": "海外",
-   "detail": "认证学生免费｜在校学生做 GitHub 学生认证后免费，功能和免费档接近但限制更宽。需海外网络 + 学生身份",
+   "detail": "认证学生免费｜GitHub 学生认证后免费，限制比免费档宽",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5355,7 +5355,7 @@
    "kind": "deal",
    "title": "ChatGPT 教师计划",
    "cat": "海外",
-   "detail": "认证教师免费｜美国 K-12 认证教育工作者免费用 ChatGPT。官方只写到「有效期至 2027 年 6 月」，没给具体日子，这里的倒计时按月底估算。国内读者基本用不上，当新闻看",
+   "detail": "认证教师免费｜美国 K-12 教师可用；官方只写 2027 年 6 月，倒计时按月底估",
    "deadline": "2027-06-30",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5377,7 +5377,7 @@
    "kind": "res",
    "title": "OpenAI 非营利折扣",
    "cat": "海外",
-   "detail": "最高减 75%｜面向非营利组织的 Business / Enterprise 折扣，要走资质审核，个人号用不上。长期政策，未标截止",
+   "detail": "最高减 75%｜非营利组织专享，需资质审核，个人号不适用",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5399,7 +5399,7 @@
    "kind": "res",
    "title": "Workers AI 免费额度",
    "cat": "海外",
-   "detail": "每天 1 万个算力点｜官方叫 Neurons，按 GPU 算力消耗算的点数，不是 token；一天 1 万个折成钱约 0.11 美元（≈¥0.8）。模型越大扣得越快，一万只够小脚本跑。Kimi、GLM、DeepSeek 这几个新模型要绑付费方式才能调。需海外网络",
+   "detail": "每天 1 万个算力点｜Neurons 按算力扣点，约 $0.11/天；Kimi、GLM、DeepSeek 需绑卡",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5421,7 +5421,7 @@
    "kind": "res",
    "title": "ElevenLabs 免费档",
    "cat": "海外",
-   "detail": "每月 1 万点 · 约 10 分钟｜官方叫 credits，按音频长短扣点、不是按次，1 万点约合 10 分钟语音。免费档没有商用授权，也不能做声音克隆，要商用得从 Starter 起。点数月底清零不结转。需海外网络",
+   "detail": "每月 1 万点 · 约 10 分钟｜按音频时长扣点；免费档不含商用与声音克隆，月底清零",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5443,7 +5443,7 @@
    "kind": "res",
    "title": "Suno 免费档",
    "cat": "海外",
-   "detail": "每天 50 点 · 约 10 首｜不用绑卡，每天 50 点约合 10 首歌，跑的是 v4.5 / v6-mini 旧模型。免费档不能商用，升级也不会追溯授权，免费期生成的歌永远是个人用途。需海外网络",
+   "detail": "每天 50 点 · 约 10 首｜不用绑卡；免费档不能商用，升级不追溯授权",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5465,7 +5465,7 @@
    "kind": "res",
    "title": "Gemini 免费层",
    "cat": "海外",
-   "detail": "Flash 系列免费｜有免费层这件事准确，但具体次数官方页抓不到，网上传的 1,500 次/天和 50 次/天互相矛盾，你以 AI Studio 控制台里显示的为准。免费层数据可能用于训练，涉密别用。需海外网络",
+   "detail": "Flash 系列免费｜具体次数官方未公布，以 AI Studio 控制台为准；免费层数据可能用于训练",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5487,7 +5487,7 @@
    "kind": "res",
    "title": "Mercury 3 发布期五折",
    "cat": "海外",
-   "detail": "¥0.72 / ¥2.52 每百万 token｜扩散架构，1M 上下文；官网首页标 50% OFF，输入 0.10 美元、输出 0.35 美元每百万，折人民币如上，原价正好翻倍。官方没写折扣到期日，Inception、OpenRouter、Baseten 都能调。需海外网络",
+   "detail": "¥0.72 / ¥2.52 每百万 token｜扩散架构、1M 上下文；没写到期日，OpenRouter 等三方也能调",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5531,7 +5531,7 @@
    "kind": "res",
    "title": "Claude 代码执行免费额度",
    "cat": "海外",
-   "detail": "每天 50 小时执行时长｜需海外网络。指沙箱里跑代码的时长，不是模型调用免费，超出按每容器每小时 0.05 美元计。另外 Max 每月送 100 美元 API 额度、Ultra 200、Team 池化最高 500 美元额度",
+   "detail": "每天 50 小时执行时长｜沙箱跑代码时长；超出 $0.05/容器/小时。Max 另送 $100 API 额度",
    "deadline": "",
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
@@ -5544,6 +5544,94 @@
    ],
    "is_new": false,
    "notify": false,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:g-elevenlabs-bf",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "ElevenLabs 黑五年付",
+   "cat": "海外",
+   "detail": "首年 ¥713 起 · 省 55%｜Creator 首年 ¥713、次年 ¥1,584；Pro 首年 ¥3,208",
+   "deadline": "2026-12-01",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://elevenlabs.io/pricing",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:g-elevenlabs-bf"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:g-google-student",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "Google 学生免费一年",
+   "cat": "海外",
+   "detail": "免费 12 个月 · 省 ¥1,727｜SheerID 认证，12-31 前兑换；大陆、港澳、加拿大不可领",
+   "deadline": "2026-12-31",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://gemini.google/students",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:g-google-student"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:g-stt-credits",
+   "src": "tokentab",
+   "kind": "res",
+   "title": "语音转写免费额度",
+   "cat": "海外",
+   "detail": "¥360 起 · 约 238 小时｜AssemblyAI 新号 $50、免绑卡；Deepgram 列 $200，均一次性",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://assemblyai.com/blog/speech-to-text-api-pricing",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:g-stt-credits"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "TokenTab 次元塔",
+   "days_left": null
+  },
+  {
+   "key": "tokentab:g-grok-free",
+   "src": "tokentab",
+   "kind": "res",
+   "title": "Grok 免费档",
+   "cat": "海外",
+   "detail": "0 元 · 只有文字与语音｜只有文字与语音，图像视频从 Plus 起；输出带水印，付费也去不掉",
+   "deadline": "",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://x.ai/grok",
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:g-grok-free"
+   ],
+   "is_new": true,
+   "notify": true,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   }
