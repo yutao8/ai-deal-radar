@@ -1,17 +1,16 @@
 {
  "stage": 3,
  "title": "文案：手机可读纯文本，推送端直接发送",
- "generated_at": "2026-11-27T12:52:24+08:00",
+ "generated_at": "2026-11-28T12:37:52+08:00",
  "meta": {
-  "chars": 1102,
+  "chars": 266,
   "dropped": 0,
-  "items": 14,
+  "items": 3,
   "blocks": {
-   "新活动": 3,
-   "即将截止": 9,
-   "新增免费资源": 2
+   "新活动": 1,
+   "即将截止": 2
   },
   "limit": 1500
  },
- "brief": "【AI 优惠雷达】11-27 12:52\n\n■ 新活动\nElevenLabs 黑五年付 ｜ https://elevenlabs.io/pricing\nGoogle 学生免费一年 ｜ https://gemini.google/students\n腾讯云 Token Plan 空闲时段低价 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042\n\n■ 即将截止\nGemini 4 Argon 推广价（到 11-30） ｜ 剩 3 天 ｜ https://ai.google.dev/gemini-api/docs/pricing\nQoder HungerG 匿名模型限免（CN 个人用户） ｜ 剩 3 天 ｜ https://qoder.com.cn/\nQoder 匿名模型 HungerG 免费体验（11-23~11-30） ｜ 剩 3 天 ｜ https://docs.qoder.cn/events/hungerg-free\n七牛云 Conatus Free（1024 免费模型季） ｜ 剩 3 天 ｜ https://www.qiniu.com/ai/free-models/conatus-2026\n国家超算互联网 SCNet（双 11 科研智能体） ｜ 剩 3 天 ｜ https://www.scnet.cn/\n百度千帆：千帆企业版 Token Plan 指定模型闲时 2 折 ｜ 剩 3 天 ｜ https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html\n腾讯云 Hy4 系列按量五折 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/buy-guide/1823/130055\n腾讯云 Token Plan Auto 统一 11 积分 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042\n阿里云百炼Token Plan个人版限时价 ｜ 剩 3 天 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n\n■ 新增免费资源\n语音转写免费额度 ｜ https://assemblyai.com/blog/speech-to-text-api-pricing\nGrok 免费档 ｜ https://x.ai/grok\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
+ "brief": "【AI 优惠雷达】11-28 12:37\n\n■ 新活动\n千问办公（QwenWork，阿里） ｜ https://qwenwork.cn/\n\n■ 即将截止\nElevenLabs 黑五年付 ｜ 剩 3 天 ｜ https://elevenlabs.io/pricing\n小浣熊 SenseNova 6.8 限免 ｜ 剩 3 天 ｜ https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整"
 }

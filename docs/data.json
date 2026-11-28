@@ -1,113 +1,40 @@
 {
  "schema": 2,
  "source": "docs/deals.xml",
- "generated_at": "2026-11-27T12:52:24+08:00",
- "generated_date": "2026-11-27",
+ "generated_at": "2026-11-28T12:37:52+08:00",
+ "generated_date": "2026-11-28",
  "near_days": 3,
  "has_changes": true,
  "counts": {
-  "total": 254,
-  "new": 5,
-  "new_deals": 3,
-  "new_resources": 2,
-  "expiring": 15,
-  "expiring_new": 10,
+  "total": 256,
+  "new": 1,
+  "new_deals": 1,
+  "new_resources": 0,
+  "expiring": 17,
+  "expiring_new": 2,
   "failed_sources": 1
  },
  "new_deals": [
   {
-   "key": "tokentab:tencent-tp-offpeak",
-   "title": "腾讯云 Token Plan 空闲时段低价",
-   "detail": "flash 4 折 / v4-pro 7 折｜Flash 空闲 4 折 ¥0.4/¥1.6；工作日 9-12、14-18 点外算空闲",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/1823/140042",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "src_name": "TokenTab 次元塔",
+   "key": "tokfbi:千问办公（qwenwork，阿里）",
+   "title": "千问办公（QwenWork，阿里）",
+   "detail": "11/26 11:00–12/2 23:59 MiniMax-M3.1-Flash 限免 0 积分、无需领取；同选择器内 Qwen4-Max、GLM-5.4 等其余模型仍按各自系数扣积分。",
+   "cat": "阿里·限时活动",
+   "link": "https://qwenwork.cn/",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://qwenwork.cn/",
+   "src_name": "Token FBI",
    "srcs": [
-    "tokentab"
+    "tokfbi"
    ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:g-elevenlabs-bf",
-   "title": "ElevenLabs 黑五年付",
-   "detail": "首年 ¥713 起 · 省 55%｜Creator 首年 ¥713、次年 ¥1,584；Pro 首年 ¥3,208",
-   "cat": "海外",
-   "link": "https://elevenlabs.io/pricing",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://elevenlabs.io/pricing",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-12-01",
-   "kind": "deal",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:g-google-student",
-   "title": "Google 学生免费一年",
-   "detail": "免费 12 个月 · 省 ¥1,727｜SheerID 认证，12-31 前兑换；大陆、港澳、加拿大不可领",
-   "cat": "海外",
-   "link": "https://gemini.google/students",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://gemini.google/students",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-12-31",
+   "deadline": "2026-12-02",
    "kind": "deal",
    "days_left": null,
    "is_new": true,
    "notify": true
   }
  ],
- "new_resources": [
-  {
-   "key": "tokentab:g-stt-credits",
-   "title": "语音转写免费额度",
-   "detail": "¥360 起 · 约 238 小时｜AssemblyAI 新号 $50、免绑卡；Deepgram 列 $200，均一次性",
-   "cat": "海外",
-   "link": "https://assemblyai.com/blog/speech-to-text-api-pricing",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://assemblyai.com/blog/speech-to-text-api-pricing",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "tokentab:g-grok-free",
-   "title": "Grok 免费档",
-   "detail": "0 元 · 只有文字与语音｜只有文字与语音，图像视频从 Plus 起；输出带水印，付费也去不掉",
-   "cat": "海外",
-   "link": "https://x.ai/grok",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://x.ai/grok",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "",
-   "kind": "res",
-   "days_left": null,
-   "is_new": true,
-   "notify": true
-  }
- ],
+ "new_resources": [],
  "expiring": [
   {
    "key": "tokentab:autoclaw-week",
@@ -123,7 +50,7 @@
    ],
    "deadline": "2026-11-29",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -141,7 +68,7 @@
    ],
    "deadline": "2026-11-29",
    "kind": "deal",
-   "days_left": 2,
+   "days_left": 1,
    "is_new": false,
    "notify": false
   },
@@ -159,7 +86,7 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
@@ -178,9 +105,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokfbi:qoderhungerg匿名模型限免（cn个人用户）",
@@ -196,9 +123,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
@@ -214,9 +141,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokfbi:workbuddy",
@@ -232,28 +159,27 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
   {
-   "key": "tokfbi:七牛云conatusfree（1024免费模型季）",
-   "title": "七牛云 Conatus Free（1024 免费模型季）",
-   "detail": "实名认证后每日 1 亿 Token；单笔充值满 100 元提至每日 10 亿。10/24–11/30，额度每日 0 点重置不结转。",
-   "cat": "七牛云·限时活动",
+   "key": "tokentab:qiniu-1024",
+   "title": "七牛云 Conatus 免费模型",
+   "detail": "认证每日 1 亿 · 充值后 10 亿｜未认证不可调用；充值指满 100 元到账。活动页写 11-30，FAQ 写 12-31",
+   "cat": "大模型 API",
    "link": "https://www.qiniu.com/ai/free-models/conatus-2026",
-   "link_source": "https://token-fbi.com/table/",
+   "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://www.qiniu.com/ai/free-models/conatus-2026",
-   "src_name": "Token FBI",
+   "src_name": "TokenTab 次元塔",
    "srcs": [
-    "tokentab",
-    "tokfbi"
+    "tokentab"
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokfbi:国家超算互联网scnet（双11科研智能体）",
@@ -269,9 +195,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
@@ -287,9 +213,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokentab:tencent-hy4-half",
@@ -305,9 +231,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokentab:tencent-auto-11",
@@ -323,9 +249,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
-   "notify": true
+   "notify": false
   },
   {
    "key": "tokentab:tencent-hy4-tp",
@@ -341,7 +267,7 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
+   "days_left": 2,
    "is_new": false,
    "notify": false
   },
@@ -359,9 +285,9 @@
    ],
    "deadline": "2026-11-30",
    "kind": "deal",
-   "days_left": 3,
-   "is_new": true,
-   "notify": true
+   "days_left": 2,
+   "is_new": false,
+   "notify": false
   },
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
@@ -377,6 +303,42 @@
     "tokentab"
    ],
    "deadline": "2026-11-30",
+   "kind": "deal",
+   "days_left": 2,
+   "is_new": false,
+   "notify": false
+  },
+  {
+   "key": "tokentab:g-elevenlabs-bf",
+   "title": "ElevenLabs 黑五年付",
+   "detail": "首年 ¥713 起 · 省 55%｜Creator 首年 ¥713、次年 ¥1,584；Pro 首年 ¥3,208",
+   "cat": "海外",
+   "link": "https://elevenlabs.io/pricing",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://elevenlabs.io/pricing",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-12-01",
+   "kind": "deal",
+   "days_left": 3,
+   "is_new": false,
+   "notify": true
+  },
+  {
+   "key": "tokentab:xiaohuanxiong",
+   "title": "小浣熊 SenseNova 6.8 限免",
+   "detail": "限免至 12-01｜免费版每天 300 积分，当日清零",
+   "cat": "Agent/编程助手",
+   "link": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+   "src_name": "TokenTab 次元塔",
+   "srcs": [
+    "tokentab"
+   ],
+   "deadline": "2026-12-01",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
@@ -385,183 +347,36 @@
  ],
  "expiring_new": [
   {
-   "key": "apiprice:https://apiprice.app/zh/deals/#gemini-4-argon-promo",
-   "title": "Gemini 4 Argon 推广价（到 11-30）",
-   "detail": "付费档每百万 token 输入 $2.00、输出 $10.00，到 2026-11-30；2026-12-01 起输入 $4.00、输出 $20.00。免费档不可用。",
-   "cat": "限时降价",
-   "link": "https://ai.google.dev/gemini-api/docs/pricing",
-   "link_source": "https://apiprice.app/zh/deals/#gemini-4-argon-promo",
-   "link_vendor": "https://ai.google.dev/gemini-api/docs/pricing",
-   "src_name": "apiprice",
-   "srcs": [
-    "apiprice",
-    "tokentab"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokfbi:qoderhungerg匿名模型限免（cn个人用户）",
-   "title": "Qoder HungerG 匿名模型限免（CN 个人用户）",
-   "detail": "11/23–11/30 调用 HungerG 不消耗 Credits、无需领取；单账号设每日合理上限（付费用户更高），高峰可能排队。",
-   "cat": "限时活动",
-   "link": "https://qoder.com.cn/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://qoder.com.cn/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
-   "title": "Qoder 匿名模型 HungerG 免费体验（11-23~11-30）",
-   "detail": "不消耗 Credits，不设每日次数上限",
-   "cat": "免费额度",
-   "link": "https://docs.qoder.cn/events/hungerg-free",
-   "link_source": "https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
-   "link_vendor": "https://docs.qoder.cn/events/hungerg-free",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokfbi:七牛云conatusfree（1024免费模型季）",
-   "title": "七牛云 Conatus Free（1024 免费模型季）",
-   "detail": "实名认证后每日 1 亿 Token；单笔充值满 100 元提至每日 10 亿。10/24–11/30，额度每日 0 点重置不结转。",
-   "cat": "七牛云·限时活动",
-   "link": "https://www.qiniu.com/ai/free-models/conatus-2026",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://www.qiniu.com/ai/free-models/conatus-2026",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokentab",
-    "tokfbi"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokfbi:国家超算互联网scnet（双11科研智能体）",
-   "title": "国家超算互联网 SCNet（双 11 科研智能体）",
-   "detail": "新户注册领 1 亿词元智能体额度（仅客户端内，网页端与 API 不适用）；客户端旗舰模型词元不限量；活动至 11-30。",
-   "cat": "国家超算互联网·限时活动",
-   "link": "https://www.scnet.cn/",
-   "link_source": "https://token-fbi.com/table/",
-   "link_vendor": "https://www.scnet.cn/",
-   "src_name": "Token FBI",
-   "srcs": [
-    "tokfbi"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
-   "title": "百度千帆：千帆企业版 Token Plan 指定模型闲时 2 折",
-   "detail": "指定模型闲时（22:00-次日8:00）调用低至 2 折",
-   "cat": "限时特价",
-   "link": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
-   "link_source": "https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
-   "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:tencent-hy4-half",
-   "title": "腾讯云 Hy4 系列按量五折",
-   "detail": "¥0.25 / ¥1 每百万起｜按量价五折，缓存同折；Hy4 flash 到 11-30，标准版到 12-31",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/buy-guide/1823/130055",
+   "key": "tokentab:g-elevenlabs-bf",
+   "title": "ElevenLabs 黑五年付",
+   "detail": "首年 ¥713 起 · 省 55%｜Creator 首年 ¥713、次年 ¥1,584；Pro 首年 ¥3,208",
+   "cat": "海外",
+   "link": "https://elevenlabs.io/pricing",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/buy-guide/1823/130055",
+   "link_vendor": "https://elevenlabs.io/pricing",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-01",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
    "notify": true
   },
   {
-   "key": "tokentab:tencent-auto-11",
-   "title": "腾讯云 Token Plan Auto 统一 11 积分",
-   "detail": "¥0.55 每百万 · 一口价｜不分输入输出按 11 积分扣；同期 Kimi K3 7.5 折、GLM-5.3 5.5 折",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/1823/140042",
+   "key": "tokentab:xiaohuanxiong",
+   "title": "小浣熊 SenseNova 6.8 限免",
+   "detail": "限免至 12-01｜免费版每天 300 积分，当日清零",
+   "cat": "Agent/编程助手",
+   "link": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
    "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
+   "link_vendor": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
    "src_name": "TokenTab 次元塔",
    "srcs": [
     "tokentab"
    ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": false,
-   "notify": true
-  },
-  {
-   "key": "tokentab:tencent-tp-offpeak",
-   "title": "腾讯云 Token Plan 空闲时段低价",
-   "detail": "flash 4 折 / v4-pro 7 折｜Flash 空闲 4 折 ¥0.4/¥1.6；工作日 9-12、14-18 点外算空闲",
-   "cat": "大模型 API",
-   "link": "https://cloud.tencent.com/document/product/1823/140042",
-   "link_source": "https://www.tokentab.cn/deals.html",
-   "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "src_name": "TokenTab 次元塔",
-   "srcs": [
-    "tokentab"
-   ],
-   "deadline": "2026-11-30",
-   "kind": "deal",
-   "days_left": 3,
-   "is_new": true,
-   "notify": true
-  },
-  {
-   "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
-   "title": "阿里云百炼Token Plan个人版限时价",
-   "detail": "四档 39/79/139/312 元；新用户 19.5/39.5 元",
-   "cat": "限时特价",
-   "link": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
-   "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "src_name": "AI价格雷达",
-   "srcs": [
-    "aitkradar",
-    "tokentab"
-   ],
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-01",
    "kind": "deal",
    "days_left": 3,
    "is_new": false,
@@ -576,18 +391,17 @@
    "reason": "解析到 0 条，疑似页面结构变动"
   }
  ],
- "brief": "【AI 优惠雷达】11-27 12:52\n\n■ 新活动\nElevenLabs 黑五年付 ｜ https://elevenlabs.io/pricing\nGoogle 学生免费一年 ｜ https://gemini.google/students\n腾讯云 Token Plan 空闲时段低价 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042\n\n■ 即将截止\nGemini 4 Argon 推广价（到 11-30） ｜ 剩 3 天 ｜ https://ai.google.dev/gemini-api/docs/pricing\nQoder HungerG 匿名模型限免（CN 个人用户） ｜ 剩 3 天 ｜ https://qoder.com.cn/\nQoder 匿名模型 HungerG 免费体验（11-23~11-30） ｜ 剩 3 天 ｜ https://docs.qoder.cn/events/hungerg-free\n七牛云 Conatus Free（1024 免费模型季） ｜ 剩 3 天 ｜ https://www.qiniu.com/ai/free-models/conatus-2026\n国家超算互联网 SCNet（双 11 科研智能体） ｜ 剩 3 天 ｜ https://www.scnet.cn/\n百度千帆：千帆企业版 Token Plan 指定模型闲时 2 折 ｜ 剩 3 天 ｜ https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html\n腾讯云 Hy4 系列按量五折 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/buy-guide/1823/130055\n腾讯云 Token Plan Auto 统一 11 积分 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042\n阿里云百炼Token Plan个人版限时价 ｜ 剩 3 天 ｜ https://www.aliyun.com/activity/hub/qianwenai1111\n\n■ 新增免费资源\n语音转写免费额度 ｜ https://assemblyai.com/blog/speech-to-text-api-pricing\nGrok 免费档 ｜ https://x.ai/grok\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
+ "brief": "【AI 优惠雷达】11-28 12:37\n\n■ 新活动\n千问办公（QwenWork，阿里） ｜ https://qwenwork.cn/\n\n■ 即将截止\nElevenLabs 黑五年付 ｜ 剩 3 天 ｜ https://elevenlabs.io/pricing\n小浣熊 SenseNova 6.8 限免 ｜ 剩 3 天 ｜ https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421\n\n⚠ 来源异常：DevTk.AI，本次结果可能不完整",
  "brief_meta": {
-  "chars": 1102,
+  "chars": 266,
   "dropped": 0,
-  "items": 14,
+  "items": 3,
   "blocks": {
-   "新活动": 3,
-   "即将截止": 9,
-   "新增免费资源": 2
+   "新活动": 1,
+   "即将截止": 2
   },
   "limit": 1500
  },
  "should_push": true,
- "report_md": "# AI 优惠雷达 · 2026-11-27（12:52）\n\n### 新活动 3 条\n\n- 腾讯云 Token Plan 空闲时段低价｜截止 2026-11-30\n  flash 4 折 / v4-pro 7 折｜Flash 空闲 4 折 ¥0.4/¥1.6；工作日 9-12、14-18 点外算空闲\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/1823/140042\n\n- ElevenLabs 黑五年付｜截止 2026-12-01\n  首年 ¥713 起 · 省 55%｜Creator 首年 ¥713、次年 ¥1,584；Pro 首年 ¥3,208\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://elevenlabs.io/pricing\n\n- Google 学生免费一年｜截止 2026-12-31\n  免费 12 个月 · 省 ¥1,727｜SheerID 认证，12-31 前兑换；大陆、港澳、加拿大不可领\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://gemini.google/students\n\n### 即将截止 9 条\n\n- Gemini 4 Argon 推广价（到 11-30） — 2026-11-30（剩 3 天）\n  付费档每百万 token 输入 $2.00、输出 $10.00，到 2026-11-30；2026-12-01 起输入 $4.00、输出 $20.00。免费档不可用。\n  来源 https://apiprice.app/zh/deals/#gemini-4-argon-promo\n  官方 https://ai.google.dev/gemini-api/docs/pricing\n- Qoder HungerG 匿名模型限免（CN 个人用户） — 2026-11-30（剩 3 天）\n  11/23–11/30 调用 HungerG 不消耗 Credits、无需领取；单账号设每日合理上限（付费用户更高），高峰可能排队。\n  来源 https://token-fbi.com/table/\n  官方 https://qoder.com.cn/\n- Qoder 匿名模型 HungerG 免费体验（11-23~11-30） — 2026-11-30（剩 3 天）\n  不消耗 Credits，不设每日次数上限\n  来源 https://aitkradar.cn/deals/manual-qoder-hungerg-free/\n  官方 https://docs.qoder.cn/events/hungerg-free\n- 七牛云 Conatus Free（1024 免费模型季） — 2026-11-30（剩 3 天）\n  实名认证后每日 1 亿 Token；单笔充值满 100 元提至每日 10 亿。10/24–11/30，额度每日 0 点重置不结转。\n  来源 https://token-fbi.com/table/\n  官方 https://www.qiniu.com/ai/free-models/conatus-2026\n- 国家超算互联网 SCNet（双 11 科研智能体） — 2026-11-30（剩 3 天）\n  新户注册领 1 亿词元智能体额度（仅客户端内，网页端与 API 不适用）；客户端旗舰模型词元不限量；活动至 11-30。\n  来源 https://token-fbi.com/table/\n  官方 https://www.scnet.cn/\n- 百度千帆：千帆企业版 Token Plan 指定模型闲时 2 折 — 2026-11-30（剩 3 天）\n  指定模型闲时（22:00-次日8:00）调用低至 2 折\n  来源 https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/\n  官方 https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html\n- 腾讯云 Hy4 系列按量五折 — 2026-11-30（剩 3 天）\n  ¥0.25 / ¥1 每百万起｜按量价五折，缓存同折；Hy4 flash 到 11-30，标准版到 12-31\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/buy-guide/1823/130055\n- 腾讯云 Token Plan Auto 统一 11 积分 — 2026-11-30（剩 3 天）\n  ¥0.55 每百万 · 一口价｜不分输入输出按 11 积分扣；同期 Kimi K3 7.5 折、GLM-5.3 5.5 折\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://cloud.tencent.com/document/product/1823/140042\n- 阿里云百炼 Token Plan 新客五折 — 2026-11-30（剩 3 天）\n  新客 ¥19.5 起 / 月｜没买过的账号 Lite ¥19.5、Essential ¥39.5，夜间再 4 折\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://help.aliyun.com/zh/model-studio/token-plan-personal-overview\n\n### 新增免费资源 2 条\n\n- 语音转写免费额度〔海外〕\n  ¥360 起 · 约 238 小时｜AssemblyAI 新号 $50、免绑卡；Deepgram 列 $200，均一次性\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://assemblyai.com/blog/speech-to-text-api-pricing\n\n- Grok 免费档〔海外〕\n  0 元 · 只有文字与语音｜只有文字与语音，图像视频从 Plus 起；输出带水印，付费也去不掉\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://x.ai/grok\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
+ "report_md": "# AI 优惠雷达 · 2026-11-28（12:37）\n\n### 新活动 1 条\n\n- 千问办公（QwenWork，阿里）｜截止 2026-12-02\n  11/26 11:00–12/2 23:59 MiniMax-M3.1-Flash 限免 0 积分、无需领取；同选择器内 Qwen4-Max、GLM-5.4 等其余模型仍按各自系数扣积分。\n  来源 https://token-fbi.com/table/\n  官方 https://qwenwork.cn/\n\n### 即将截止 2 条\n\n- ElevenLabs 黑五年付 — 2026-12-01（剩 3 天）\n  首年 ¥713 起 · 省 55%｜Creator 首年 ¥713、次年 ¥1,584；Pro 首年 ¥3,208\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://elevenlabs.io/pricing\n- 小浣熊 SenseNova 6.8 限免 — 2026-12-01（剩 3 天）\n  限免至 12-01｜免费版每天 300 积分，当日清零\n  来源 https://www.tokentab.cn/deals.html\n  官方 https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421\n\n### 来源异常\n\n- DevTk.AI：解析到 0 条，疑似页面结构变动\n\n"
 }

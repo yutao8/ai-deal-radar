@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T12:52:24+08:00",
- "total": 254,
+ "generated_at": "2026-11-28T12:37:52+08:00",
+ "total": 256,
  "items": [
   {
    "key": "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
@@ -13,7 +13,7 @@
    "basis": "https://www.aliyun.com/activity/hub/qianwenai1111",
    "link_source": "https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/",
    "link_vendor": "https://www.aliyun.com/activity/hub/qianwenai1111",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar",
     "tokentab"
@@ -23,7 +23,7 @@
     "tokentab:bailian-tp"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -37,7 +37,7 @@
    "basis": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
    "link_source": "https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/",
    "link_vendor": "https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar"
    ],
@@ -45,7 +45,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-qianfan-ent-idle-2fold/"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -59,7 +59,7 @@
    "basis": "https://docs.qoder.cn/events/hungerg-free",
    "link_source": "https://aitkradar.cn/deals/manual-qoder-hungerg-free/",
    "link_vendor": "https://docs.qoder.cn/events/hungerg-free",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "aitkradar"
    ],
@@ -67,7 +67,7 @@
     "aitkradar:https://aitkradar.cn/deals/manual-qoder-hungerg-free/"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "AI价格雷达"
   },
   {
@@ -1234,7 +1234,7 @@
    "basis": "https://ai.google.dev/gemini-api/docs/pricing",
    "link_source": "https://apiprice.app/zh/deals/#gemini-4-argon-promo",
    "link_vendor": "https://ai.google.dev/gemini-api/docs/pricing",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "apiprice",
     "tokentab"
@@ -1244,7 +1244,7 @@
     "tokentab:g-gemini-argon"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "apiprice"
   },
   {
@@ -3317,6 +3317,28 @@
    "days_left": null
   },
   {
+   "key": "tokfbi:千问办公（qwenwork，阿里）",
+   "src": "tokfbi",
+   "kind": "deal",
+   "title": "千问办公（QwenWork，阿里）",
+   "cat": "阿里·限时活动",
+   "detail": "11/26 11:00–12/2 23:59 MiniMax-M3.1-Flash 限免 0 积分、无需领取；同选择器内 Qwen4-Max、GLM-5.4 等其余模型仍按各自系数扣积分。",
+   "deadline": "2026-12-02",
+   "basis": "",
+   "link_source": "https://token-fbi.com/table/",
+   "link_vendor": "https://qwenwork.cn/",
+   "srcs": [
+    "tokfbi"
+   ],
+   "keys": [
+    "tokfbi:千问办公（qwenwork，阿里）"
+   ],
+   "is_new": true,
+   "notify": true,
+   "src_name": "Token FBI",
+   "days_left": null
+  },
+  {
    "key": "tokfbi:workbuddy",
    "src": "tokfbi",
    "kind": "deal",
@@ -3327,7 +3349,7 @@
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.codebuddy.cn/events/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -3858,7 +3880,7 @@
    "basis": "https://autoclaw.zhipuai.cn",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://autoclaw.zhipuai.cn/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokfbi"
    ],
@@ -4073,23 +4095,21 @@
    "kind": "deal",
    "title": "七牛云 Conatus Free（1024 免费模型季）",
    "cat": "七牛云·限时活动",
-   "detail": "实名认证后每日 1 亿 Token；单笔充值满 100 元提至每日 10 亿。10/24–11/30，额度每日 0 点重置不结转。",
-   "deadline": "2026-11-30",
+   "detail": "实名认证后每日 1 亿 Token；单笔充值满 100 元提至每日 10 亿。10/24–12/31，额度每日 0 点重置不结转。",
+   "deadline": "2026-12-31",
    "basis": "https://www.qiniu.com/ai/free-models/conatus-2026",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.qiniu.com/ai/free-models/conatus-2026",
-   "days_left": 3,
    "srcs": [
-    "tokentab",
     "tokfbi"
    ],
    "keys": [
-    "tokfbi:七牛云conatusfree（1024免费模型季）",
-    "tokentab:qiniu-1024"
+    "tokfbi:七牛云conatusfree（1024免费模型季）"
    ],
    "is_new": false,
-   "notify": true,
-   "src_name": "Token FBI"
+   "notify": false,
+   "src_name": "Token FBI",
+   "days_left": null
   },
   {
    "key": "tokfbi:商汤小浣熊（办公agent）",
@@ -4170,7 +4190,7 @@
    "basis": "",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://www.scnet.cn/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -4178,7 +4198,7 @@
     "tokfbi:国家超算互联网scnet（双11科研智能体）"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "Token FBI"
   },
   {
@@ -4280,7 +4300,7 @@
    "basis": "https://mp.weixin.qq.com/s/VhcglOceH15bysZcAwsBtw",
    "link_source": "https://token-fbi.com/table/",
    "link_vendor": "https://qoder.com.cn/",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokfbi"
    ],
@@ -4288,7 +4308,7 @@
     "tokfbi:qoderhungerg匿名模型限免（cn个人用户）"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "Token FBI"
   },
   {
@@ -4612,7 +4632,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://autoclaw.zhipuai.cn/blog/news/M11W4/",
-   "days_left": 2,
+   "days_left": 1,
    "srcs": [
     "tokentab"
    ],
@@ -4656,6 +4676,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
@@ -4663,9 +4684,8 @@
     "tokentab:xiaohuanxiong"
    ],
    "is_new": false,
-   "notify": false,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "notify": true,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:zcode-night",
@@ -4788,7 +4808,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -4810,15 +4830,15 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
    "keys": [
     "tokentab:tencent-tp-offpeak"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -4832,7 +4852,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/buy-guide/1823/130055",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -4840,7 +4860,7 @@
     "tokentab:tencent-hy4-half"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -4854,7 +4874,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://cloud.tencent.com/document/product/1823/140042",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -4862,7 +4882,7 @@
     "tokentab:tencent-auto-11"
    ],
    "is_new": false,
-   "notify": true,
+   "notify": false,
    "src_name": "TokenTab 次元塔"
   },
   {
@@ -5062,6 +5082,28 @@
    "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
+  },
+  {
+   "key": "tokentab:qiniu-1024",
+   "src": "tokentab",
+   "kind": "deal",
+   "title": "七牛云 Conatus 免费模型",
+   "cat": "大模型 API",
+   "detail": "认证每日 1 亿 · 充值后 10 亿｜未认证不可调用；充值指满 100 元到账。活动页写 11-30，FAQ 写 12-31",
+   "deadline": "2026-11-30",
+   "basis": "",
+   "link_source": "https://www.tokentab.cn/deals.html",
+   "link_vendor": "https://www.qiniu.com/ai/free-models/conatus-2026",
+   "days_left": 2,
+   "srcs": [
+    "tokentab"
+   ],
+   "keys": [
+    "tokentab:qiniu-1024"
+   ],
+   "is_new": false,
+   "notify": false,
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:yidong-moma",
@@ -5316,7 +5358,7 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://antigravity.google/docs/models",
-   "days_left": 3,
+   "days_left": 2,
    "srcs": [
     "tokentab"
    ],
@@ -5558,16 +5600,16 @@
    "basis": "",
    "link_source": "https://www.tokentab.cn/deals.html",
    "link_vendor": "https://elevenlabs.io/pricing",
+   "days_left": 3,
    "srcs": [
     "tokentab"
    ],
    "keys": [
     "tokentab:g-elevenlabs-bf"
    ],
-   "is_new": true,
+   "is_new": false,
    "notify": true,
-   "src_name": "TokenTab 次元塔",
-   "days_left": null
+   "src_name": "TokenTab 次元塔"
   },
   {
    "key": "tokentab:g-google-student",
@@ -5586,8 +5628,8 @@
    "keys": [
     "tokentab:g-google-student"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5608,8 +5650,8 @@
    "keys": [
     "tokentab:g-stt-credits"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   },
@@ -5630,8 +5672,8 @@
    "keys": [
     "tokentab:g-grok-free"
    ],
-   "is_new": true,
-   "notify": true,
+   "is_new": false,
+   "notify": false,
    "src_name": "TokenTab 次元塔",
    "days_left": null
   }

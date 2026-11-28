@@ -348,7 +348,8 @@
   "tokentab:g-elevenlabs-bf": "2026-11-27",
   "tokentab:g-google-student": "2026-11-27",
   "tokentab:g-stt-credits": "2026-11-27",
-  "tokentab:g-grok-free": "2026-11-27"
+  "tokentab:g-grok-free": "2026-11-27",
+  "tokfbi:千问办公（qwenwork，阿里）": "2026-11-28"
  },
  "expiring_notified": {
   "tokfbi:workbuddy": 0,
@@ -372,8 +373,10 @@
   "tokentab:tencent-auto-11": 3,
   "tokentab:tencent-tp-offpeak": 3,
   "tokentab:bailian-tp": 3,
-  "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/": 3
+  "aitkradar:https://aitkradar.cn/deals/manual-aliyun-tokenplan-personal/": 3,
+  "tokentab:g-elevenlabs-bf": 3,
+  "tokentab:xiaohuanxiong": 3
  },
- "last_run": "2026-11-27T12:52:24+08:00",
+ "last_run": "2026-11-28T12:37:52+08:00",
  "first_run": "2026-10-30T14:13:34+08:00"
 }

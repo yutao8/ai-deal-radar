@@ -1,23 +1,10 @@
-【AI 优惠雷达】11-27 12:52
+【AI 优惠雷达】11-28 12:37
 
 ■ 新活动
-ElevenLabs 黑五年付 ｜ https://elevenlabs.io/pricing
-Google 学生免费一年 ｜ https://gemini.google/students
-腾讯云 Token Plan 空闲时段低价 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042
+千问办公（QwenWork，阿里） ｜ https://qwenwork.cn/
 
 ■ 即将截止
-Gemini 4 Argon 推广价（到 11-30） ｜ 剩 3 天 ｜ https://ai.google.dev/gemini-api/docs/pricing
-Qoder HungerG 匿名模型限免（CN 个人用户） ｜ 剩 3 天 ｜ https://qoder.com.cn/
-Qoder 匿名模型 HungerG 免费体验（11-23~11-30） ｜ 剩 3 天 ｜ https://docs.qoder.cn/events/hungerg-free
-七牛云 Conatus Free（1024 免费模型季） ｜ 剩 3 天 ｜ https://www.qiniu.com/ai/free-models/conatus-2026
-国家超算互联网 SCNet（双 11 科研智能体） ｜ 剩 3 天 ｜ https://www.scnet.cn/
-百度千帆：千帆企业版 Token Plan 指定模型闲时 2 折 ｜ 剩 3 天 ｜ https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html
-腾讯云 Hy4 系列按量五折 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/buy-guide/1823/130055
-腾讯云 Token Plan Auto 统一 11 积分 ｜ 剩 3 天 ｜ https://cloud.tencent.com/document/product/1823/140042
-阿里云百炼Token Plan个人版限时价 ｜ 剩 3 天 ｜ https://www.aliyun.com/activity/hub/qianwenai1111
-
-■ 新增免费资源
-语音转写免费额度 ｜ https://assemblyai.com/blog/speech-to-text-api-pricing
-Grok 免费档 ｜ https://x.ai/grok
+ElevenLabs 黑五年付 ｜ 剩 3 天 ｜ https://elevenlabs.io/pricing
+小浣熊 SenseNova 6.8 限免 ｜ 剩 3 天 ｜ https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421
 
 ⚠ 来源异常：DevTk.AI，本次结果可能不完整
